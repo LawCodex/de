@@ -1,0 +1,709 @@
+---
+title: "Bekanntmachung zu § 850c der Zivilprozessordnung"
+short_title: "Pfändungsfreigrenzenbekanntmachung 2011"
+abbreviation: "PfändfreiGrBek 2011"
+identifier: "BJNR082500011"
+type: notice
+jurisdiction: de
+language: de
+date: 2011-05-09
+consolidated: 2013-04-05
+status: in_force
+citation:
+  - "BGBl I 2011, 825"
+source: "https://www.gesetze-im-internet.de/pf_ndfreigrbek_2011/"
+retrieved: 2026-10-11
+---
+
+# Bekanntmachung zu § 850c der Zivilprozessordnung
+
+> (+++ Textnachweis ab: 17.5.2011 +++)
+
+Auf Grund des § 850c Absatz 2a Satz 2 der Zivilprozessordnung, der durch Artikel 1 Nummer 4 Buchstabe c des Gesetzes vom 13. Dezember 2001 (BGBl. I S. 3638) eingefügt worden ist, wird bekannt gemacht:
+
+- 1\. Die unpfändbaren Beträge nach § 850c Absatz 1 und 2 Satz 2 der Zivilprozessordnung erhöhen sich zum 1. Juli 2011\
+  in Absatz 1 Satz 1
+
+  - von 985,15 auf 1 028,89 Euro monatlich,\
+    von 226,72 auf 236,79 Euro wöchentlich,\
+    von 45,34 auf 47,36 Euro täglich,
+
+  in Absatz 1 Satz 2
+
+  - von 2 182,15 auf 2 279,03 Euro monatlich,\
+    von 502,20 auf 524,49 Euro wöchentlich,\
+    von 100,44 auf 104,90 Euro täglich,\
+    von 370,76 auf 387,22 Euro monatlich,\
+    von 85,32 auf 89,11 Euro wöchentlich,\
+    von 17,06 auf 17,82 Euro täglich,\
+    von 206,56 auf 215,73 Euro monatlich,\
+    von 47,54 auf 49,65 Euro wöchentlich,\
+    von 9,51 auf 9,93 Euro täglich,
+
+  in Absatz 2 Satz 2
+
+  - von 3 020,06 auf 3 154,15 Euro monatlich,\
+    von 695,03 auf 725,89 Euro wöchentlich,\
+    von 139,01 auf 145,18 Euro täglich,
+- 2\. Die unpfändbaren Beträge nach § 850f Absatz 3 Satz 1 und 2 der Zivilprozessordnung erhöhen sich
+
+  - von 2 985,00 auf 3 117,53 Euro monatlich,\
+    von 678,70 auf 708,83 Euro wöchentlich,\
+    von 131,25 auf 137,08 Euro täglich.
+
+Die ab 1. Juli 2011 geltenden Pfändungsfreibeträge ergeben sich im Übrigen aus den als Anhang abgedruckten Tabellen.
+
+## Schlussformel
+
+Die Bundesministerin der Justiz
+
+## Anhang
+
+(Fundstelle: BGBl. I 2011, 826 - 840)
+
+**Auszahlung für Monate**
+
+<table>
+<thead>
+<tr><th></th><th colspan="6">Pfändbarer Betrag bei<br> Unterhaltspflicht für ... Personen</th></tr>
+<tr><th>Nettolohn<br> monatlich</th><th>0</th><th>1</th><th>2</th><th>3</th><th>4</th><th>5 und<br> mehr</th></tr>
+<tr><th colspan="7">in Euro</th></tr>
+</thead>
+<tbody>
+<tr><td>bis 1 029,99</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>1 030,00 bis 1 039,99</td><td>0,78</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>1 040,00 bis 1 049,99</td><td>7,78</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>1 050,00 bis 1 059,99</td><td>14,78</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>1 060,00 bis 1 069,99</td><td>21,78</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>1 070,00 bis 1 079,99</td><td>28,78</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>1 080,00 bis 1 089,99</td><td>35,78</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>1 090,00 bis 1 099,99</td><td>42,78</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>1 100,00 bis 1 109,99</td><td>49,78</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>1 110,00 bis 1 119,99</td><td>56,78</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>1 120,00 bis 1 129,99</td><td>63,78</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>1 130,00 bis 1 139,99</td><td>70,78</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>1 140,00 bis 1 149,99</td><td>77,78</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>1 150,00 bis 1 159,99</td><td>84,78</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>1 160,00 bis 1 169,99</td><td>91,78</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>1 170,00 bis 1 179,99</td><td>98,78</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>1 180,00 bis 1 189,99</td><td>105,78</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>1 190,00 bis 1 199,99</td><td>112,78</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>1 200,00 bis 1 209,99</td><td>119,78</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>1 210,00 bis 1 219,99</td><td>126,78</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>1 220,00 bis 1 229,99</td><td>133,78</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>1 230,00 bis 1 239,99</td><td>140,78</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>1 240,00 bis 1 249,99</td><td>147,78</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>1 250,00 bis 1 259,99</td><td>154,78</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>1 260,00 bis 1 269,99</td><td>161,78</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>1 270,00 bis 1 279,99</td><td>168,78</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>1 280,00 bis 1 289,99</td><td>175,78</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>1 290,00 bis 1 299,99</td><td>182,78</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>1 300,00 bis 1 309,99</td><td>189,78</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>1 310,00 bis 1 319,99</td><td>196,78</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>1 320,00 bis 1 329,99</td><td>203,78</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>1 330,00 bis 1 339,99</td><td>210,78</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>1 340,00 bis 1 349,99</td><td>217,78</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>1 350,00 bis 1 359,99</td><td>224,78</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>1 360,00 bis 1 369,99</td><td>231,78</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>1 370,00 bis 1 379,99</td><td>238,78</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>1 380,00 bis 1 389,99</td><td>245,78</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>1 390,00 bis 1 399,99</td><td>252,78</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>1 400,00 bis 1 409,99</td><td>259,78</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>1 410,00 bis 1 419,99</td><td>266,78</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>1 420,00 bis 1 429,99</td><td>273,78</td><td>1,95</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>1 430,00 bis 1 439,99</td><td>280,78</td><td>6,95</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>1 440,00 bis 1 449,99</td><td>287,78</td><td>11,95</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>1 450,00 bis 1 459,99</td><td>294,78</td><td>16,95</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>1 460,00 bis 1 469,99</td><td>301,78</td><td>21,95</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>1 470,00 bis 1 479,99</td><td>308,78</td><td>26,95</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>1 480,00 bis 1 489,99</td><td>315,78</td><td>31,95</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>1 490,00 bis 1 499,99</td><td>322,78</td><td>36,95</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>1 500,00 bis 1 509,99</td><td>329,78</td><td>41,95</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>1 510,00 bis 1 519,99</td><td>336,78</td><td>46,95</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>1 520,00 bis 1 529,99</td><td>343,78</td><td>51,95</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>1 530,00 bis 1 539,99</td><td>350,78</td><td>56,95</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>1 540,00 bis 1 549,99</td><td>357,78</td><td>61,95</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>1 550,00 bis 1 559,99</td><td>364,78</td><td>66,95</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>1 560,00 bis 1 569,99</td><td>371,78</td><td>71,95</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>1 570,00 bis 1 579,99</td><td>378,78</td><td>76,95</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>1 580,00 bis 1 589,99</td><td>385,78</td><td>81,95</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>1 590,00 bis 1 599,99</td><td>392,78</td><td>86,95</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>1 600,00 bis 1 609,99</td><td>399,78</td><td>91,95</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>1 610,00 bis 1 619,99</td><td>406,78</td><td>96,95</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>1 620,00 bis 1 629,99</td><td>413,78</td><td>101,95</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>1 630,00 bis 1 639,99</td><td>420,78</td><td>106,95</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>1 640,00 bis 1 649,99</td><td>427,78</td><td>111,95</td><td>3,26</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>1 650,00 bis 1 659,99</td><td>434,78</td><td>116,95</td><td>7,26</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>1 660,00 bis 1 669,99</td><td>441,78</td><td>121,95</td><td>11,26</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>1 670,00 bis 1 679,99</td><td>448,78</td><td>126,95</td><td>15,26</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>1 680,00 bis 1 689,99</td><td>455,78</td><td>131,95</td><td>19,26</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>1 690,00 bis 1 699,99</td><td>462,78</td><td>136,95</td><td>23,26</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>1 700,00 bis 1 709,99</td><td>469,78</td><td>141,95</td><td>27,26</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>1 710,00 bis 1 719,99</td><td>476,78</td><td>146,95</td><td>31,26</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>1 720,00 bis 1 729,99</td><td>483,78</td><td>151,95</td><td>35,26</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>1 730,00 bis 1 739,99</td><td>490,78</td><td>156,95</td><td>39,26</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>1 740,00 bis 1 749,99</td><td>497,78</td><td>161,95</td><td>43,26</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>1 750,00 bis 1 759,99</td><td>504,78</td><td>166,95</td><td>47,26</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>1 760,00 bis 1 769,99</td><td>511,78</td><td>171,95</td><td>51,26</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>1 770,00 bis 1 779,99</td><td>518,78</td><td>176,95</td><td>55,26</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>1 780,00 bis 1 789,99</td><td>525,78</td><td>181,95</td><td>59,26</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>1 790,00 bis 1 799,99</td><td>532,78</td><td>186,95</td><td>63,26</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>1 800,00 bis 1 809,99</td><td>539,78</td><td>191,95</td><td>67,26</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>1 810,00 bis 1 819,99</td><td>546,78</td><td>196,95</td><td>71,26</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>1 820,00 bis 1 829,99</td><td>553,78</td><td>201,95</td><td>75,26</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>1 830,00 bis 1 839,99</td><td>560,78</td><td>206,95</td><td>79,26</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>1 840,00 bis 1 849,99</td><td>567,78</td><td>211,95</td><td>83,26</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>1 850,00 bis 1 859,99</td><td>574,78</td><td>216,95</td><td>87,26</td><td>0,73</td><td>–</td><td>–</td></tr>
+<tr><td>1 860,00 bis 1 869,99</td><td>581,78</td><td>221,95</td><td>91,26</td><td>3,73</td><td>–</td><td>–</td></tr>
+<tr><td>1 870,00 bis 1 879,99</td><td>588,78</td><td>226,95</td><td>95,26</td><td>6,73</td><td>–</td><td>–</td></tr>
+<tr><td>1 880,00 bis 1 889,99</td><td>595,78</td><td>231,95</td><td>99,26</td><td>9,73</td><td>–</td><td>–</td></tr>
+<tr><td>1 890,00 bis 1 899,99</td><td>602,78</td><td>236,95</td><td>103,26</td><td>12,73</td><td>–</td><td>–</td></tr>
+<tr><td>1 900,00 bis 1 909,99</td><td>609,78</td><td>241,95</td><td>107,26</td><td>15,73</td><td>–</td><td>–</td></tr>
+<tr><td>1 910,00 bis 1 919,99</td><td>616,78</td><td>246,95</td><td>111,26</td><td>18,73</td><td>–</td><td>–</td></tr>
+<tr><td>1 920,00 bis 1 929,99</td><td>623,78</td><td>251,95</td><td>115,26</td><td>21,73</td><td>–</td><td>–</td></tr>
+<tr><td>1 930,00 bis 1 939,99</td><td>630,78</td><td>256,95</td><td>119,26</td><td>24,73</td><td>–</td><td>–</td></tr>
+<tr><td>1 940,00 bis 1 949,99</td><td>637,78</td><td>261,95</td><td>123,26</td><td>27,73</td><td>–</td><td>–</td></tr>
+<tr><td>1 950,00 bis 1 959,99</td><td>644,78</td><td>266,95</td><td>127,26</td><td>30,73</td><td>–</td><td>–</td></tr>
+<tr><td>1 960,00 bis 1 969,99</td><td>651,78</td><td>271,95</td><td>131,26</td><td>33,73</td><td>–</td><td>–</td></tr>
+<tr><td>1 970,00 bis 1 979,99</td><td>658,78</td><td>276,95</td><td>135,26</td><td>36,73</td><td>–</td><td>–</td></tr>
+<tr><td>1 980,00 bis 1 989,99</td><td>665,78</td><td>281,95</td><td>139,26</td><td>39,73</td><td>–</td><td>–</td></tr>
+<tr><td>1 990,00 bis 1 999,99</td><td>672,78</td><td>286,95</td><td>143,26</td><td>42,73</td><td>–</td><td>–</td></tr>
+<tr><td>2 000,00 bis 2 009,99</td><td>679,78</td><td>291,95</td><td>147,26</td><td>45,73</td><td>–</td><td>–</td></tr>
+<tr><td>2 010,00 bis 2 019,99</td><td>686,78</td><td>296,95</td><td>151,26</td><td>48,73</td><td>–</td><td>–</td></tr>
+<tr><td>2 020,00 bis 2 029,99</td><td>693,78</td><td>301,95</td><td>155,26</td><td>51,73</td><td>–</td><td>–</td></tr>
+<tr><td>2 030,00 bis 2 039,99</td><td>700,78</td><td>306,95</td><td>159,26</td><td>54,73</td><td>–</td><td>–</td></tr>
+<tr><td>2 040,00 bis 2 049,99</td><td>707,78</td><td>311,95</td><td>163,26</td><td>57,73</td><td>–</td><td>–</td></tr>
+<tr><td>2 050,00 bis 2 059,99</td><td>714,78</td><td>316,95</td><td>167,26</td><td>60,73</td><td>–</td><td>–</td></tr>
+<tr><td>2 060,00 bis 2 069,99</td><td>721,78</td><td>321,95</td><td>171,26</td><td>63,73</td><td>–</td><td>–</td></tr>
+<tr><td>2 070,00 bis 2 079,99</td><td>728,78</td><td>326,95</td><td>175,26</td><td>66,73</td><td>1,34</td><td>–</td></tr>
+<tr><td>2 080,00 bis 2 089,99</td><td>735,78</td><td>331,95</td><td>179,26</td><td>69,73</td><td>3,34</td><td>–</td></tr>
+<tr><td>2 090,00 bis 2 099,99</td><td>742,78</td><td>336,95</td><td>183,26</td><td>72,73</td><td>5,34</td><td>–</td></tr>
+<tr><td>2 100,00 bis 2 109,99</td><td>749,78</td><td>341,95</td><td>187,26</td><td>75,73</td><td>7,34</td><td>–</td></tr>
+<tr><td>2 110,00 bis 2 119,99</td><td>756,78</td><td>346,95</td><td>191,26</td><td>78,73</td><td>9,34</td><td>–</td></tr>
+<tr><td>2 120,00 bis 2 129,99</td><td>763,78</td><td>351,95</td><td>195,26</td><td>81,73</td><td>11,34</td><td>–</td></tr>
+<tr><td>2 130,00 bis 2 139,99</td><td>770,78</td><td>356,95</td><td>199,26</td><td>84,73</td><td>13,34</td><td>–</td></tr>
+<tr><td>2 140,00 bis 2 149,99</td><td>777,78</td><td>361,95</td><td>203,26</td><td>87,73</td><td>15,34</td><td>–</td></tr>
+<tr><td>2 150,00 bis 2 159,99</td><td>784,78</td><td>366,95</td><td>207,26</td><td>90,73</td><td>17,34</td><td>–</td></tr>
+<tr><td>2 160,00 bis 2 169,99</td><td>791,78</td><td>371,95</td><td>211,26</td><td>93,73</td><td>19,34</td><td>–</td></tr>
+<tr><td>2 170,00 bis 2 179,99</td><td>798,78</td><td>376,95</td><td>215,26</td><td>96,73</td><td>21,34</td><td>–</td></tr>
+<tr><td>2 180,00 bis 2 189,99</td><td>805,78</td><td>381,95</td><td>219,26</td><td>99,73</td><td>23,34</td><td>–</td></tr>
+<tr><td>2 190,00 bis 2 199,99</td><td>812,78</td><td>386,95</td><td>223,26</td><td>102,73</td><td>25,34</td><td>–</td></tr>
+<tr><td>2 200,00 bis 2 209,99</td><td>819,78</td><td>391,95</td><td>227,26</td><td>105,73</td><td>27,34</td><td>–</td></tr>
+<tr><td>2 210,00 bis 2 219,99</td><td>826,78</td><td>396,95</td><td>231,26</td><td>108,73</td><td>29,34</td><td>–</td></tr>
+<tr><td>2 220,00 bis 2 229,99</td><td>833,78</td><td>401,95</td><td>235,26</td><td>111,73</td><td>31,34</td><td>–</td></tr>
+<tr><td>2 230,00 bis 2 239,99</td><td>840,78</td><td>406,95</td><td>239,26</td><td>114,73</td><td>33,34</td><td>–</td></tr>
+<tr><td>2 240,00 bis 2 249,99</td><td>847,78</td><td>411,95</td><td>243,26</td><td>117,73</td><td>35,34</td><td>–</td></tr>
+<tr><td>2 250,00 bis 2 259,99</td><td>854,78</td><td>416,95</td><td>247,26</td><td>120,73</td><td>37,34</td><td>–</td></tr>
+<tr><td>2 260,00 bis 2 269,99</td><td>861,78</td><td>421,95</td><td>251,26</td><td>123,73</td><td>39,34</td><td>–</td></tr>
+<tr><td>2 270,00 bis 2 279,99</td><td>868,78</td><td>426,95</td><td>255,26</td><td>126,73</td><td>41,34</td><td>–</td></tr>
+<tr><td>2 280,00 bis 2 289,99</td><td>875,78</td><td>431,95</td><td>259,26</td><td>129,73</td><td>43,34</td><td>0,10</td></tr>
+<tr><td>2 290,00 bis 2 299,99</td><td>882,78</td><td>436,95</td><td>263,26</td><td>132,73</td><td>45,34</td><td>1,10</td></tr>
+<tr><td>2 300,00 bis 2 309,99</td><td>889,78</td><td>441,95</td><td>267,26</td><td>135,73</td><td>47,34</td><td>2,10</td></tr>
+<tr><td>2 310,00 bis 2 319,99</td><td>896,78</td><td>446,95</td><td>271,26</td><td>138,73</td><td>49,34</td><td>3,10</td></tr>
+<tr><td>2 320,00 bis 2 329,99</td><td>903,78</td><td>451,95</td><td>275,26</td><td>141,73</td><td>51,34</td><td>4,10</td></tr>
+<tr><td>2 330,00 bis 2 339,99</td><td>910,78</td><td>456,95</td><td>279,26</td><td>144,73</td><td>53,34</td><td>5,10</td></tr>
+<tr><td>2 340,00 bis 2 349,99</td><td>917,78</td><td>461,95</td><td>283,26</td><td>147,73</td><td>55,34</td><td>6,10</td></tr>
+<tr><td>2 350,00 bis 2 359,99</td><td>924,78</td><td>466,95</td><td>287,26</td><td>150,73</td><td>57,34</td><td>7,10</td></tr>
+<tr><td>2 360,00 bis 2 369,99</td><td>931,78</td><td>471,95</td><td>291,26</td><td>153,73</td><td>59,34</td><td>8,10</td></tr>
+<tr><td>2 370,00 bis 2 379,99</td><td>938,78</td><td>476,95</td><td>295,26</td><td>156,73</td><td>61,34</td><td>9,10</td></tr>
+<tr><td>2 380,00 bis 2 389,99</td><td>945,78</td><td>481,95</td><td>299,26</td><td>159,73</td><td>63,34</td><td>10,10</td></tr>
+<tr><td>2 390,00 bis 2 399,99</td><td>952,78</td><td>486,95</td><td>303,26</td><td>162,73</td><td>65,34</td><td>11,10</td></tr>
+<tr><td>2 400,00 bis 2 409,99</td><td>959,78</td><td>491,95</td><td>307,26</td><td>165,73</td><td>67,34</td><td>12,10</td></tr>
+<tr><td>2 410,00 bis 2 419,99</td><td>966,78</td><td>496,95</td><td>311,26</td><td>168,73</td><td>69,34</td><td>13,10</td></tr>
+<tr><td>2 420,00 bis 2 429,99</td><td>973,78</td><td>501,95</td><td>315,26</td><td>171,73</td><td>71,34</td><td>14,10</td></tr>
+<tr><td>2 430,00 bis 2 439,99</td><td>980,78</td><td>506,95</td><td>319,26</td><td>174,73</td><td>73,34</td><td>15,10</td></tr>
+<tr><td>2 440,00 bis 2 449,99</td><td>987,78</td><td>511,95</td><td>323,26</td><td>177,73</td><td>75,34</td><td>16,10</td></tr>
+<tr><td>2 450,00 bis 2 459,99</td><td>994,78</td><td>516,95</td><td>327,26</td><td>180,73</td><td>77,34</td><td>17,10</td></tr>
+<tr><td>2 460,00 bis 2 469,99</td><td>1 001,78</td><td>521,95</td><td>331,26</td><td>183,73</td><td>79,34</td><td>18,10</td></tr>
+<tr><td>2 470,00 bis 2 479,99</td><td>1 008,78</td><td>526,95</td><td>335,26</td><td>186,73</td><td>81,34</td><td>19,10</td></tr>
+<tr><td>2 480,00 bis 2 489,99</td><td>1 015,78</td><td>531,95</td><td>339,26</td><td>189,73</td><td>83,34</td><td>20,10</td></tr>
+<tr><td>2 490,00 bis 2 499,99</td><td>1 022,78</td><td>536,95</td><td>343,26</td><td>192,73</td><td>85,34</td><td>21,10</td></tr>
+<tr><td>2 500,00 bis 2 509,99</td><td>1 029,78</td><td>541,95</td><td>347,26</td><td>195,73</td><td>87,34</td><td>22,10</td></tr>
+<tr><td>2 510,00 bis 2 519,99</td><td>1 036,78</td><td>546,95</td><td>351,26</td><td>198,73</td><td>89,34</td><td>23,10</td></tr>
+<tr><td>2 520,00 bis 2 529,99</td><td>1 043,78</td><td>551,95</td><td>355,26</td><td>201,73</td><td>91,34</td><td>24,10</td></tr>
+<tr><td>2 530,00 bis 2 539,99</td><td>1 050,78</td><td>556,95</td><td>359,26</td><td>204,73</td><td>93,34</td><td>25,10</td></tr>
+<tr><td>2 540,00 bis 2 549,99</td><td>1 057,78</td><td>561,95</td><td>363,26</td><td>207,73</td><td>95,34</td><td>26,10</td></tr>
+<tr><td>2 550,00 bis 2 559,99</td><td>1 064,78</td><td>566,95</td><td>367,26</td><td>210,73</td><td>97,34</td><td>27,10</td></tr>
+<tr><td>2 560,00 bis 2 569,99</td><td>1 071,78</td><td>571,95</td><td>371,26</td><td>213,73</td><td>99,34</td><td>28,10</td></tr>
+<tr><td>2 570,00 bis 2 579,99</td><td>1 078,78</td><td>576,95</td><td>375,26</td><td>216,73</td><td>101,34</td><td>29,10</td></tr>
+<tr><td>2 580,00 bis 2 589,99</td><td>1 085,78</td><td>581,95</td><td>379,26</td><td>219,73</td><td>103,34</td><td>30,10</td></tr>
+<tr><td>2 590,00 bis 2 599,99</td><td>1 092,78</td><td>586,95</td><td>383,26</td><td>222,73</td><td>105,34</td><td>31,10</td></tr>
+<tr><td>2 600,00 bis 2 609,99</td><td>1 099,78</td><td>591,95</td><td>387,26</td><td>225,73</td><td>107,34</td><td>32,10</td></tr>
+<tr><td>2 610,00 bis 2 619,99</td><td>1 106,78</td><td>596,95</td><td>391,26</td><td>228,73</td><td>109,34</td><td>33,10</td></tr>
+<tr><td>2 620,00 bis 2 629,99</td><td>1 113,78</td><td>601,95</td><td>395,26</td><td>231,73</td><td>111,34</td><td>34,10</td></tr>
+<tr><td>2 630,00 bis 2 639,99</td><td>1 120,78</td><td>606,95</td><td>399,26</td><td>234,73</td><td>113,34</td><td>35,10</td></tr>
+<tr><td>2 640,00 bis 2 649,99</td><td>1 127,78</td><td>611,95</td><td>403,26</td><td>237,73</td><td>115,34</td><td>36,10</td></tr>
+<tr><td>2 650,00 bis 2 659,99</td><td>1 134,78</td><td>616,95</td><td>407,26</td><td>240,73</td><td>117,34</td><td>37,10</td></tr>
+<tr><td>2 660,00 bis 2 669,99</td><td>1 141,78</td><td>621,95</td><td>411,26</td><td>243,73</td><td>119,34</td><td>38,10</td></tr>
+<tr><td>2 670,00 bis 2 679,99</td><td>1 148,78</td><td>626,95</td><td>415,26</td><td>246,73</td><td>121,34</td><td>39,10</td></tr>
+<tr><td>2 680,00 bis 2 689,99</td><td>1 155,78</td><td>631,95</td><td>419,26</td><td>249,73</td><td>123,34</td><td>40,10</td></tr>
+<tr><td>2 690,00 bis 2 699,99</td><td>1 162,78</td><td>636,95</td><td>423,26</td><td>252,73</td><td>125,34</td><td>41,10</td></tr>
+<tr><td>2 700,00 bis 2 709,99</td><td>1 169,78</td><td>641,95</td><td>427,26</td><td>255,73</td><td>127,34</td><td>42,10</td></tr>
+<tr><td>2 710,00 bis 2 719,99</td><td>1 176,78</td><td>646,95</td><td>431,26</td><td>258,73</td><td>129,34</td><td>43,10</td></tr>
+<tr><td>2 720,00 bis 2 729,99</td><td>1 183,78</td><td>651,95</td><td>435,26</td><td>261,73</td><td>131,34</td><td>44,10</td></tr>
+<tr><td>2 730,00 bis 2 739,99</td><td>1 190,78</td><td>656,95</td><td>439,26</td><td>264,73</td><td>133,34</td><td>45,10</td></tr>
+<tr><td>2 740,00 bis 2 749,99</td><td>1 197,78</td><td>661,95</td><td>443,26</td><td>267,73</td><td>135,34</td><td>46,10</td></tr>
+<tr><td>2 750,00 bis 2 759,99</td><td>1 204,78</td><td>666,95</td><td>447,26</td><td>270,73</td><td>137,34</td><td>47,10</td></tr>
+<tr><td>2 760,00 bis 2 769,99</td><td>1 211,78</td><td>671,95</td><td>451,26</td><td>273,73</td><td>139,34</td><td>48,10</td></tr>
+<tr><td>2 770,00 bis 2 779,99</td><td>1 218,78</td><td>676,95</td><td>455,26</td><td>276,73</td><td>141,34</td><td>49,10</td></tr>
+<tr><td>2 780,00 bis 2 789,99</td><td>1 225,78</td><td>681,95</td><td>459,26</td><td>279,73</td><td>143,34</td><td>50,10</td></tr>
+<tr><td>2 790,00 bis 2 799,99</td><td>1 232,78</td><td>686,95</td><td>463,26</td><td>282,73</td><td>145,34</td><td>51,10</td></tr>
+<tr><td>2 800,00 bis 2 809,99</td><td>1 239,78</td><td>691,95</td><td>467,26</td><td>285,73</td><td>147,34</td><td>52,10</td></tr>
+<tr><td>2 810,00 bis 2 819,99</td><td>1 246,78</td><td>696,95</td><td>471,26</td><td>288,73</td><td>149,34</td><td>53,10</td></tr>
+<tr><td>2 820,00 bis 2 829,99</td><td>1 253,78</td><td>701,95</td><td>475,26</td><td>291,73</td><td>151,34</td><td>54,10</td></tr>
+<tr><td>2 830,00 bis 2 839,99</td><td>1 260,78</td><td>706,95</td><td>479,26</td><td>294,73</td><td>153,34</td><td>55,10</td></tr>
+<tr><td>2 840,00 bis 2 849,99</td><td>1 267,78</td><td>711,95</td><td>483,26</td><td>297,73</td><td>155,34</td><td>56,10</td></tr>
+<tr><td>2 850,00 bis 2 859,99</td><td>1 274,78</td><td>716,95</td><td>487,26</td><td>300,73</td><td>157,34</td><td>57,10</td></tr>
+<tr><td>2 860,00 bis 2 869,99</td><td>1 281,78</td><td>721,95</td><td>491,26</td><td>303,73</td><td>159,34</td><td>58,10</td></tr>
+<tr><td>2 870,00 bis 2 879,99</td><td>1 288,78</td><td>726,95</td><td>495,26</td><td>306,73</td><td>161,34</td><td>59,10</td></tr>
+<tr><td>2 880,00 bis 2 889,99</td><td>1 295,78</td><td>731,95</td><td>499,26</td><td>309,73</td><td>163,34</td><td>60,10</td></tr>
+<tr><td>2 890,00 bis 2 899,99</td><td>1 302,78</td><td>736,95</td><td>503,26</td><td>312,73</td><td>165,34</td><td>61,10</td></tr>
+<tr><td>2 900,00 bis 2 909,99</td><td>1 309,78</td><td>741,95</td><td>507,26</td><td>315,73</td><td>167,34</td><td>62,10</td></tr>
+<tr><td>2 910,00 bis 2 919,99</td><td>1 316,78</td><td>746,95</td><td>511,26</td><td>318,73</td><td>169,34</td><td>63,10</td></tr>
+<tr><td>2 920,00 bis 2 929,99</td><td>1 323,78</td><td>751,95</td><td>515,26</td><td>321,73</td><td>171,34</td><td>64,10</td></tr>
+<tr><td>2 930,00 bis 2 939,99</td><td>1 330,78</td><td>756,95</td><td>519,26</td><td>324,73</td><td>173,34</td><td>65,10</td></tr>
+<tr><td>2 940,00 bis 2 949,99</td><td>1 337,78</td><td>761,95</td><td>523,26</td><td>327,73</td><td>175,34</td><td>66,10</td></tr>
+<tr><td>2 950,00 bis 2 959,99</td><td>1 344,78</td><td>766,95</td><td>527,26</td><td>330,73</td><td>177,34</td><td>67,10</td></tr>
+<tr><td>2 960,00 bis 2 969,99</td><td>1 351,78</td><td>771,95</td><td>531,26</td><td>333,73</td><td>179,34</td><td>68,10</td></tr>
+<tr><td>2 970,00 bis 2 979,99</td><td>1 358,78</td><td>776,95</td><td>535,26</td><td>336,73</td><td>181,34</td><td>69,10</td></tr>
+<tr><td>2 980,00 bis 2 989,99</td><td>1 365,78</td><td>781,95</td><td>539,26</td><td>339,73</td><td>183,34</td><td>70,10</td></tr>
+<tr><td>2 990,00 bis 2 999,99</td><td>1 372,78</td><td>786,95</td><td>543,26</td><td>342,73</td><td>185,34</td><td>71,10</td></tr>
+<tr><td>3 000,00 bis 3 009,99</td><td>1 379,78</td><td>791,95</td><td>547,26</td><td>345,73</td><td>187,34</td><td>72,10</td></tr>
+<tr><td>3 010,00 bis 3 019,99</td><td>1 386,78</td><td>796,95</td><td>551,26</td><td>348,73</td><td>189,34</td><td>73,10</td></tr>
+<tr><td>3 020,00 bis 3 029,99</td><td>1 393,78</td><td>801,95</td><td>555,26</td><td>351,73</td><td>191,34</td><td>74,10</td></tr>
+<tr><td>3 030,00 bis 3 039,99</td><td>1 400,78</td><td>806,95</td><td>559,26</td><td>354,73</td><td>193,34</td><td>75,10</td></tr>
+<tr><td>3 040,00 bis 3 049,99</td><td>1 407,78</td><td>811,95</td><td>563,26</td><td>357,73</td><td>195,34</td><td>76,10</td></tr>
+<tr><td>3 050,00 bis 3 059,99</td><td>1 414,78</td><td>816,95</td><td>567,26</td><td>360,73</td><td>197,34</td><td>77,10</td></tr>
+<tr><td>3 060,00 bis 3 069,99</td><td>1 421,78</td><td>821,95</td><td>571,26</td><td>363,73</td><td>199,34</td><td>78,10</td></tr>
+<tr><td>3 070,00 bis 3 079,99</td><td>1 428,78</td><td>826,95</td><td>575,26</td><td>366,73</td><td>201,34</td><td>79,10</td></tr>
+<tr><td>3 080,00 bis 3 089,99</td><td>1 435,78</td><td>831,95</td><td>579,26</td><td>369,73</td><td>203,34</td><td>80,10</td></tr>
+<tr><td>3 090,00 bis 3 099,99</td><td>1 442,78</td><td>836,95</td><td>583,26</td><td>372,73</td><td>205,34</td><td>81,10</td></tr>
+<tr><td>3 100,00 bis 3 109,99</td><td>1 449,78</td><td>841,95</td><td>587,26</td><td>375,73</td><td>207,34</td><td>82,10</td></tr>
+<tr><td>3 110,00 bis 3 119,99</td><td>1 456,78</td><td>846,95</td><td>591,26</td><td>378,73</td><td>209,34</td><td>83,10</td></tr>
+<tr><td>3 120,00 bis 3 129,99</td><td>1 463,78</td><td>851,95</td><td>595,26</td><td>381,73</td><td>211,34</td><td>84,10</td></tr>
+<tr><td>3 130,00 bis 3 139,99</td><td>1 470,78</td><td>856,95</td><td>599,26</td><td>384,73</td><td>213,34</td><td>85,10</td></tr>
+<tr><td>3 140,00 bis 3 149,99</td><td>1 477,78</td><td>861,95</td><td>603,26</td><td>387,73</td><td>215,34</td><td>86,10</td></tr>
+<tr><td>3 150,00 bis 3 154,15</td><td>1 484,78</td><td>866,95</td><td>607,26</td><td>390,73</td><td>217,34</td><td>87,10</td></tr>
+<tr><td colspan="7">Der Mehrbetrag über 3 154,15 Euro ist voll pfändbar.</td></tr>
+</tbody>
+</table>
+
+**Auszahlung für Wochen**
+
+<table>
+<thead>
+<tr><th></th><th colspan="6">Pfändbarer Betrag bei<br> Unterhaltspflicht für ... Personen</th></tr>
+<tr><th>Nettolohn<br> wöchentlich</th><th>0</th><th>1</th><th>2</th><th>3</th><th>4</th><th>5 und<br> mehr</th></tr>
+<tr><th colspan="7">in Euro</th></tr>
+</thead>
+<tbody>
+<tr><td>bis 237,49</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>237,50 bis 239,99</td><td>0,50</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>240,00 bis 242,49</td><td>2,25</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>242,50 bis 244,99</td><td>4,00</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>245,00 bis 247,49</td><td>5,75</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>247,50 bis 249,99</td><td>7,50</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>250,00 bis 252,49</td><td>9,25</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>252,50 bis 254,99</td><td>11,00</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>255,00 bis 257,49</td><td>12,75</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>257,50 bis 259,99</td><td>14,50</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>260,00 bis 262,49</td><td>16,25</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>262,50 bis 264,99</td><td>18,00</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>265,00 bis 267,49</td><td>19,75</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>267,50 bis 269,99</td><td>21,50</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>270,00 bis 272,49</td><td>23,25</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>272,50 bis 274,99</td><td>25,00</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>275,00 bis 277,49</td><td>26,75</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>277,50 bis 279,99</td><td>28,50</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>280,00 bis 282,49</td><td>30,25</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>282,50 bis 284,99</td><td>32,00</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>285,00 bis 287,49</td><td>33,75</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>287,50 bis 289,99</td><td>35,50</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>290,00 bis 292,49</td><td>37,25</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>292,50 bis 294,99</td><td>39,00</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>295,00 bis 297,49</td><td>40,75</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>297,50 bis 299,99</td><td>42,50</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>300,00 bis 302,49</td><td>44,25</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>302,50 bis 304,99</td><td>46,00</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>305,00 bis 307,49</td><td>47,75</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>307,50 bis 309,99</td><td>49,50</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>310,00 bis 312,49</td><td>51,25</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>312,50 bis 314,99</td><td>53,00</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>315,00 bis 317,49</td><td>54,75</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>317,50 bis 319,99</td><td>56,50</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>320,00 bis 322,49</td><td>58,25</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>322,50 bis 324,99</td><td>60,00</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>325,00 bis 327,49</td><td>61,75</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>327,50 bis 329,99</td><td>63,50</td><td>0,80</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>330,00 bis 332,49</td><td>65,25</td><td>2,05</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>332,50 bis 334,99</td><td>67,00</td><td>3,30</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>335,00 bis 337,49</td><td>68,75</td><td>4,55</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>337,50 bis 339,99</td><td>70,50</td><td>5,80</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>340,00 bis 342,49</td><td>72,25</td><td>7,05</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>342,50 bis 344,99</td><td>74,00</td><td>8,30</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>345,00 bis 347,49</td><td>75,75</td><td>9,55</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>347,50 bis 349,99</td><td>77,50</td><td>10,80</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>350,00 bis 352,49</td><td>79,25</td><td>12,05</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>352,50 bis 354,99</td><td>81,00</td><td>13,30</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>355,00 bis 357,49</td><td>82,75</td><td>14,55</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>357,50 bis 359,99</td><td>84,50</td><td>15,80</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>360,00 bis 362,49</td><td>86,25</td><td>17,05</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>362,50 bis 364,99</td><td>88,00</td><td>18,30</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>365,00 bis 367,49</td><td>89,75</td><td>19,55</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>367,50 bis 369,99</td><td>91,50</td><td>20,80</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>370,00 bis 372,49</td><td>93,25</td><td>22,05</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>372,50 bis 374,99</td><td>95,00</td><td>23,30</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>375,00 bis 377,49</td><td>96,75</td><td>24,55</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>377,50 bis 379,99</td><td>98,50</td><td>25,80</td><td>0,78</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>380,00 bis 382,49</td><td>100,25</td><td>27,05</td><td>1,78</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>382,50 bis 384,99</td><td>102,00</td><td>28,30</td><td>2,78</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>385,00 bis 387,49</td><td>103,75</td><td>29,55</td><td>3,78</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>387,50 bis 389,99</td><td>105,50</td><td>30,80</td><td>4,78</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>390,00 bis 392,49</td><td>107,25</td><td>32,05</td><td>5,78</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>392,50 bis 394,99</td><td>109,00</td><td>33,30</td><td>6,78</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>395,00 bis 397,49</td><td>110,75</td><td>34,55</td><td>7,78</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>397,50 bis 399,99</td><td>112,50</td><td>35,80</td><td>8,78</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>400,00 bis 402,49</td><td>114,25</td><td>37,05</td><td>9,78</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>402,50 bis 404,99</td><td>116,00</td><td>38,30</td><td>10,78</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>405,00 bis 407,49</td><td>117,75</td><td>39,55</td><td>11,78</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>407,50 bis 409,99</td><td>119,50</td><td>40,80</td><td>12,78</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>410,00 bis 412,49</td><td>121,25</td><td>42,05</td><td>13,78</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>412,50 bis 414,99</td><td>123,00</td><td>43,30</td><td>14,78</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>415,00 bis 417,49</td><td>124,75</td><td>44,55</td><td>15,78</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>417,50 bis 419,99</td><td>126,50</td><td>45,80</td><td>16,78</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>420,00 bis 422,49</td><td>128,25</td><td>47,05</td><td>17,78</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>422,50 bis 424,99</td><td>130,00</td><td>48,30</td><td>18,78</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>425,00 bis 427,49</td><td>131,75</td><td>49,55</td><td>19,78</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>427,50 bis 429,99</td><td>133,50</td><td>50,80</td><td>20,78</td><td>0,69</td><td>–</td><td>–</td></tr>
+<tr><td>430,00 bis 432,49</td><td>135,25</td><td>52,05</td><td>21,78</td><td>1,44</td><td>–</td><td>–</td></tr>
+<tr><td>432,50 bis 434,99</td><td>137,00</td><td>53,30</td><td>22,78</td><td>2,19</td><td>–</td><td>–</td></tr>
+<tr><td>435,00 bis 437,49</td><td>138,75</td><td>54,55</td><td>23,78</td><td>2,94</td><td>–</td><td>–</td></tr>
+<tr><td>437,50 bis 439,99</td><td>140,50</td><td>55,80</td><td>24,78</td><td>3,69</td><td>–</td><td>–</td></tr>
+<tr><td>440,00 bis 442,49</td><td>142,25</td><td>57,05</td><td>25,78</td><td>4,44</td><td>–</td><td>–</td></tr>
+<tr><td>442,50 bis 444,99</td><td>144,00</td><td>58,30</td><td>26,78</td><td>5,19</td><td>–</td><td>–</td></tr>
+<tr><td>445,00 bis 447,49</td><td>145,75</td><td>59,55</td><td>27,78</td><td>5,94</td><td>–</td><td>–</td></tr>
+<tr><td>447,50 bis 449,99</td><td>147,50</td><td>60,80</td><td>28,78</td><td>6,69</td><td>–</td><td>–</td></tr>
+<tr><td>450,00 bis 452,49</td><td>149,25</td><td>62,05</td><td>29,78</td><td>7,44</td><td>–</td><td>–</td></tr>
+<tr><td>452,50 bis 454,99</td><td>151,00</td><td>63,30</td><td>30,78</td><td>8,19</td><td>–</td><td>–</td></tr>
+<tr><td>455,00 bis 457,49</td><td>152,75</td><td>64,55</td><td>31,78</td><td>8,94</td><td>–</td><td>–</td></tr>
+<tr><td>457,50 bis 459,99</td><td>154,50</td><td>65,80</td><td>32,78</td><td>9,69</td><td>–</td><td>–</td></tr>
+<tr><td>460,00 bis 462,49</td><td>156,25</td><td>67,05</td><td>33,78</td><td>10,44</td><td>–</td><td>–</td></tr>
+<tr><td>462,50 bis 464,99</td><td>158,00</td><td>68,30</td><td>34,78</td><td>11,19</td><td>–</td><td>–</td></tr>
+<tr><td>465,00 bis 467,49</td><td>159,75</td><td>69,55</td><td>35,78</td><td>11,94</td><td>–</td><td>–</td></tr>
+<tr><td>467,50 bis 469,99</td><td>161,50</td><td>70,80</td><td>36,78</td><td>12,69</td><td>–</td><td>–</td></tr>
+<tr><td>470,00 bis 472,49</td><td>163,25</td><td>72,05</td><td>37,78</td><td>13,44</td><td>–</td><td>–</td></tr>
+<tr><td>472,50 bis 474,99</td><td>165,00</td><td>73,30</td><td>38,78</td><td>14,19</td><td>–</td><td>–</td></tr>
+<tr><td>475,00 bis 477,49</td><td>166,75</td><td>74,55</td><td>39,78</td><td>14,94</td><td>0,03</td><td>–</td></tr>
+<tr><td>477,50 bis 479,99</td><td>168,50</td><td>75,80</td><td>40,78</td><td>15,69</td><td>0,53</td><td>–</td></tr>
+<tr><td>480,00 bis 482,49</td><td>170,25</td><td>77,05</td><td>41,78</td><td>16,44</td><td>1,03</td><td>–</td></tr>
+<tr><td>482,50 bis 484,99</td><td>172,00</td><td>78,30</td><td>42,78</td><td>17,19</td><td>1,53</td><td>–</td></tr>
+<tr><td>485,00 bis 487,49</td><td>173,75</td><td>79,55</td><td>43,78</td><td>17,94</td><td>2,03</td><td>–</td></tr>
+<tr><td>487,50 bis 489,99</td><td>175,50</td><td>80,80</td><td>44,78</td><td>18,69</td><td>2,53</td><td>–</td></tr>
+<tr><td>490,00 bis 492,49</td><td>177,25</td><td>82,05</td><td>45,78</td><td>19,44</td><td>3,03</td><td>–</td></tr>
+<tr><td>492,50 bis 494,99</td><td>179,00</td><td>83,30</td><td>46,78</td><td>20,19</td><td>3,53</td><td>–</td></tr>
+<tr><td>495,00 bis 497,49</td><td>180,75</td><td>84,55</td><td>47,78</td><td>20,94</td><td>4,03</td><td>–</td></tr>
+<tr><td>497,50 bis 499,99</td><td>182,50</td><td>85,80</td><td>48,78</td><td>21,69</td><td>4,53</td><td>–</td></tr>
+<tr><td>500,00 bis 502,49</td><td>184,25</td><td>87,05</td><td>49,78</td><td>22,44</td><td>5,03</td><td>–</td></tr>
+<tr><td>502,50 bis 504,99</td><td>186,00</td><td>88,30</td><td>50,78</td><td>23,19</td><td>5,53</td><td>–</td></tr>
+<tr><td>505,00 bis 507,49</td><td>187,75</td><td>89,55</td><td>51,78</td><td>23,94</td><td>6,03</td><td>–</td></tr>
+<tr><td>507,50 bis 509,99</td><td>189,50</td><td>90,80</td><td>52,78</td><td>24,69</td><td>6,53</td><td>–</td></tr>
+<tr><td>510,00 bis 512,49</td><td>191,25</td><td>92,05</td><td>53,78</td><td>25,44</td><td>7,03</td><td>–</td></tr>
+<tr><td>512,50 bis 514,99</td><td>193,00</td><td>93,30</td><td>54,78</td><td>26,19</td><td>7,53</td><td>–</td></tr>
+<tr><td>515,00 bis 517,49</td><td>194,75</td><td>94,55</td><td>55,78</td><td>26,94</td><td>8,03</td><td>–</td></tr>
+<tr><td>517,50 bis 519,99</td><td>196,50</td><td>95,80</td><td>56,78</td><td>27,69</td><td>8,53</td><td>–</td></tr>
+<tr><td>520,00 bis 522,49</td><td>198,25</td><td>97,05</td><td>57,78</td><td>28,44</td><td>9,03</td><td>–</td></tr>
+<tr><td>522,50 bis 524,99</td><td>200,00</td><td>98,30</td><td>58,78</td><td>29,19</td><td>9,53</td><td>–</td></tr>
+<tr><td>525,00 bis 527,49</td><td>201,75</td><td>99,55</td><td>59,78</td><td>29,94</td><td>10,03</td><td>0,05</td></tr>
+<tr><td>527,50 bis 529,99</td><td>203,50</td><td>100,80</td><td>60,78</td><td>30,69</td><td>10,53</td><td>0,30</td></tr>
+<tr><td>530,00 bis 532,49</td><td>205,25</td><td>102,05</td><td>61,78</td><td>31,44</td><td>11,03</td><td>0,55</td></tr>
+<tr><td>532,50 bis 534,99</td><td>207,00</td><td>103,30</td><td>62,78</td><td>32,19</td><td>11,53</td><td>0,80</td></tr>
+<tr><td>535,00 bis 537,49</td><td>208,75</td><td>104,55</td><td>63,78</td><td>32,94</td><td>12,03</td><td>1,05</td></tr>
+<tr><td>537,50 bis 539,99</td><td>210,50</td><td>105,80</td><td>64,78</td><td>33,69</td><td>12,53</td><td>1,30</td></tr>
+<tr><td>540,00 bis 542,49</td><td>212,25</td><td>107,05</td><td>65,78</td><td>34,44</td><td>13,03</td><td>1,55</td></tr>
+<tr><td>542,50 bis 544,99</td><td>214,00</td><td>108,30</td><td>66,78</td><td>35,19</td><td>13,53</td><td>1,80</td></tr>
+<tr><td>545,00 bis 547,49</td><td>215,75</td><td>109,55</td><td>67,78</td><td>35,94</td><td>14,03</td><td>2,05</td></tr>
+<tr><td>547,50 bis 549,99</td><td>217,50</td><td>110,80</td><td>68,78</td><td>36,69</td><td>14,53</td><td>2,30</td></tr>
+<tr><td>550,00 bis 552,49</td><td>219,25</td><td>112,05</td><td>69,78</td><td>37,44</td><td>15,03</td><td>2,55</td></tr>
+<tr><td>552,50 bis 554,99</td><td>221,00</td><td>113,30</td><td>70,78</td><td>38,19</td><td>15,53</td><td>2,80</td></tr>
+<tr><td>555,00 bis 557,49</td><td>222,75</td><td>114,55</td><td>71,78</td><td>38,94</td><td>16,03</td><td>3,05</td></tr>
+<tr><td>557,50 bis 559,99</td><td>224,50</td><td>115,80</td><td>72,78</td><td>39,69</td><td>16,53</td><td>3,30</td></tr>
+<tr><td>560,00 bis 562,49</td><td>226,25</td><td>117,05</td><td>73,78</td><td>40,44</td><td>17,03</td><td>3,55</td></tr>
+<tr><td>562,50 bis 564,99</td><td>228,00</td><td>118,30</td><td>74,78</td><td>41,19</td><td>17,53</td><td>3,80</td></tr>
+<tr><td>565,00 bis 567,49</td><td>229,75</td><td>119,55</td><td>75,78</td><td>41,94</td><td>18,03</td><td>4,05</td></tr>
+<tr><td>567,50 bis 569,99</td><td>231,50</td><td>120,80</td><td>76,78</td><td>42,69</td><td>18,53</td><td>4,30</td></tr>
+<tr><td>570,00 bis 572,49</td><td>233,25</td><td>122,05</td><td>77,78</td><td>43,44</td><td>19,03</td><td>4,55</td></tr>
+<tr><td>572,50 bis 574,99</td><td>235,00</td><td>123,30</td><td>78,78</td><td>44,19</td><td>19,53</td><td>4,80</td></tr>
+<tr><td>575,00 bis 577,49</td><td>236,75</td><td>124,55</td><td>79,78</td><td>44,94</td><td>20,03</td><td>5,05</td></tr>
+<tr><td>577,50 bis 579,99</td><td>238,50</td><td>125,80</td><td>80,78</td><td>45,69</td><td>20,53</td><td>5,30</td></tr>
+<tr><td>580,00 bis 582,49</td><td>240,25</td><td>127,05</td><td>81,78</td><td>46,44</td><td>21,03</td><td>5,55</td></tr>
+<tr><td>582,50 bis 584,99</td><td>242,00</td><td>128,30</td><td>82,78</td><td>47,19</td><td>21,53</td><td>5,80</td></tr>
+<tr><td>585,00 bis 587,49</td><td>243,75</td><td>129,55</td><td>83,78</td><td>47,94</td><td>22,03</td><td>6,05</td></tr>
+<tr><td>587,50 bis 589,99</td><td>245,50</td><td>130,80</td><td>84,78</td><td>48,69</td><td>22,53</td><td>6,30</td></tr>
+<tr><td>590,00 bis 592,49</td><td>247,25</td><td>132,05</td><td>85,78</td><td>49,44</td><td>23,03</td><td>6,55</td></tr>
+<tr><td>592,50 bis 594,99</td><td>249,00</td><td>133,30</td><td>86,78</td><td>50,19</td><td>23,53</td><td>6,80</td></tr>
+<tr><td>595,00 bis 597,49</td><td>250,75</td><td>134,55</td><td>87,78</td><td>50,94</td><td>24,03</td><td>7,05</td></tr>
+<tr><td>597,50 bis 599,99</td><td>252,50</td><td>135,80</td><td>88,78</td><td>51,69</td><td>24,53</td><td>7,30</td></tr>
+<tr><td>600,00 bis 602,49</td><td>254,25</td><td>137,05</td><td>89,78</td><td>52,44</td><td>25,03</td><td>7,55</td></tr>
+<tr><td>602,50 bis 604,99</td><td>256,00</td><td>138,30</td><td>90,78</td><td>53,19</td><td>25,53</td><td>7,80</td></tr>
+<tr><td>605,00 bis 607,49</td><td>257,75</td><td>139,55</td><td>91,78</td><td>53,94</td><td>26,03</td><td>8,05</td></tr>
+<tr><td>607,50 bis 609,99</td><td>259,50</td><td>140,80</td><td>92,78</td><td>54,69</td><td>26,53</td><td>8,30</td></tr>
+<tr><td>610,00 bis 612,49</td><td>261,25</td><td>142,05</td><td>93,78</td><td>55,44</td><td>27,03</td><td>8,55</td></tr>
+<tr><td>612,50 bis 614,99</td><td>263,00</td><td>143,30</td><td>94,78</td><td>56,19</td><td>27,53</td><td>8,80</td></tr>
+<tr><td>615,00 bis 617,49</td><td>264,75</td><td>144,55</td><td>95,78</td><td>56,94</td><td>28,03</td><td>9,05</td></tr>
+<tr><td>617,50 bis 619,99</td><td>266,50</td><td>145,80</td><td>96,78</td><td>57,69</td><td>28,53</td><td>9,30</td></tr>
+<tr><td>620,00 bis 622,49</td><td>268,25</td><td>147,05</td><td>97,78</td><td>58,44</td><td>29,03</td><td>9,55</td></tr>
+<tr><td>622,50 bis 624,99</td><td>270,00</td><td>148,30</td><td>98,78</td><td>59,19</td><td>29,53</td><td>9,80</td></tr>
+<tr><td>625,00 bis 627,49</td><td>271,75</td><td>149,55</td><td>99,78</td><td>59,94</td><td>30,03</td><td>10,05</td></tr>
+<tr><td>627,50 bis 629,99</td><td>273,50</td><td>150,80</td><td>100,78</td><td>60,69</td><td>30,53</td><td>10,30</td></tr>
+<tr><td>630,00 bis 632,49</td><td>275,25</td><td>152,05</td><td>101,78</td><td>61,44</td><td>31,03</td><td>10,55</td></tr>
+<tr><td>632,50 bis 634,99</td><td>277,00</td><td>153,30</td><td>102,78</td><td>62,19</td><td>31,53</td><td>10,80</td></tr>
+<tr><td>635,00 bis 637,49</td><td>278,75</td><td>154,55</td><td>103,78</td><td>62,94</td><td>32,03</td><td>11,05</td></tr>
+<tr><td>637,50 bis 639,99</td><td>280,50</td><td>155,80</td><td>104,78</td><td>63,69</td><td>32,53</td><td>11,30</td></tr>
+<tr><td>640,00 bis 642,49</td><td>282,25</td><td>157,05</td><td>105,78</td><td>64,44</td><td>33,03</td><td>11,55</td></tr>
+<tr><td>642,50 bis 644,99</td><td>284,00</td><td>158,30</td><td>106,78</td><td>65,19</td><td>33,53</td><td>11,80</td></tr>
+<tr><td>645,00 bis 647,49</td><td>285,75</td><td>159,55</td><td>107,78</td><td>65,94</td><td>34,03</td><td>12,05</td></tr>
+<tr><td>647,50 bis 649,99</td><td>287,50</td><td>160,80</td><td>108,78</td><td>66,69</td><td>34,53</td><td>12,30</td></tr>
+<tr><td>650,00 bis 652,49</td><td>289,25</td><td>162,05</td><td>109,78</td><td>67,44</td><td>35,03</td><td>12,55</td></tr>
+<tr><td>652,50 bis 654,99</td><td>291,00</td><td>163,30</td><td>110,78</td><td>68,19</td><td>35,53</td><td>12,80</td></tr>
+<tr><td>655,00 bis 657,49</td><td>292,75</td><td>164,55</td><td>111,78</td><td>68,94</td><td>36,03</td><td>13,05</td></tr>
+<tr><td>657,50 bis 659,99</td><td>294,50</td><td>165,80</td><td>112,78</td><td>69,69</td><td>36,53</td><td>13,30</td></tr>
+<tr><td>660,00 bis 662,49</td><td>296,25</td><td>167,05</td><td>113,78</td><td>70,44</td><td>37,03</td><td>13,55</td></tr>
+<tr><td>662,50 bis 664,99</td><td>298,00</td><td>168,30</td><td>114,78</td><td>71,19</td><td>37,53</td><td>13,80</td></tr>
+<tr><td>665,00 bis 667,49</td><td>299,75</td><td>169,55</td><td>115,78</td><td>71,94</td><td>38,03</td><td>14,05</td></tr>
+<tr><td>667,50 bis 669,99</td><td>301,50</td><td>170,80</td><td>116,78</td><td>72,69</td><td>38,53</td><td>14,30</td></tr>
+<tr><td>670,00 bis 672,49</td><td>303,25</td><td>172,05</td><td>117,78</td><td>73,44</td><td>39,03</td><td>14,55</td></tr>
+<tr><td>672,50 bis 674,99</td><td>305,00</td><td>173,30</td><td>118,78</td><td>74,19</td><td>39,53</td><td>14,80</td></tr>
+<tr><td>675,00 bis 677,49</td><td>306,75</td><td>174,55</td><td>119,78</td><td>74,94</td><td>40,03</td><td>15,05</td></tr>
+<tr><td>677,50 bis 679,99</td><td>308,50</td><td>175,80</td><td>120,78</td><td>75,69</td><td>40,53</td><td>15,30</td></tr>
+<tr><td>680,00 bis 682,49</td><td>310,25</td><td>177,05</td><td>121,78</td><td>76,44</td><td>41,03</td><td>15,55</td></tr>
+<tr><td>682,50 bis 684,99</td><td>312,00</td><td>178,30</td><td>122,78</td><td>77,19</td><td>41,53</td><td>15,80</td></tr>
+<tr><td>685,00 bis 687,49</td><td>313,75</td><td>179,55</td><td>123,78</td><td>77,94</td><td>42,03</td><td>16,05</td></tr>
+<tr><td>687,50 bis 689,99</td><td>315,50</td><td>180,80</td><td>124,78</td><td>78,69</td><td>42,53</td><td>16,30</td></tr>
+<tr><td>690,00 bis 692,49</td><td>317,25</td><td>182,05</td><td>125,78</td><td>79,44</td><td>43,03</td><td>16,55</td></tr>
+<tr><td>692,50 bis 694,99</td><td>319,00</td><td>183,30</td><td>126,78</td><td>80,19</td><td>43,53</td><td>16,80</td></tr>
+<tr><td>695,00 bis 697,49</td><td>320,75</td><td>184,55</td><td>127,78</td><td>80,94</td><td>44,03</td><td>17,05</td></tr>
+<tr><td>697,50 bis 699,99</td><td>322,50</td><td>185,80</td><td>128,78</td><td>81,69</td><td>44,53</td><td>17,30</td></tr>
+<tr><td>700,00 bis 702,49</td><td>324,25</td><td>187,05</td><td>129,78</td><td>82,44</td><td>45,03</td><td>17,55</td></tr>
+<tr><td>702,50 bis 704,99</td><td>326,00</td><td>188,30</td><td>130,78</td><td>83,19</td><td>45,53</td><td>17,80</td></tr>
+<tr><td>705,00 bis 707,49</td><td>327,75</td><td>189,55</td><td>131,78</td><td>83,94</td><td>46,03</td><td>18,05</td></tr>
+<tr><td>707,50 bis 709,99</td><td>329,50</td><td>190,80</td><td>132,78</td><td>84,69</td><td>46,53</td><td>18,30</td></tr>
+<tr><td>710,00 bis 712,49</td><td>331,25</td><td>192,05</td><td>133,78</td><td>85,44</td><td>47,03</td><td>18,55</td></tr>
+<tr><td>712,50 bis 714,99</td><td>333,00</td><td>193,30</td><td>134,78</td><td>86,19</td><td>47,53</td><td>18,80</td></tr>
+<tr><td>715,00 bis 717,49</td><td>334,75</td><td>194,55</td><td>135,78</td><td>86,94</td><td>48,03</td><td>19,05</td></tr>
+<tr><td>717,50 bis 719,99</td><td>336,50</td><td>195,80</td><td>136,78</td><td>87,69</td><td>48,53</td><td>19,30</td></tr>
+<tr><td>720,00 bis 722,49</td><td>338,25</td><td>197,05</td><td>137,78</td><td>88,44</td><td>49,03</td><td>19,55</td></tr>
+<tr><td>722,50 bis 724,99</td><td>340,00</td><td>198,30</td><td>138,78</td><td>89,19</td><td>49,53</td><td>19,80</td></tr>
+<tr><td>725,00 bis 725,89</td><td>341,75</td><td>199,55</td><td>139,78</td><td>89,94</td><td>50,03</td><td>20,05</td></tr>
+<tr><td colspan="7">Der Mehrbetrag über 725,89 Euro ist voll pfändbar.</td></tr>
+</tbody>
+</table>
+
+**Auszahlung für Tage**
+
+<table>
+<thead>
+<tr><th></th><th colspan="6">Pfändbarer Betrag bei<br> Unterhaltspflicht für ... Personen</th></tr>
+<tr><th>Nettolohn<br> täglich</th><th>0</th><th>1</th><th>2</th><th>3</th><th>4</th><th>5 und<br> mehr</th></tr>
+<tr><th colspan="7">in Euro</th></tr>
+</thead>
+<tbody>
+<tr><td>bis 47,49</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>47,50 bis 47,99</td><td>0,10</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>48,00 bis 48,49</td><td>0,45</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>48,50 bis 48,99</td><td>0,80</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>49,00 bis 49,49</td><td>1,15</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>49,50 bis 49,99</td><td>1,50</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>50,00 bis 50,49</td><td>1,85</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>50,50 bis 50,99</td><td>2,20</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>51,00 bis 51,49</td><td>2,55</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>51,50 bis 51,99</td><td>2,90</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>52,00 bis 52,49</td><td>3,25</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>52,50 bis 52,99</td><td>3,60</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>53,00 bis 53,49</td><td>3,95</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>53,50 bis 53,99</td><td>4,30</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>54,00 bis 54,49</td><td>4,65</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>54,50 bis 54,99</td><td>5,00</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>55,00 bis 55,49</td><td>5,35</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>55,50 bis 55,99</td><td>5,70</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>56,00 bis 56,49</td><td>6,05</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>56,50 bis 56,99</td><td>6,40</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>57,00 bis 57,49</td><td>6,75</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>57,50 bis 57,99</td><td>7,10</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>58,00 bis 58,49</td><td>7,45</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>58,50 bis 58,99</td><td>7,80</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>59,00 bis 59,49</td><td>8,15</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>59,50 bis 59,99</td><td>8,50</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>60,00 bis 60,49</td><td>8,85</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>60,50 bis 60,99</td><td>9,20</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>61,00 bis 61,49</td><td>9,55</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>61,50 bis 61,99</td><td>9,90</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>62,00 bis 62,49</td><td>10,25</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>62,50 bis 62,99</td><td>10,60</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>63,00 bis 63,49</td><td>10,95</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>63,50 bis 63,99</td><td>11,30</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>64,00 bis 64,49</td><td>11,65</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>64,50 bis 64,99</td><td>12,00</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>65,00 bis 65,49</td><td>12,35</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>65,50 bis 65,99</td><td>12,70</td><td>0,16</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>66,00 bis 66,49</td><td>13,05</td><td>0,41</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>66,50 bis 66,99</td><td>13,40</td><td>0,66</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>67,00 bis 67,49</td><td>13,75</td><td>0,91</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>67,50 bis 67,99</td><td>14,10</td><td>1,16</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>68,00 bis 68,49</td><td>14,45</td><td>1,41</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>68,50 bis 68,99</td><td>14,80</td><td>1,66</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>69,00 bis 69,49</td><td>15,15</td><td>1,91</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>69,50 bis 69,99</td><td>15,50</td><td>2,16</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>70,00 bis 70,49</td><td>15,85</td><td>2,41</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>70,50 bis 70,99</td><td>16,20</td><td>2,66</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>71,00 bis 71,49</td><td>16,55</td><td>2,91</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>71,50 bis 71,99</td><td>16,90</td><td>3,16</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>72,00 bis 72,49</td><td>17,25</td><td>3,41</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>72,50 bis 72,99</td><td>17,60</td><td>3,66</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>73,00 bis 73,49</td><td>17,95</td><td>3,91</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>73,50 bis 73,99</td><td>18,30</td><td>4,16</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>74,00 bis 74,49</td><td>18,65</td><td>4,41</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>74,50 bis 74,99</td><td>19,00</td><td>4,66</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>75,00 bis 75,49</td><td>19,35</td><td>4,91</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>75,50 bis 75,99</td><td>19,70</td><td>5,16</td><td>0,16</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>76,00 bis 76,49</td><td>20,05</td><td>5,41</td><td>0,36</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>76,50 bis 76,99</td><td>20,40</td><td>5,66</td><td>0,56</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>77,00 bis 77,49</td><td>20,75</td><td>5,91</td><td>0,76</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>77,50 bis 77,99</td><td>21,10</td><td>6,16</td><td>0,96</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>78,00 bis 78,49</td><td>21,45</td><td>6,41</td><td>1,16</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>78,50 bis 78,99</td><td>21,80</td><td>6,66</td><td>1,36</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>79,00 bis 79,49</td><td>22,15</td><td>6,91</td><td>1,56</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>79,50 bis 79,99</td><td>22,50</td><td>7,16</td><td>1,76</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>80,00 bis 80,49</td><td>22,85</td><td>7,41</td><td>1,96</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>80,50 bis 80,99</td><td>23,20</td><td>7,66</td><td>2,16</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>81,00 bis 81,49</td><td>23,55</td><td>7,91</td><td>2,36</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>81,50 bis 81,99</td><td>23,90</td><td>8,16</td><td>2,56</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>82,00 bis 82,49</td><td>24,25</td><td>8,41</td><td>2,76</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>82,50 bis 82,99</td><td>24,60</td><td>8,66</td><td>2,96</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>83,00 bis 83,49</td><td>24,95</td><td>8,91</td><td>3,16</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>83,50 bis 83,99</td><td>25,30</td><td>9,16</td><td>3,36</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>84,00 bis 84,49</td><td>25,65</td><td>9,41</td><td>3,56</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>84,50 bis 84,99</td><td>26,00</td><td>9,66</td><td>3,76</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>85,00 bis 85,49</td><td>26,35</td><td>9,91</td><td>3,96</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>85,50 bis 85,99</td><td>26,70</td><td>10,16</td><td>4,16</td><td>0,14</td><td>–</td><td>–</td></tr>
+<tr><td>86,00 bis 86,49</td><td>27,05</td><td>10,41</td><td>4,36</td><td>0,29</td><td>–</td><td>–</td></tr>
+<tr><td>86,50 bis 86,99</td><td>27,40</td><td>10,66</td><td>4,56</td><td>0,44</td><td>–</td><td>–</td></tr>
+<tr><td>87,00 bis 87,49</td><td>27,75</td><td>10,91</td><td>4,76</td><td>0,59</td><td>–</td><td>–</td></tr>
+<tr><td>87,50 bis 87,99</td><td>28,10</td><td>11,16</td><td>4,96</td><td>0,74</td><td>–</td><td>–</td></tr>
+<tr><td>88,00 bis 88,49</td><td>28,45</td><td>11,41</td><td>5,16</td><td>0,89</td><td>–</td><td>–</td></tr>
+<tr><td>88,50 bis 88,99</td><td>28,80</td><td>11,66</td><td>5,36</td><td>1,04</td><td>–</td><td>–</td></tr>
+<tr><td>89,00 bis 89,49</td><td>29,15</td><td>11,91</td><td>5,56</td><td>1,19</td><td>–</td><td>–</td></tr>
+<tr><td>89,50 bis 89,99</td><td>29,50</td><td>12,16</td><td>5,76</td><td>1,34</td><td>–</td><td>–</td></tr>
+<tr><td>90,00 bis 90,49</td><td>29,85</td><td>12,41</td><td>5,96</td><td>1,49</td><td>–</td><td>–</td></tr>
+<tr><td>90,50 bis 90,99</td><td>30,20</td><td>12,66</td><td>6,16</td><td>1,64</td><td>–</td><td>–</td></tr>
+<tr><td>91,00 bis 91,49</td><td>30,55</td><td>12,91</td><td>6,36</td><td>1,79</td><td>–</td><td>–</td></tr>
+<tr><td>91,50 bis 91,99</td><td>30,90</td><td>13,16</td><td>6,56</td><td>1,94</td><td>–</td><td>–</td></tr>
+<tr><td>92,00 bis 92,49</td><td>31,25</td><td>13,41</td><td>6,76</td><td>2,09</td><td>–</td><td>–</td></tr>
+<tr><td>92,50 bis 92,99</td><td>31,60</td><td>13,66</td><td>6,96</td><td>2,24</td><td>–</td><td>–</td></tr>
+<tr><td>93,00 bis 93,49</td><td>31,95</td><td>13,91</td><td>7,16</td><td>2,39</td><td>–</td><td>–</td></tr>
+<tr><td>93,50 bis 93,99</td><td>32,30</td><td>14,16</td><td>7,36</td><td>2,54</td><td>–</td><td>–</td></tr>
+<tr><td>94,00 bis 94,49</td><td>32,65</td><td>14,41</td><td>7,56</td><td>2,69</td><td>–</td><td>–</td></tr>
+<tr><td>94,50 bis 94,99</td><td>33,00</td><td>14,66</td><td>7,76</td><td>2,84</td><td>–</td><td>–</td></tr>
+<tr><td>95,00 bis 95,49</td><td>33,35</td><td>14,91</td><td>7,96</td><td>2,99</td><td>0,01</td><td>–</td></tr>
+<tr><td>95,50 bis 95,99</td><td>33,70</td><td>15,16</td><td>8,16</td><td>3,14</td><td>0,11</td><td>–</td></tr>
+<tr><td>96,00 bis 96,49</td><td>34,05</td><td>15,41</td><td>8,36</td><td>3,29</td><td>0,21</td><td>–</td></tr>
+<tr><td>96,50 bis 96,99</td><td>34,40</td><td>15,66</td><td>8,56</td><td>3,44</td><td>0,31</td><td>–</td></tr>
+<tr><td>97,00 bis 97,49</td><td>34,75</td><td>15,91</td><td>8,76</td><td>3,59</td><td>0,41</td><td>–</td></tr>
+<tr><td>97,50 bis 97,99</td><td>35,10</td><td>16,16</td><td>8,96</td><td>3,74</td><td>0,51</td><td>–</td></tr>
+<tr><td>98,00 bis 98,49</td><td>35,45</td><td>16,41</td><td>9,16</td><td>3,89</td><td>0,61</td><td>–</td></tr>
+<tr><td>98,50 bis 98,99</td><td>35,80</td><td>16,66</td><td>9,36</td><td>4,04</td><td>0,71</td><td>–</td></tr>
+<tr><td>99,00 bis 99,49</td><td>36,15</td><td>16,91</td><td>9,56</td><td>4,19</td><td>0,81</td><td>–</td></tr>
+<tr><td>99,50 bis 99,99</td><td>36,50</td><td>17,16</td><td>9,76</td><td>4,34</td><td>0,91</td><td>–</td></tr>
+<tr><td>100,00 bis 100,49</td><td>36,85</td><td>17,41</td><td>9,96</td><td>4,49</td><td>1,01</td><td>–</td></tr>
+<tr><td>100,50 bis 100,99</td><td>37,20</td><td>17,66</td><td>10,16</td><td>4,64</td><td>1,11</td><td>–</td></tr>
+<tr><td>101,00 bis 101,49</td><td>37,55</td><td>17,91</td><td>10,36</td><td>4,79</td><td>1,21</td><td>–</td></tr>
+<tr><td>101,50 bis 101,99</td><td>37,90</td><td>18,16</td><td>10,56</td><td>4,94</td><td>1,31</td><td>–</td></tr>
+<tr><td>102,00 bis 102,49</td><td>38,25</td><td>18,41</td><td>10,76</td><td>5,09</td><td>1,41</td><td>–</td></tr>
+<tr><td>102,50 bis 102,99</td><td>38,60</td><td>18,66</td><td>10,96</td><td>5,24</td><td>1,51</td><td>–</td></tr>
+<tr><td>103,00 bis 103,49</td><td>38,95</td><td>18,91</td><td>11,16</td><td>5,39</td><td>1,61</td><td>–</td></tr>
+<tr><td>103,50 bis 103,99</td><td>39,30</td><td>19,16</td><td>11,36</td><td>5,54</td><td>1,71</td><td>–</td></tr>
+<tr><td>104,00 bis 104,49</td><td>39,65</td><td>19,41</td><td>11,56</td><td>5,69</td><td>1,81</td><td>–</td></tr>
+<tr><td>104,50 bis 104,99</td><td>40,00</td><td>19,66</td><td>11,76</td><td>5,84</td><td>1,91</td><td>–</td></tr>
+<tr><td>105,00 bis 105,49</td><td>40,35</td><td>19,91</td><td>11,96</td><td>5,99</td><td>2,01</td><td>0,01</td></tr>
+<tr><td>105,50 bis 105,99</td><td>40,70</td><td>20,16</td><td>12,16</td><td>6,14</td><td>2,11</td><td>0,06</td></tr>
+<tr><td>106,00 bis 106,49</td><td>41,05</td><td>20,41</td><td>12,36</td><td>6,29</td><td>2,21</td><td>0,11</td></tr>
+<tr><td>106,50 bis 106,99</td><td>41,40</td><td>20,66</td><td>12,56</td><td>6,44</td><td>2,31</td><td>0,16</td></tr>
+<tr><td>107,00 bis 107,49</td><td>41,75</td><td>20,91</td><td>12,76</td><td>6,59</td><td>2,41</td><td>0,21</td></tr>
+<tr><td>107,50 bis 107,99</td><td>42,10</td><td>21,16</td><td>12,96</td><td>6,74</td><td>2,51</td><td>0,26</td></tr>
+<tr><td>108,00 bis 108,49</td><td>42,45</td><td>21,41</td><td>13,16</td><td>6,89</td><td>2,61</td><td>0,31</td></tr>
+<tr><td>108,50 bis 108,99</td><td>42,80</td><td>21,66</td><td>13,36</td><td>7,04</td><td>2,71</td><td>0,36</td></tr>
+<tr><td>109,00 bis 109,49</td><td>43,15</td><td>21,91</td><td>13,56</td><td>7,19</td><td>2,81</td><td>0,41</td></tr>
+<tr><td>109,50 bis 109,99</td><td>43,50</td><td>22,16</td><td>13,76</td><td>7,34</td><td>2,91</td><td>0,46</td></tr>
+<tr><td>110,00 bis 110,49</td><td>43,85</td><td>22,41</td><td>13,96</td><td>7,49</td><td>3,01</td><td>0,51</td></tr>
+<tr><td>110,50 bis 110,99</td><td>44,20</td><td>22,66</td><td>14,16</td><td>7,64</td><td>3,11</td><td>0,56</td></tr>
+<tr><td>111,00 bis 111,49</td><td>44,55</td><td>22,91</td><td>14,36</td><td>7,79</td><td>3,21</td><td>0,61</td></tr>
+<tr><td>111,50 bis 111,99</td><td>44,90</td><td>23,16</td><td>14,56</td><td>7,94</td><td>3,31</td><td>0,66</td></tr>
+<tr><td>112,00 bis 112,49</td><td>45,25</td><td>23,41</td><td>14,76</td><td>8,09</td><td>3,41</td><td>0,71</td></tr>
+<tr><td>112,50 bis 112,99</td><td>45,60</td><td>23,66</td><td>14,96</td><td>8,24</td><td>3,51</td><td>0,76</td></tr>
+<tr><td>113,00 bis 113,49</td><td>45,95</td><td>23,91</td><td>15,16</td><td>8,39</td><td>3,61</td><td>0,81</td></tr>
+<tr><td>113,50 bis 113,99</td><td>46,30</td><td>24,16</td><td>15,36</td><td>8,54</td><td>3,71</td><td>0,86</td></tr>
+<tr><td>114,00 bis 114,49</td><td>46,65</td><td>24,41</td><td>15,56</td><td>8,69</td><td>3,81</td><td>0,91</td></tr>
+<tr><td>114,50 bis 114,99</td><td>47,00</td><td>24,66</td><td>15,76</td><td>8,84</td><td>3,91</td><td>0,96</td></tr>
+<tr><td>115,00 bis 115,49</td><td>47,35</td><td>24,91</td><td>15,96</td><td>8,99</td><td>4,01</td><td>1,01</td></tr>
+<tr><td>115,50 bis 115,99</td><td>47,70</td><td>25,16</td><td>16,16</td><td>9,14</td><td>4,11</td><td>1,06</td></tr>
+<tr><td>116,00 bis 116,49</td><td>48,05</td><td>25,41</td><td>16,36</td><td>9,29</td><td>4,21</td><td>1,11</td></tr>
+<tr><td>116,50 bis 116,99</td><td>48,40</td><td>25,66</td><td>16,56</td><td>9,44</td><td>4,31</td><td>1,16</td></tr>
+<tr><td>117,00 bis 117,49</td><td>48,75</td><td>25,91</td><td>16,76</td><td>9,59</td><td>4,41</td><td>1,21</td></tr>
+<tr><td>117,50 bis 117,99</td><td>49,10</td><td>26,16</td><td>16,96</td><td>9,74</td><td>4,51</td><td>1,26</td></tr>
+<tr><td>118,00 bis 118,49</td><td>49,45</td><td>26,41</td><td>17,16</td><td>9,89</td><td>4,61</td><td>1,31</td></tr>
+<tr><td>118,50 bis 118,99</td><td>49,80</td><td>26,66</td><td>17,36</td><td>10,04</td><td>4,71</td><td>1,36</td></tr>
+<tr><td>119,00 bis 119,49</td><td>50,15</td><td>26,91</td><td>17,56</td><td>10,19</td><td>4,81</td><td>1,41</td></tr>
+<tr><td>119,50 bis 119,99</td><td>50,50</td><td>27,16</td><td>17,76</td><td>10,34</td><td>4,91</td><td>1,46</td></tr>
+<tr><td>120,00 bis 120,49</td><td>50,85</td><td>27,41</td><td>17,96</td><td>10,49</td><td>5,01</td><td>1,51</td></tr>
+<tr><td>120,50 bis 120,99</td><td>51,20</td><td>27,66</td><td>18,16</td><td>10,64</td><td>5,11</td><td>1,56</td></tr>
+<tr><td>121,00 bis 121,49</td><td>51,55</td><td>27,91</td><td>18,36</td><td>10,79</td><td>5,21</td><td>1,61</td></tr>
+<tr><td>121,50 bis 121,99</td><td>51,90</td><td>28,16</td><td>18,56</td><td>10,94</td><td>5,31</td><td>1,66</td></tr>
+<tr><td>122,00 bis 122,49</td><td>52,25</td><td>28,41</td><td>18,76</td><td>11,09</td><td>5,41</td><td>1,71</td></tr>
+<tr><td>122,50 bis 122,99</td><td>52,60</td><td>28,66</td><td>18,96</td><td>11,24</td><td>5,51</td><td>1,76</td></tr>
+<tr><td>123,00 bis 123,49</td><td>52,95</td><td>28,91</td><td>19,16</td><td>11,39</td><td>5,61</td><td>1,81</td></tr>
+<tr><td>123,50 bis 123,99</td><td>53,30</td><td>29,16</td><td>19,36</td><td>11,54</td><td>5,71</td><td>1,86</td></tr>
+<tr><td>124,00 bis 124,49</td><td>53,65</td><td>29,41</td><td>19,56</td><td>11,69</td><td>5,81</td><td>1,91</td></tr>
+<tr><td>124,50 bis 124,99</td><td>54,00</td><td>29,66</td><td>19,76</td><td>11,84</td><td>5,91</td><td>1,96</td></tr>
+<tr><td>125,00 bis 125,49</td><td>54,35</td><td>29,91</td><td>19,96</td><td>11,99</td><td>6,01</td><td>2,01</td></tr>
+<tr><td>125,50 bis 125,99</td><td>54,70</td><td>30,16</td><td>20,16</td><td>12,14</td><td>6,11</td><td>2,06</td></tr>
+<tr><td>126,00 bis 126,49</td><td>55,05</td><td>30,41</td><td>20,36</td><td>12,29</td><td>6,21</td><td>2,11</td></tr>
+<tr><td>126,50 bis 126,99</td><td>55,40</td><td>30,66</td><td>20,56</td><td>12,44</td><td>6,31</td><td>2,16</td></tr>
+<tr><td>127,00 bis 127,49</td><td>55,75</td><td>30,91</td><td>20,76</td><td>12,59</td><td>6,41</td><td>2,21</td></tr>
+<tr><td>127,50 bis 127,99</td><td>56,10</td><td>31,16</td><td>20,96</td><td>12,74</td><td>6,51</td><td>2,26</td></tr>
+<tr><td>128,00 bis 128,49</td><td>56,45</td><td>31,41</td><td>21,16</td><td>12,89</td><td>6,61</td><td>2,31</td></tr>
+<tr><td>128,50 bis 128,99</td><td>56,80</td><td>31,66</td><td>21,36</td><td>13,04</td><td>6,71</td><td>2,36</td></tr>
+<tr><td>129,00 bis 129,49</td><td>57,15</td><td>31,91</td><td>21,56</td><td>13,19</td><td>6,81</td><td>2,41</td></tr>
+<tr><td>129,50 bis 129,99</td><td>57,50</td><td>32,16</td><td>21,76</td><td>13,34</td><td>6,91</td><td>2,46</td></tr>
+<tr><td>130,00 bis 130,49</td><td>57,85</td><td>32,41</td><td>21,96</td><td>13,49</td><td>7,01</td><td>2,51</td></tr>
+<tr><td>130,50 bis 130,99</td><td>58,20</td><td>32,66</td><td>22,16</td><td>13,64</td><td>7,11</td><td>2,56</td></tr>
+<tr><td>131,00 bis 131,49</td><td>58,55</td><td>32,91</td><td>22,36</td><td>13,79</td><td>7,21</td><td>2,61</td></tr>
+<tr><td>131,50 bis 131,99</td><td>58,90</td><td>33,16</td><td>22,56</td><td>13,94</td><td>7,31</td><td>2,66</td></tr>
+<tr><td>132,00 bis 132,49</td><td>59,25</td><td>33,41</td><td>22,76</td><td>14,09</td><td>7,41</td><td>2,71</td></tr>
+<tr><td>132,50 bis 132,99</td><td>59,60</td><td>33,66</td><td>22,96</td><td>14,24</td><td>7,51</td><td>2,76</td></tr>
+<tr><td>133,00 bis 133,49</td><td>59,95</td><td>33,91</td><td>23,16</td><td>14,39</td><td>7,61</td><td>2,81</td></tr>
+<tr><td>133,50 bis 133,99</td><td>60,30</td><td>34,16</td><td>23,36</td><td>14,54</td><td>7,71</td><td>2,86</td></tr>
+<tr><td>134,00 bis 134,49</td><td>60,65</td><td>34,41</td><td>23,56</td><td>14,69</td><td>7,81</td><td>2,91</td></tr>
+<tr><td>134,50 bis 134,99</td><td>61,00</td><td>34,66</td><td>23,76</td><td>14,84</td><td>7,91</td><td>2,96</td></tr>
+<tr><td>135,00 bis 135,49</td><td>61,35</td><td>34,91</td><td>23,96</td><td>14,99</td><td>8,01</td><td>3,01</td></tr>
+<tr><td>135,50 bis 135,99</td><td>61,70</td><td>35,16</td><td>24,16</td><td>15,14</td><td>8,11</td><td>3,06</td></tr>
+<tr><td>136,00 bis 136,49</td><td>62,05</td><td>35,41</td><td>24,36</td><td>15,29</td><td>8,21</td><td>3,11</td></tr>
+<tr><td>136,50 bis 136,99</td><td>62,40</td><td>35,66</td><td>24,56</td><td>15,44</td><td>8,31</td><td>3,16</td></tr>
+<tr><td>137,00 bis 137,49</td><td>62,75</td><td>35,91</td><td>24,76</td><td>15,59</td><td>8,41</td><td>3,21</td></tr>
+<tr><td>137,50 bis 137,99</td><td>63,10</td><td>36,16</td><td>24,96</td><td>15,74</td><td>8,51</td><td>3,26</td></tr>
+<tr><td>138,00 bis 138,49</td><td>63,45</td><td>36,41</td><td>25,16</td><td>15,89</td><td>8,61</td><td>3,31</td></tr>
+<tr><td>138,50 bis 138,99</td><td>63,80</td><td>36,66</td><td>25,36</td><td>16,04</td><td>8,71</td><td>3,36</td></tr>
+<tr><td>139,00 bis 139,49</td><td>64,15</td><td>36,91</td><td>25,56</td><td>16,19</td><td>8,81</td><td>3,41</td></tr>
+<tr><td>139,50 bis 139,99</td><td>64,50</td><td>37,16</td><td>25,76</td><td>16,34</td><td>8,91</td><td>3,46</td></tr>
+<tr><td>140,00 bis 140,49</td><td>64,85</td><td>37,41</td><td>25,96</td><td>16,49</td><td>9,01</td><td>3,51</td></tr>
+<tr><td>140,50 bis 140,99</td><td>65,20</td><td>37,66</td><td>26,16</td><td>16,64</td><td>9,11</td><td>3,56</td></tr>
+<tr><td>141,00 bis 141,49</td><td>65,55</td><td>37,91</td><td>26,36</td><td>16,79</td><td>9,21</td><td>3,61</td></tr>
+<tr><td>141,50 bis 141,99</td><td>65,90</td><td>38,16</td><td>26,56</td><td>16,94</td><td>9,31</td><td>3,66</td></tr>
+<tr><td>142,00 bis 142,49</td><td>66,25</td><td>38,41</td><td>26,76</td><td>17,09</td><td>9,41</td><td>3,71</td></tr>
+<tr><td>142,50 bis 142,99</td><td>66,60</td><td>38,66</td><td>26,96</td><td>17,24</td><td>9,51</td><td>3,76</td></tr>
+<tr><td>143,00 bis 143,49</td><td>66,95</td><td>38,91</td><td>27,16</td><td>17,39</td><td>9,61</td><td>3,81</td></tr>
+<tr><td>143,50 bis 143,99</td><td>67,30</td><td>39,16</td><td>27,36</td><td>17,54</td><td>9,71</td><td>3,86</td></tr>
+<tr><td>144,00 bis 144,49</td><td>67,65</td><td>39,41</td><td>27,56</td><td>17,69</td><td>9,81</td><td>3,91</td></tr>
+<tr><td>144,50 bis 144,99</td><td>68,00</td><td>39,66</td><td>27,76</td><td>17,84</td><td>9,91</td><td>3,96</td></tr>
+<tr><td>145,00 bis 145,18</td><td>68,35</td><td>39,91</td><td>27,96</td><td>17,99</td><td>10,01</td><td>4,01</td></tr>
+<tr><td colspan="7">Der Mehrbetrag über 145,18 Euro ist voll pfändbar.</td></tr>
+</tbody>
+</table>

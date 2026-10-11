@@ -1,0 +1,26 @@
+---
+title: "Bekanntmachung über die Anwendbarkeit des Wrackbeseitigungskostendurchsetzungsgesetzes"
+abbreviation: "WrackBKostDGAnwBek"
+identifier: "BJNR032100015"
+type: notice
+jurisdiction: de
+language: de
+date: 2015-03-12
+consolidated: 2026-05-06
+status: in_force
+citation:
+  - "BGBl I 2015, 321"
+source: "https://www.gesetze-im-internet.de/wrackbkostdganwbek/"
+retrieved: 2026-10-11
+---
+
+# Bekanntmachung über die Anwendbarkeit des Wrackbeseitigungskostendurchsetzungsgesetzes
+
+> (+++ Textnachweis ab: 23.3.2015 +++)
+
+Nach § 5 Absatz 2 des Wrackbeseitigungskostendurchsetzungsgesetzes vom 4. Juni 2013 (BGBl. I S. 1471, 1478) in Verbindung mit § 1 Absatz 2 des Zuständigkeitsanpassungsgesetzes vom 16. August 2002 (BGBl. I S. 3165) und dem Organisationserlass vom 17. Dezember 2013 (BGBl. I S. 4310) wird hiermit bekannt gemacht, dass die §§ 1 bis 4 des Gesetzes mit dem Inkrafttreten des Internationalen Übereinkommens von Nairobi von 2007 über die Beseitigung von Wracks (BGBl. 2014 II S. 1113) ab dem 14. April 2015 anzuwenden sind.
+
+## Schlussformel
+
+Bundesministerium\
+für Verkehr und digitale Infrastruktur

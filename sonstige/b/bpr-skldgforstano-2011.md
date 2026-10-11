@@ -1,0 +1,31 @@
+---
+title: "Anordnung des Bundespräsidenten über den Erlass von Bestimmungen über die Dienstkleidung der Beamtinnen und Beamten der Sparte Bundesforst der Bundesanstalt für Immobilienaufgaben"
+abbreviation: "BPräsKldgForstAnO 2011"
+identifier: "BJNR022200011"
+type: order
+jurisdiction: de
+language: de
+date: 2011-02-02
+consolidated: 2012-06-25
+status: in_force
+citation:
+  - "BGBl I 2011, 222"
+source: "https://www.gesetze-im-internet.de/bpr_skldgforstano_2011/"
+retrieved: 2026-10-11
+---
+
+# Anordnung des Bundespräsidenten über den Erlass von Bestimmungen über die Dienstkleidung der Beamtinnen und Beamten der Sparte Bundesforst der Bundesanstalt für Immobilienaufgaben
+
+> (+++ Textnachweis ab: 11.2.2011 +++)
+
+## § 1
+
+Nach § 74 des Bundesbeamtengesetzes übertrage ich der Sprecherin oder dem Sprecher des Vorstands der Bundesanstalt für Immobilienaufgaben die Befugnis, im Einvernehmen mit dem Bundesministerium der Finanzen Bestimmungen über die Dienstkleidung der Beamtinnen und Beamten der Sparte Bundesforst der Bundesanstalt für Immobilienaufgaben zu erlassen.
+
+## § 2
+
+Diese Anordnung tritt am Tag nach der Veröffentlichung in Kraft. Gleichzeitig tritt die Anordnung des Bundespräsidenten über den Erlass von Bestimmungen für die Dienstkleidung der Forstbeamten des Bundes vom 8. April 1992 (BGBl. I S. 903) außer Kraft.
+
+## Schlussformel
+
+Der Bundespräsident

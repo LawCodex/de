@@ -1,0 +1,35 @@
+---
+title: "Anordnung über die Festsetzung von Amtsbezeichnungen für die Beamten des Bundes im Saarland"
+abbreviation: "AmtsbezSaarAnO"
+identifier: "BJNR004600958"
+type: order
+jurisdiction: de
+language: de
+date: 1958-07-12
+consolidated: 2026-05-06
+status: in_force
+citation:
+  - "BGBl I 1958, 460"
+source: "https://www.gesetze-im-internet.de/amtsbezsaarano/"
+retrieved: 2026-10-11
+---
+
+# Anordnung über die Festsetzung von Amtsbezeichnungen für die Beamten des Bundes im Saarland
+
+> (+++ Textnachweis Geltung ab: 1. 1.1964 +++)
+
+## Eingangsformel
+
+Auf Grund des § 37 Abs. 1 des Deutschen Beamtengesetzes in der im Saarland geltenden Fassung in Verbindung mit § 13 Abs. 4 des Gesetzes über die Eingliederung des Saarlandes vom 23. Dezember 1956 (Bundesgesetzbl. I S. 1011) ordne ich an:
+
+## I.
+
+Die Bundesregierung wird ermächtigt, als Amtsbezeichnungen der in § 13 Abs. 1 und 5 des Gesetzes über die Eingliederung des Saarlandes bezeichneten Beamten des Bundes die Amtsbezeichnungen nach den Bundesbesoldungsordnungen A und B - Anlage I zum Bundesbesoldungsgesetz vom 27. Juli 1957 (Bundesgesetzbl. I S. 993) - festzusetzen.
+
+## II.
+
+Diese Anordnung tritt mit ihrer Verkündung in Kraft.
+
+## Schlußformel
+
+Der Bundespräsident
