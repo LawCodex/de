@@ -5,7 +5,8 @@ Usage: convert.py [RAW_DIR] [OUT_DIR]
   RAW_DIR  directory filled by fetch.py (contains gii-toc.xml and zip/)
   OUT_DIR  repository root (default: parent of scripts/)
 
-Output: grundgesetz/, gesetze/, verordnungen/, sonstige/ — one <slug>.md per law,
+Output: grundgesetz/gg.md and gesetze/, verordnungen/, sonstige/ — one
+<first-letter>/<slug>.md per law (bucketed to stay under 1,000 entries per directory),
 plus scripts/stats.json with counts per category.
 """
 import argparse
@@ -344,7 +345,7 @@ class Renderer:
 
         def rows(rs, tag):
             for r in rs:
-                out.append("<tr>")
+                cells = []
                 for en in r.findall("entry"):
                     attrs = ""
                     st, nd = en.get("namest"), en.get("nameend")
@@ -353,8 +354,8 @@ class Renderer:
                     mr = en.get("morerows")
                     if mr and mr.isdigit() and int(mr) > 0:
                         attrs += f' rowspan="{int(mr) + 1}"'
-                    out.append(f"<{tag}{attrs}>{self.html_inline(en).strip()}</{tag}>")
-                out.append("</tr>")
+                    cells.append(f"<{tag}{attrs}>{self.html_inline(en).strip()}</{tag}>")
+                out.append("<tr>" + "".join(cells) + "</tr>")
 
         if hrows:
             out.append("<thead>")
@@ -442,41 +443,47 @@ LAW_ORDNUNG = {
 }
 
 WORD_RULES = [
-    (re.compile(r"^(grundgesetz)$"), "gesetz"),
     (re.compile(r"(gesetz|gesetzbuch|gesetzes)$"), "gesetz"),
-    (re.compile(r"(verordnung|ordnung)$"), "verordnung"),
-    (re.compile(r"^(abkommen|übereinkommen|vertrag|staatsvertrag|protokoll|vereinbarung|notenwechsel|konvention|zusatzabkommen|zusatzprotokoll|einigungsvertrag)$|(abkommen|vertrag|übereinkommen|protokoll)$"), "vertrag"),
-    (re.compile(r"(bekanntmachung|anordnung|erlass|erlaß|satzung|richtlinie|richtlinien|verwaltungsvorschrift|beschluss|beschluß|bestimmungen|regelung|regelungen|grundsätze|statut|verfügung|vorschriften|tarif|geschäftsordnung)$"), "sonstige"),
+    (re.compile(r"verordnung$"), "verordnung"),
+    (re.compile(r"(anordnung|geschäftsordnung|dienstordnung|benutzungsordnung|hausordnung|geheimschutzordnung)$"), "sonstige"),
+    (re.compile(r"ordnung$"), "ordnung"),
+    (re.compile(r"(abkommen|vertrag|übereinkommen|protokoll|vereinbarung|notenwechsel|konvention|charta|statut)$"), "vertrag"),
+    (re.compile(r"(bekanntmachung|erlass|erlaß|satzung|richtlinie|richtlinien|verwaltungsvorschrift|beschluss|beschluß|bestimmungen|regelung|regelungen|grundsätze|verfügung|vorschriften|tarif|plan|raumordnungsplan|entscheidung|anweisung|festsetzung)$"), "sonstige"),
 ]
+
+
+def eingang_signal(e):
+    e = (e or "").lower()
+    if re.search(r"\bverordne[tn]\b", e):
+        return "verordnung"
+    if re.search(r"(bundestag|bundesrat)[^.]{0,200}(das folgende gesetz|gesetz beschlossen)", e):
+        return "gesetz"
+    return None
 
 
 def classify(meta, eingang):
     jurabk = meta.get("jurabk", "")
     if jurabk == "GG":
         return "grundgesetz"
-    title = meta.get("langue") or meta.get("kurzue") or jurabk
     if meta.get("amtabk") in LAW_ORDNUNG or jurabk in LAW_ORDNUNG:
         return "gesetz"
-    e = (eingang or "").lower()
-    if re.search(r"\bverordne[tn]\b|\bverordnen\b", e):
-        return "verordnung"
-    if re.search(r"gesetz[^.]{0,80}beschlossen|hat das folgende gesetz|hat mit zustimmung des bundesrates das folgende gesetz", e):
-        return "gesetz"
-    for t in (meta.get("kurzue"), meta.get("langue"), jurabk):
+    sig = eingang_signal(eingang)
+    for t in (meta.get("langue"), meta.get("kurzue")):
         if not t:
             continue
-        head = re.split(r"\s[(\-–]|\s\*\)", t, maxsplit=1)[0]
+        head = re.split(r"\s[(–]|\s-\s|\s\*\)", t, maxsplit=1)[0]
         words = re.findall(r"[A-Za-zÄÖÜäöüß][A-Za-zÄÖÜäöüß-]*", head)
         for w in words:
             lw = w.strip("-").split("-")[-1].lower()
             if not lw:
                 continue
-            if lw.endswith("ordnung") and lw.startswith("geschäfts"):
-                return "sonstige"
             for rx, cat in WORD_RULES:
                 if rx.search(lw):
+                    if cat == "ordnung":
+                        return sig or "verordnung"
                     return cat
-    # abbreviation heuristics
+    if sig:
+        return sig
     if re.search(r"(V|VO|AnO)(\s|$|\d)", jurabk):
         return "verordnung"
     if re.search(r"G(\s|$|\d)", jurabk):
@@ -548,6 +555,14 @@ def convert_zip(zpath, slug, retrieved):
     if not eingang and len(norms) > 1:
         eingang = text_of(norms[1].find("textdaten/text"))[:1500]
     cat = classify(head, eingang)
+    ctype = CAT_TYPE[cat]
+    if cat == "sonstige":
+        tl = (head.get("langue") or head.get("kurzue") or "").lower()
+        for kw, ty in (("bekanntmachung", "notice"), ("anordnung", "order"), ("erlass", "decree"),
+                       ("erlaß", "decree"), ("geschäftsordnung", "rules_of_procedure")):
+            if kw in tl.split(" ")[0] or (kw in tl[:60] and ty == "notice" and tl.split(" ")[0].endswith("e")):
+                ctype = ty
+                break
 
     title = head.get("langue") or head.get("kurzue") or head.get("jurabk")
     abbr = head.get("amtabk") or head.get("jurabk")
@@ -567,7 +582,7 @@ def convert_zip(zpath, slug, retrieved):
     if abbr:
         fm.append(f"abbreviation: {yq(abbr)}")
     fm.append(f"identifier: {yq(doknr)}")
-    fm.append(f"type: {CAT_TYPE[cat]}")
+    fm.append(f"type: {ctype}")
     fm.append("jurisdiction: de")
     fm.append("language: de")
     if head.get("ausfertigung-datum") and re.match(r"^\d{4}-\d{2}-\d{2}$", head["ausfertigung-datum"]):
@@ -629,7 +644,7 @@ def convert_zip(zpath, slug, retrieved):
         out.extend(b for b in blocks if b and b.strip())
     md_text = "\n\n".join(out).rstrip() + "\n"
     md_text = re.sub(r"\n{3,}", "\n\n", md_text)
-    return cat, md_text, head
+    return cat, md_text, head, ctype
 
 
 def heading(level, text):
@@ -669,7 +684,7 @@ def main():
 
     if not args.only:
         for d in set(CAT_DIR.values()):
-            for f in (out / d).glob("*.md"):
+            for f in (out / d).rglob("*.md"):
                 f.unlink()
     counts = Counter()
     used = {}
@@ -688,17 +703,21 @@ def main():
         if res is None:
             errors.append(f"{slug}: no norms")
             continue
-        cat, text, head = res
+        cat, text, head, ctype = res
         d = CAT_DIR[cat]
         name = slugify(slug)
         key = (d, name)
         if key in used:
             name = f"{name}-{slugify(head.get('jurabk', ''))}"
         used[(d, name)] = slug
-        (out / d).mkdir(parents=True, exist_ok=True)
-        (out / d / f"{name}.md").write_text(text, encoding="utf-8", newline="\n")
+        sub = out / d
+        if d != "grundgesetz":
+            # GitHub's web UI lists at most 1,000 entries per directory -> bucket by first character
+            sub = sub / (name[0] if name[0].isalpha() else "0-9")
+        sub.mkdir(parents=True, exist_ok=True)
+        (sub / f"{name}.md").write_text(text, encoding="utf-8", newline="\n")
         counts[d] += 1
-        counts["type:" + CAT_TYPE[cat]] += 1
+        counts["type:" + ctype] += 1
         if n % 500 == 0:
             print(f"  {n}/{len(slugs)}", file=sys.stderr)
     stats = {"toc_entries": len(slugs), "counts": dict(sorted(counts.items())),

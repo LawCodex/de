@@ -1,0 +1,20 @@
+{
+ "toc_entries": 6139,
+ "counts": {
+  "gesetze": 1826,
+  "grundgesetz": 1,
+  "sonstige": 1378,
+  "type:act": 1826,
+  "type:constitution": 1,
+  "type:decree": 62,
+  "type:notice": 873,
+  "type:order": 306,
+  "type:ordinance": 2934,
+  "type:other": 82,
+  "type:rules_of_procedure": 6,
+  "type:treaty": 49,
+  "verordnungen": 2934
+ },
+ "missing": [],
+ "errors": []
+}

@@ -1,0 +1,54 @@
+---
+title: "Gesetz über die Erhebung einer Sondersteuer auf alkoholhaltige Süßgetränke (Alkopops) zum Schutz junger Menschen"
+short_title: "Alkopopsteuergesetz"
+abbreviation: "AlkopopStG"
+identifier: "BJNR185710004"
+type: act
+jurisdiction: de
+language: de
+date: 2004-07-23
+last_amended: 2021-03-30
+consolidated: 2026-09-17
+status: in_force
+citation:
+  - "BGBl I 2004, 1857"
+stand:
+  - "Stand: Zuletzt geändert durch Art. 7 G v. 30.3.2021 I 607"
+source: "https://www.gesetze-im-internet.de/alkopopstg/"
+retrieved: 2026-10-11
+---
+
+# Gesetz über die Erhebung einer Sondersteuer auf alkoholhaltige Süßgetränke (Alkopops) zum Schutz junger Menschen
+
+> (+++ Textnachweis ab: 1.7.2004 +++)
+>
+> Das G wurde als Artikel 1 des G v. 23.7.2004 I 1857 vom Bundestag beschlossen. Es ist gem. Art. 5 Abs. 1 dieses G am 1.7.2004 in Kraft getreten.
+
+## § 1 Steuergebiet, Steuergegenstand
+
+(1) Alkoholhaltige Süßgetränke (Alkopops) unterliegen im Steuergebiet einer Sondersteuer zum Schutz junger Menschen (Alkopopsteuer). Steuergebiet ist das Gebiet der Bundesrepublik Deutschland ohne das Gebiet Büsingen und ohne die Insel Helgoland. Die Alkopopsteuer ist eine Verbrauchsteuer im Sinne der Abgabenordnung.
+
+(2) Alkopops im Sinne dieses Gesetzes sind Getränke, auch in gefrorenem Zustand, die
+
+- 1\. aus einer Mischung von Getränken mit einem Alkoholgehalt von 1,2 Prozent vol oder weniger oder gegorenen Getränken mit einem Alkoholgehalt von mehr als 1,2 Prozent vol mit Erzeugnissen nach § 1 Absatz 1 des Alkoholsteuergesetzes bestehen,
+- 2\. einen Alkoholgehalt von mehr als 1,2 Prozent vol, aber von weniger als 10 Prozent vol aufweisen,
+- 3\. trinkfertig gemischt in verkaufsfertigen, verschlossenen Behältnissen abgefüllt sind und
+- 4\. als Erzeugnisse nach § 1 Absatz 1 des Alkoholsteuergesetzes der Alkoholsteuer unterliegen.
+
+(3) Als Alkopops gelten auch industriell vorbereitete Mischungskomponenten von Getränken nach Absatz 2, die in einer gemeinsamen Verpackung enthalten sind.
+
+## § 2 Steuertarif
+
+Die Steuer bemisst sich nach der in dem Alkopop enthaltenen Alkoholmenge. Sie beträgt für einen Hektoliter reinen Alkohol, gemessen bei einer Temperatur von 20° C: 5 550 Euro.
+
+## § 3 Besteuerung, Steuerverfahren
+
+(1) Für die Herstellung, Bearbeitung oder Verarbeitung, die Lagerung und die Beförderung von Alkopops unter Steueraussetzung, für die Entstehung der Alkopopsteuer und den Zeitpunkt, der für ihre Bemessung maßgebend ist, für die Person des Steuerschuldners, für die Fälligkeit, das Erlöschen, die Nacherhebung, die Steuerbefreiungen und die Steuerentlastungen sowie das Steuerverfahren gelten vorbehaltlich des Absatzes 2 die Vorschriften für die Alkoholsteuer nach dem Alkoholsteuergesetz sowie den dazu ergangenen Durchführungsbestimmungen sinngemäß.
+
+(2) Für den innergemeinschaftlichen Verkehr mit Alkopops sowie für die Ausfuhr von Alkopops aus dem Steuergebiet über andere Mitgliedstaaten gelten die diesbezüglichen Vorschriften für die Kaffeesteuer nach dem Kaffeesteuergesetz sowie den dazu ergangenen Durchführungsbestimmungen sinngemäß. Satz 1 gilt auch für Beförderungen unter Steueraussetzung im Steuergebiet, soweit sich der in den Alkopops befindliche Alkohol im steuerrechtlich freien Verkehr befindet.
+
+## § 4 Aufkommensverwendung, Aufkommensverteilung
+
+Das Netto-Mehraufkommen aus der Alkopopsteuer ist zur Finanzierung von Maßnahmen zur Suchtprävention der Bundeszentrale für gesundheitliche Aufklärung zu verwenden. Das Netto-Mehraufkommen der Alkopopsteuer ergibt sich aus der Differenz zwischen dem Aufkommen der Alkopopsteuer und den Mindereinnahmen bei der Alkoholsteuer, die sich durch die Einführung der Alkopopsteuer ergeben. Die Bundesregierung wird ermächtigt, das Verfahren zur Berechnung des Netto-Mehraufkommens durch Rechtsverordnung zu regeln.
+
+## § 5 (weggefallen)
