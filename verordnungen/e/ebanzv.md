@@ -1,0 +1,70 @@
+---
+title: "Verordnung über die Übertragung der Führung des Unternehmensregisters"
+abbreviation: "eBAnzV"
+identifier: "BJNR320200006"
+type: ordinance
+jurisdiction: de
+language: de
+date: 2006-12-15
+last_amended: 2025-12-19
+consolidated: 2026-05-06
+status: in_force
+citation:
+  - "BGBl I 2006, 3202"
+stand:
+  - "Aufh: Die V tritt gem. § 5 Abs. 2 am 31.12.2016 außer Kraft; die Geltung dieser V ist gem. § 4 idF d. Art. 1 Nr. 4 V v. 14.1.2015 I 16 über den 31.12.2016 hinaus bis zum 31.12.2026 verlängert worden; die Geltung dieser V ist gem. § 5 idF d. Art. 1 Nr. 2 V v. 19.12.2025 I Nr. 366 über den 31.12.2026 hinaus bis zum 31.12.2031 verlängert worden"
+  - "Stand: zuletzt geändert durch Art. 1 V v. 19.12.2025 I Nr. 366"
+source: "https://www.gesetze-im-internet.de/ebanzv/"
+retrieved: 2026-10-11
+---
+
+# Verordnung über die Übertragung der Führung des Unternehmensregisters
+
+> (+++ Textnachweis ab: 22.12.2006 +++)
+>
+> Überschrift: IdF d. Art. 2 Abs. 41 G v. 22.12.2011 I 3044 mWv 1.4.2012 u. d. Art. 1 Nr. 1 V v. 14.1.2015 I 16 mWv 27.1.2015
+
+## Eingangsformel
+
+Auf Grund des § 9a Abs. 1 des Handelsgesetzbuchs, der durch Artikel 1 Nr. 2 des Gesetzes vom 10. November 2006 (BGBl. I S. 2553) neu gefasst worden ist, und des Artikels 61 Abs. 2 des Einführungsgesetzes zum Handelsgesetzbuch, der durch Artikel 2 des Gesetzes vom 10. November 2006 (BGBl. I S. 2553) eingefügt worden ist, verordnet das Bundesministerium der Justiz:
+
+## § 1 Übertragung der Führung des Unternehmensregisters
+
+Der Bundesanzeiger Verlag GmbH (Beliehene), eingetragen im Handelsregister beim Amtsgericht Köln, HRB 31248, wird die Führung des Unternehmensregisters übertragen.
+
+## § 2 Führung eines Dienstsiegels
+
+Die Beliehene ist berechtigt, das kleine Bundessiegel zu führen. Es wird vom Bundesministerium der Justiz und für Verbraucherschutz zur Verfügung gestellt. Das Dienstsiegel darf ausschließlich zur Beglaubigung von Ausdrucken aus dem Unternehmensregister genutzt werden.
+
+## § 3 Kündigungsrechte
+
+(1) Das durch die Übertragung der Führung des Unternehmensregisters begründete Auftragsverhältnis kann vor Ablauf des Zeitpunkts des Außerkrafttretens dieser Verordnung nach § 5 schriftlich von der Beliehenen mit einer Frist von einem Jahr, vom Bundesministerium der Justiz und für Verbraucherschutz mit einer Frist von höchstens einem Jahr gekündigt werden.
+
+(2) Die Kündigung nach Absatz 1 ist nur aus wichtigem Grund zulässig. Ein wichtiger Grund liegt vor, wenn dem Kündigenden unter Berücksichtigung aller Umstände des Einzelfalls und unter Abwägung der Interessen beider Teile die Fortsetzung des Auftragsverhältnisses bis zum Ablauf des Zeitpunkts des Außerkrafttretens der Verordnung nach § 5 nicht zugemutet werden kann, insbesondere wenn
+
+- 1\. das Verhalten der Beliehenen geeignet ist, das Ansehen der Bundesrepublik Deutschland oder eines der Länder zu schädigen;
+- 2\. die personelle oder sachliche Ausstattung oder die Betriebsabläufe nicht mehr die Gewähr für einen ordnungsgemäßen Betrieb des Unternehmensregisters bieten;
+- 3\. wiederholt oder grob gegen Bestimmungen zur Führung des Unternehmensregisters verstoßen wurde;
+- 4\. die Überschuldung der Beliehenen droht;
+- 5\. das Insolvenzverfahren über das Vermögen der Beliehenen eröffnet wurde.
+
+(3) Die Kündigung kann nur innerhalb von zwei Wochen erfolgen. Die Frist beginnt mit dem Zeitpunkt, in dem der Kündigungsberechtigte von den für die Kündigung maßgebenden Tatsachen Kenntnis erlangt. Der Kündigende muss dem anderen Teil auf Verlangen den Kündigungsgrund unverzüglich schriftlich mitteilen.
+
+(4) Unbeschadet des § 5 sind mit Wirksamwerden der Kündigung die Übertragung der Führung des Unternehmensregisters nach § 1 und die Berechtigung zur Führung eines Dienstsiegels nach § 2 aufgehoben.
+
+## § 4 Abwicklung bei Beendigung der Beleihung
+
+(1) An dem Tag, an dem die Beleihung endet, hat die Beliehene dem Bundesministerium der Justiz und für Verbraucherschutz oder einer von diesem bestimmten Stelle unverzüglich
+
+- 1\. alle für den ordnungsgemäßen Weiterbetrieb des Unternehmensregisters erforderliche Software und Daten zur Verfügung zu stellen und
+- 2\. die Rechte an dieser Software und an der für das Unternehmensregister genutzten Internetadresse zu übertragen.
+
+(2) Die Kosten für die Abwicklung nach Absatz 1 werden nicht vom Bundesministerium der Justiz und für Verbraucherschutz erstattet. Das Bundesministerium der Justiz und für Verbraucherschutz erstattet solche Kosten nur, wenn es sich um Lizenz- und Übertragungsgebühren handelt, die Dritten zustehen, die nicht mit der Beliehenen gesellschaftsrechtlich verbunden sind.
+
+## § 5 Außerkrafttreten
+
+Diese Verordnung tritt mit Ablauf des 31. Dezember 2031 außer Kraft.
+
+## Schlussformel
+
+Der Bundesrat hat zugestimmt.

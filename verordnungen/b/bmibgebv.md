@@ -1,0 +1,475 @@
+---
+title: "Besondere Gebührenverordnung des Bundesministeriums des Innern, für Bau und Heimat für individuell zurechenbare öffentliche Leistungen in dessen Zuständigkeitsbereich"
+short_title: "Besondere Gebührenverordnung BMI"
+abbreviation: "BMIBGebV"
+identifier: "BJNR135900019"
+type: ordinance
+jurisdiction: de
+language: de
+date: 2019-09-02
+last_amended: 2021-09-10
+consolidated: 2026-07-13
+status: in_force
+citation:
+  - "BGBl I 2019, 1359"
+stand:
+  - "Stand: Zuletzt geändert durch Art. 1 V v. 10.9.2021 I 4229"
+  - "Hinweis: Änderung durch Art. 15 Abs. 4 G v. 3.7.2026 I Nr. 199 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet"
+source: "https://www.gesetze-im-internet.de/bmibgebv/"
+retrieved: 2026-10-11
+---
+
+# Besondere Gebührenverordnung des Bundesministeriums des Innern, für Bau und Heimat für individuell zurechenbare öffentliche Leistungen in dessen Zuständigkeitsbereich
+
+> (+++ Textnachweis ab: 1.10.2019 +++)
+
+## Eingangsformel
+
+Auf Grund des § 22 Absatz 4 Satz 1 in Verbindung mit Absatz 1 Satz 2 und 3 des Bundesgebührengesetzes vom 7. August 2013 (BGBl. I S. 3154) verordnet das Bundesministerium des Innern, für Bau und Heimat:
+
+## § 1 Erhebung von Gebühren und Auslagen
+
+Im Zuständigkeitsbereich des Bundesministeriums des Innern, für Bau und Heimat werden Gebühren und Auslagen für individuell zurechenbare öffentliche Leistungen (gebührenfähige Leistungen) erhoben, die auf Grund der folgenden Vorschriften erbracht werden:
+
+- 1\. Bundespolizeigesetz,
+- 2\. Verwaltungs-Vollstreckungsgesetz,
+- 3\. BDBOS-Gesetz,
+- 4\. BDBOS-Zertifizierungsverordnung,
+- 5\. Laufbahnbefähigungsanerkennungsverordnung,
+- 6\. Verordnung (EU) 2016/679 des Europäischen Parlaments und des Rates vom 27. April 2016 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten, zum freien Datenverkehr und zur Aufhebung der Richtlinie 95/46/EG (Datenschutz-Grundverordnung),
+- 7\. BSI-Gesetz,
+- 8\. (weggefallen)
+- 9\. Verordnung zur Erteilung von Unbedenklichkeitsbescheinigungen,
+- 10\. Waffengesetz,
+- 11\. Allgemeine Waffengesetz-Verordnung.
+
+## § 2 Höhe der Gebühren und Auslagen
+
+(1) Die Höhe der Gebühren und Auslagen richtet sich nach dem Gebühren- und Auslagenverzeichnis. Das Gebühren- und Auslagenverzeichnis regelt ferner die Tatbestände für eine Gebühren- und Auslagenbefreiung.
+
+(2) Die nach dem Gebühren- und Auslagenverzeichnis zu erhebenden Gebühren und Auslagen umfassen jeweils auch die Kosten für die Festsetzung der Gebühren und Auslagen.
+
+(3) Auslagen, die nicht im Gebühren- und Auslagenverzeichnis aufgeführt sind, sind mit der Gebühr abgegolten.
+
+## § 3 Zeitgebühr
+
+Sofern im Gebühren- und Auslagenverzeichnis nichts anderes bestimmt ist, gelten
+
+- 1\. für den Zeitaufwand von Verwaltungsbeschäftigten in der Bundesverwaltung die in der Anlage 1 Teil A der Allgemeinen Gebührenverordnung in der am 18. Februar 2021 geltenden Fassung bestimmten allgemeinen pauschalen Stundensätze für Verwaltungsbeschäftigte in der Bundesverwaltung und
+- 2\. für den Zeitaufwand von Polizeivollzugsbeamtinnen und -beamten des Bundes die allgemeinen pauschalen Stundensätze für Polizeivollzugsbeamtinnen und -beamte des Bundes nach Anlage 1 Teil A der Allgemeinen Gebührenverordnung in der am 18. Februar 2021 geltenden Fassung.
+
+## § 4 Übergangsvorschrift
+
+Für die Erhebung von Gebühren und Auslagen für eine gebührenfähige Leistung, die vor dem 1. Oktober 2019 beantragt oder begonnen, aber noch nicht vollständig erbracht wurde, ist das bis einschließlich zum 30. September 2019 geltende Recht weiter anzuwenden.
+
+## § 5 Inkrafttreten
+
+Diese Verordnung tritt am 1. Oktober 2019 in Kraft.
+
+## Anlage (zu § 2 Absatz 1) Gebühren- und Auslagenverzeichnis
+
+(Fundstelle: BGBl. I 2021, 4229 - 4242)
+
+Inhaltsübersicht
+
+| | |
+| --- | --- |
+| Abschnitt 1 | Bundespolizeigesetz (BPolG) |
+| Abschnitt 2 | Verwaltungs-Vollstreckungsgesetz (VwVG) |
+| Abschnitt 3 | BDBOS-Gesetz (BDBOSG) |
+| Abschnitt 4 | BDBOS-Zertifizierungsverordnung (BDBOSZertV) |
+| Abschnitt 5 | Laufbahnbefähigungsanerkennungsverordnung (LBAV) |
+| Abschnitt 6 | Verordnung (EU) 2016/679 (Datenschutz-Grundverordnung – DS-GVO) |
+| Abschnitt 7 | BSI-Gesetz (BSIG) |
+| Abschnitt 8 | (weggefallen) |
+| Abschnitt 9 | Verordnung zur Erteilung von Unbedenklichkeitsbescheinigungen (UnbBeschErtV) |
+| Abschnitt 10 | Waffengesetz (WaffG) |
+| Abschnitt 11 | Allgemeine Waffengesetz-Verordnung (AWaffV) |
+
+****Abschnitt 1****
+
+****Bundespolizeigesetz (BPolG)****
+
+<table>
+<thead>
+<tr><th>Nummer</th><th>Gebühren- oder Auslagentatbestand</th><th>Gebühren/Auslagen<br> in Euro</th></tr>
+</thead>
+<tbody>
+<tr><td>1</td><td>Abwehr von Gefahren nach § 14 BPolG</td><td></td></tr>
+<tr><td>1.1</td><td>Polizeieinsätze</td><td></td></tr>
+<tr><td>1.1.1</td><td>Polizeieinsatz, der durch eine vorsätzliche oder fahrlässige Schaffung einer Gefahrenlage veranlasst wurde</td><td>nach Zeitaufwand</td></tr>
+<tr><td>1.1.2</td><td>Polizeieinsatz, der durch ein vorsätzliches oder fahrlässiges Erwecken des Anscheins einer Gefahrenlage veranlasst wurde</td><td>nach Zeitaufwand</td></tr>
+<tr><td>1.1.3</td><td>Polizeieinsatz, der durch die missbräuchliche Auslösung einer Gefahrenmeldeanlage, Notrufanlage oder durch missbräuchliche Nutzung von Notrufzeichen veranlasst wurde</td><td>nach Zeitaufwand</td></tr>
+<tr><td>1.1.4</td><td>Polizeieinsatz, der durch die Auslösung einer Gefahrenmeldeanlage veranlasst wurde, wenn zum Zeitpunkt der Auslösung keine Anhaltspunkte dafür vorlagen, dass ein sachlicher Grund für die Betätigung einer solchen Anlage bestand</td><td>nach Zeitaufwand</td></tr>
+<tr><td>1.1.5</td><td>Suche oder Rettung einer Person, sofern die Gefahrenlage vorsätzlich oder grob fahrlässig herbeigeführt wurde; ein Einsatz zur Verhinderung eines Suizids ist ausgenommen</td><td>nach Zeitaufwand</td></tr>
+<tr><td>1.1.6</td><td>Suche nach einer als vermisst gemeldeten Person ab dem Zeitpunkt ihrer Rückkehr oder ihres Auffindens bis zur Einstellung der Suchmaßnahmen, wenn die Rückkehr oder das Auffinden der Polizei nicht unverzüglich mitgeteilt wird</td><td>nach Zeitaufwand</td></tr>
+<tr><td>1.1.7</td><td>Aufgreifen oder Auffinden einer betreuten oder unter Aufsicht stehenden abgängigen Person</td><td>nach Zeitaufwand</td></tr>
+<tr><td>1.1.8</td><td>Rettung oder Bergung von Tieren</td><td>nach Zeitaufwand</td></tr>
+<tr><td>1.2</td><td>Bei den Gebührentatbeständen der Nummer 1.1 sind neben den Gebühren folgende Kosten als Auslagen zu erheben:</td><td></td></tr>
+<tr><td>1.2.1</td><td>Kosten für den Einsatz von Hubschraubern, Booten, Schiffen und Wasserwerfern</td><td></td></tr>
+<tr><td>1.2.2</td><td>Kosten für die Reinigung verunreinigter Diensträume, Dienstfahrzeuge, Uniformen oder sonstiger Sachen, die im Dienstgebrauch verwendet werden</td><td></td></tr>
+<tr><td>1.2.3</td><td>Kosten anderer Behörden und Dritter</td><td></td></tr>
+<tr><td>1.2.4</td><td>Kosten für die Verpflegung der gefundenen, geretteten, aufgegriffenen oder aufgefundenen Person</td><td></td></tr>
+<tr><td>1.2.5</td><td>Kosten für Kleidung für die gefundene, gerettete, aufgegriffene oder aufgefundene Person</td><td></td></tr>
+<tr><td>1.3</td><td>Ordnungsverfügungen</td><td></td></tr>
+<tr><td>1.3.1</td><td>Verfügung eines Mitführverbotes</td><td>nach Zeitaufwand</td></tr>
+<tr><td>1.3.2</td><td>Erteilung einer Meldeauflage</td><td>nach Zeitaufwand</td></tr>
+<tr><td>2</td><td>Unmittelbare Ausführung einer Maßnahme nach § 19 BPolG</td><td></td></tr>
+<tr><td>2.1</td><td>Anordnung und Vollzug der unmittelbaren Ausführung einer Maßnahme</td><td>nach Zeitaufwand</td></tr>
+<tr><td>2.2</td><td>Bei dem Gebührentatbestand der Nummer 2.1 sind neben der Gebühr die in den Nummern 1.2.1 bis 1.2.3 bezeichneten Kosten als Auslagen zu erheben.</td><td></td></tr>
+<tr><td>3</td><td>Erhebung von Telekommunikationsdaten nach § 22a BPolG, soweit die Gefahrenlage oder der Gefahrenverdacht vorsätzlich oder fahrlässig herbeigeführt wurde; das Auskunftsersuchen zur Verhinderung eines Suizids ist ausgenommen</td><td></td></tr>
+<tr><td>3.1</td><td>Auskunftsersuchen bei Telekommunikationsdienstleistern nach § 22a Absatz 1 BPolG über nach dem Telekommunikationsgesetz erhobene Daten</td><td>nach Zeitaufwand</td></tr>
+<tr><td>3.2</td><td>Bei dem Gebührentatbestand der Nummer 3.1 sind neben der Gebühr folgende Kosten als Auslagen zu erheben:</td><td></td></tr>
+<tr><td>3.2.1</td><td>Kosten anderer Behörden</td><td></td></tr>
+<tr><td>3.2.2</td><td>Kosten Dritter bis zu dem sich nach § 23 JVEG ergebenden Betrag</td><td></td></tr>
+<tr><td>4</td><td>Identitätsfeststellung nach § 23 Absatz 1 Nummer 5 BPolG</td><td>57,85</td></tr>
+<tr><td>5</td><td>Erkennungsdienstliche Maßnahme nach § 24 Absatz 1 BPolG bzw. § 81b zweite Variante StPO</td><td>64,05</td></tr>
+<tr><td>6</td><td>Zwangsweise Durchsetzung einer Vorladung nach § 25 Absatz 3 BPolG</td><td></td></tr>
+<tr><td>6.1</td><td>Anordnung und Vollzug der zwangsweisen Durchsetzung einer Vorladung</td><td>nach Zeitaufwand</td></tr>
+<tr><td>6.2</td><td>Bei dem Gebührentatbestand der Nummer 6.1 sind neben der Gebühr die Kosten anderer Behörden und Dritter als Auslagen zu erheben.</td><td></td></tr>
+<tr><td>7</td><td>Platzverweisung nach § 38 BPolG</td><td></td></tr>
+<tr><td>7.1</td><td>Mündliche Platzverweisung in Verbindung mit Identitätsfeststellung nach § 23 Absatz 1 BPolG</td><td>48,05</td></tr>
+<tr><td>7.2</td><td>Schriftliche Platzverweisung</td><td></td></tr>
+<tr><td>7.2.1</td><td>Erstmalige Platzverweisung</td><td>96,05</td></tr>
+<tr><td>7.2.2</td><td>Wiederholte Platzverweisung</td><td>56,15</td></tr>
+<tr><td>8</td><td>Gewahrsam nach § 39 BPolG; der Gewahrsam zum Schutz einer Person, die sich erkennbar unverschuldet in einem die freie Willensbestimmung ausschließenden Zustand oder sonst in hilfloser Lage befindet, ist ausgenommen</td><td></td></tr>
+<tr><td>8.1</td><td>Anordnung des Gewahrsams</td><td>79,80</td></tr>
+<tr><td>8.2</td><td>Vollzug des Gewahrsams in der stationären Gewahrsamseinrichtung<br> (zusätzlich zur Gebühr nach Nummer 8.1)</td><td>7,00 je angefangene<br>Viertelstunde</td></tr>
+<tr><td>8.3</td><td>Bei den Gebührentatbeständen der Nummern 8.1 und 8.2 sind neben den Gebühren folgende Kosten als Auslagen zu erheben:</td><td></td></tr>
+<tr><td>8.3.1</td><td>Kosten für die Reinigung verunreinigter Gewahrsamszellen, sonstiger Diensträume, Dienstfahrzeuge, Uniformen oder sonstiger Sachen, die im Dienstgebrauch verwendet werden</td><td></td></tr>
+<tr><td>8.3.2</td><td>Kosten für die Begleitung oder das Transportieren von Personen, Tieren oder Sachen durch eine Polizeivollzugsbeamtin oder einen Polizeivollzugsbeamten des Bundes (PVB)</td><td>16,91 je angefangene<br>Viertelstunde pro PVB</td></tr>
+<tr><td>8.3.3</td><td>Kosten für die Aufbewahrung von Tieren oder Sachen</td><td></td></tr>
+<tr><td>8.3.4</td><td>Kosten für eine ärztliche Untersuchung auf Haft- und Gewahrsamsfähigkeit</td><td></td></tr>
+<tr><td>8.3.5</td><td>Kosten für die Verpflegung der in Gewahrsam genommenen Person</td><td></td></tr>
+<tr><td>8.3.6</td><td>Kosten für Kleidung für die in Gewahrsam genommene Person</td><td></td></tr>
+<tr><td>8.3.7</td><td>Kosten anderer Behörden und Dritter</td><td></td></tr>
+<tr><td>9</td><td>Sicherstellung von Tieren oder Sachen nach § 47 BPolG</td><td></td></tr>
+<tr><td>9.1</td><td>Anordnung und Vollzug der Sicherstellung von Tieren oder Sachen</td><td>55,55</td></tr>
+<tr><td>9.2</td><td>Bei dem Gebührentatbestand der Nummer 9.1 sind neben der Gebühr folgende Kosten als Auslagen zu erheben:</td><td></td></tr>
+<tr><td>9.2.1</td><td>Kosten für die Reinigung verunreinigter Diensträume, Dienstfahrzeuge, Uniformen oder sonstiger Sachen, die im Dienstgebrauch verwendet werden</td><td></td></tr>
+<tr><td>9.2.2</td><td>Kosten für das Transportieren von Tieren oder Sachen durch eine oder einen PVB</td><td>16,91 je angefangene<br>Viertelstunde pro PVB</td></tr>
+<tr><td>9.2.3</td><td>Kosten anderer Behörden und Dritter</td><td></td></tr>
+<tr><td>10</td><td>Amtliche Verwahrung sichergestellter Fahrzeuge nach § 48 BPolG</td><td></td></tr>
+<tr><td>10.1</td><td>eines Kraftfahrzeugs</td><td>1,20 pro Tag</td></tr>
+<tr><td>10.2</td><td>eines Kraftrads</td><td>0,60 pro Tag</td></tr>
+<tr><td>10.3</td><td>Bei den Gebührentatbeständen der Nummern 10.1 und 10.2 sind neben den Gebühren folgende Kosten als Auslagen zu erheben:</td><td></td></tr>
+<tr><td>10.3.1</td><td>Kosten für die Reinigung verunreinigter Diensträume, Dienstfahrzeuge, Uniformen oder sonstiger Sachen, die im Dienstgebrauch verwendet werden</td><td></td></tr>
+<tr><td>10.3.2</td><td>Kosten für das Transportieren von Tieren oder Sachen durch eine oder einen PVB</td><td>16,91 je angefangene<br>Viertelstunde pro PVB</td></tr>
+<tr><td>10.3.3</td><td>Kosten anderer Behörden und Dritter</td><td></td></tr>
+<tr><td>11</td><td>Verwertung oder Vernichtung sichergestellter Sachen nach § 49 BPolG</td><td></td></tr>
+<tr><td>11.1</td><td>Anordnung und Vollzug der Verwertung sichergestellter Sachen nach § 49 Absatz 3 Satz 1 BPolG</td><td>77,10</td></tr>
+<tr><td>11.2</td><td>Anordnung und Vollzug der Vernichtung sichergestellter Sachen</td><td>nach Zeitaufwand</td></tr>
+<tr><td>11.3</td><td>Bei den Gebührentatbeständen der Nummern 11.1 und 11.2 sind neben den Gebühren folgende Kosten als Auslagen zu erheben:</td><td></td></tr>
+<tr><td>11.3.1</td><td>Kosten für die Reinigung verunreinigter Diensträume, Dienstfahrzeuge, Uniformen oder sonstiger Sachen, die im Dienstgebrauch verwendet werden</td><td></td></tr>
+<tr><td>11.3.2</td><td>Kosten anderer Behörden und Dritter</td><td></td></tr>
+<tr><td>12</td><td>Entscheidungen im Aufgabenbereich Grenzschutz nach § 2 BPolG, soweit diese Entscheidungen auf Antrag erfolgen oder sonst im Sinne des § 3 Absatz 2 BGebG individuell zurechenbar sind; ausgenommen ist die Schließung einer Grenzübergangsstelle</td><td></td></tr>
+<tr><td>12.1</td><td>Zulassung einer Grenzübergangsstelle nach § 61 Absatz 1 BPolG</td><td>nach Zeitaufwand</td></tr>
+<tr><td>12.2</td><td>Grenzerlaubnis nach § 61 Absatz 3 BPolG; ausgenommen ist die Grenzerlaubnis für Rettungsflüge</td><td>84,30</td></tr>
+<tr><td>12.3</td><td>Die Kosten, die während des Transports von polizeilichen Kräften oder von Führungs- oder Einsatzmitteln im Zusammenhang mit einer Grenzerlaubnis nach § 61 Absatz 3 BPolG zur Durchführung der notwendigen Grenzübertrittskontrolle nach § 2 BPolG <ul><li>– an einem Flugplatz oder Hafen entstehen, der nicht als Grenzübergangsstelle zugelassen ist, oder<br></li><li>– außerhalb festgesetzter Verkehrsstunden entstehen,<br></li></ul>sind als Auslagen zu erheben.</td><td>16,91 je angefangene<br>Viertelstunde pro PVB</td></tr>
+<tr><td>13</td><td>Bei den Gebührentatbeständen der Nummern 1 bis 12.2 sind neben den Gebühren auch die Kosten für Dolmetscher als Auslagen zu erheben.</td><td></td></tr>
+</tbody>
+</table>
+
+****Abschnitt 2****
+
+****Verwaltungs-Vollstreckungsgesetz (VwVG)****
+
+| Nummer | Gebühren- oder Auslagentatbestand | Gebühren/Auslagen<br>in Euro |
+| --- | --- | --- |
+| 1 | Verwaltungsvollstreckung eines vorausgehenden Verwaltungsaktes nach § 6 Absatz 1 VwVG durch die Bundespolizei |  |
+| 1.1 | Mahnung nach § 3 Absatz 3 VwVG | 3,60 |
+| 1.2 | Ersatzvornahme einer vertretbaren Handlung nach § 10 VwVG | nach Zeitaufwand |
+| 1.3 | Zwangsgeld nach § 11 VwVG | 67,20 |
+| 1.4 | Unmittelbarer Zwang nach § 12 VwVG | nach Zeitaufwand |
+| 2 | Verwaltungsvollstreckung ohne vorausgehenden Verwaltungsakt nach § 6 Absatz 2 VwVG durch die Bundespolizei |  |
+| 2.1 | Ersatzvornahme einer vertretbaren Handlung nach § 10 VwVG | nach Zeitaufwand |
+| 2.2 | Unmittelbarer Zwang nach § 12 VwVG | nach Zeitaufwand |
+| 3 | Bei den Gebührentatbeständen der Nummern 1 und 2.2 sind neben den Gebühren folgende Kosten als Auslagen zu erheben: |  |
+| 3.1 | Kosten für Dolmetscher |  |
+| 3.2 | bei den Gebührentatbeständen der Nummern 1.2, 1.4, 2.1 und 2.2: |  |
+| 3.2.1 | Kosten für den Einsatz von Hubschraubern, Booten, Schiffen und Wasserwerfern |  |
+| 3.2.2 | Kosten für die Reinigung verunreinigter Diensträume, Dienstfahrzeuge, Uniformen oder sonstiger Sachen, die im Dienstgebrauch verwendet werden |  |
+| 3.2.3 | Kosten anderer Behörden und Dritter |  |
+
+****Abschnitt 3****
+
+****BDBOS-Gesetz (BDBOSG)****
+
+| Nummer | Gebühren- oder Auslagentatbestand | Gebühren/Auslagen<br>in Euro |
+| --- | --- | --- |
+| 1 | Anordnung der Präsidentin/des Präsidenten der Bundesanstalt für den Digitalfunk der Behörden und Organisationen mit Sicherheitsaufgaben (BDBOS) zur Abwehr von netzspezifischen Gefahren nach § 15 Absatz 1 BDBOSG | nach Zeitaufwand |
+| 2 | Heranziehung von Dritten durch Heranziehungsbescheid, um notwendige Auskünfte nach § 15 Absatz 4 BDBOSG zu erlangen | nach Zeitaufwand |
+| 3 | Erteilung eines Zertifikats nach § 15a Absatz 2 Satz 1 BDBOSG |  |
+| 3.1 | für eine Funkleitstelle |  |
+| 3.1.1 | ohne technische Prüfung der Funkleitstelle durch die BDBOS |  |
+| 3.1.1.1 | Erteilung des Zertifikats | 401,00 |
+| 3.1.1.2 | Prüfung daraufhin, ob die Funkleitstelle die nachzuweisenden Leistungsmerkmale aufweist (zusätzlich zur Gebühr nach Nummer 3.1.1.1) | 3,83<br>pro nachzuweisendem<br>Leistungsmerkmal |
+| 3.1.2 | mit technischer Prüfung der Funkleitstelle durch die BDBOS | nach Zeitaufwand |
+| 3.2 | für ein sonstiges Endgerät |  |
+| 3.2.1 | ohne technische Prüfung des sonstigen Endgerätes durch die BDBOS |  |
+| 3.2.1.1 | Erteilung des Zertifikats | 334,00 |
+| 3.2.1.2 | Prüfung daraufhin, ob das sonstige Endgerät die nachzuweisenden Leistungsmerkmale aufweist (zusätzlich zur Gebühr nach Nummer 3.2.1.1) | 3,83<br>pro nachzuweisendem<br>Leistungsmerkmal |
+| 3.2.2 | mit technischer Prüfung des sonstigen Endgerätes durch die BDBOS | nach Zeitaufwand |
+| 4 | Erteilung eines Änderungszertifikats nach § 15a Absatz 3 Satz 1 und 2 BDBOSG |  |
+| 4.1 | für eine Funkleitstelle |  |
+| 4.1.1 | ohne technische Prüfung der Funkleitstelle durch die BDBOS |  |
+| 4.1.1.1 | Erteilung des Änderungszertifikats | 548,00 |
+| 4.1.1.2 | Prüfung daraufhin, ob die Änderung den Änderungsfallgruppen zuzuordnen ist (zusätzlich zur Gebühr nach Nummer 4.1.1.1) | 18,60<br>pro Änderungsfall-<br>gruppe |
+| 4.1.1.3 | Prüfung daraufhin, ob die Funkleitstelle die nachzuweisenden Leistungsmerkmale aufweist (zusätzlich zu den Gebühren nach den Nummern 4.1.1.1 und 4.1.1.2) | 8,61<br>pro nachzuweisendem<br>Leistungsmerkmal |
+| 4.1.2 | mit technischer Prüfung der Funkleitstelle durch die BDBOS | nach Zeitaufwand |
+| 4.2 | für ein sonstiges Endgerät |  |
+| 4.2.1 | ohne technische Prüfung des sonstigen Endgerätes durch die BDBOS |  |
+| 4.2.1.1 | Erteilung des Änderungszertifikats | 481,00 |
+| 4.2.1.2 | Prüfung daraufhin, ob die Änderung den Änderungsfallgruppen zuzuordnen ist (zusätzlich zur Gebühr nach Nummer 4.2.1.1) | 18,60<br>pro Änderungsfall-<br>gruppe |
+| 4.2.1.3 | Prüfung daraufhin, ob das sonstige Endgerät die nachzuweisenden Leistungsmerkmale aufweist (zusätzlich zu den Gebühren nach den Nummern 4.2.1.1 und 4.2.1.2) | 8,61<br>pro nachzuweisendem<br>Leistungsmerkmal |
+| 4.2.2 | mit technischer Prüfung des sonstigen Endgerätes durch die BDBOS | nach Zeitaufwand |
+| 5 | Entscheidung über die angezeigte Änderung eines zertifizierten Endgerätes nach § 15a Absatz 3 Satz 5 BDBOSG | 180,00 |
+| 6 | Ausnahmegenehmigung zur Verwendung nicht zertifizierter Endgeräte nach § 15a Absatz 4 Satz 1 BDBOSG | 593,00 |
+
+****Abschnitt 4****
+
+****BDBOS-Zertifizierungsverordnung (BDBOSZertV)****
+
+| Nummer | Gebühren- oder Auslagentatbestand | Gebühren/Auslagen<br>in Euro |
+| --- | --- | --- |
+| 1 | Gewährung des Zugangs zum geschützten Bereich der Internetseite der BDBOS nach § 6 Absatz 1 Satz 1 BDBOSZertV | 201,00 |
+
+****Abschnitt 5****
+
+****Laufbahnbefähigungsanerkennungsverordnung (LBAV)****
+
+| Nummer | Gebühren- oder Auslagentatbestand | Gebühren/Auslagen<br>in Euro |
+| --- | --- | --- |
+| 1 | Anerkennung einer Qualifikation als Laufbahnbefähigung |  |
+| 1.1 | nach § 2 Absatz 1 Nummer 1 LBAV | 100,00 |
+| 1.2 | nach Durchführung einer Eignungsprüfung nach § 2 Absatz 1 Nummer 2 LBAV | 200,00 |
+| 1.3 | nach Durchführung eines Anpassungslehrgangs nach § 2 Absatz 1 Nummer 3 LBAV | 200,00 |
+| 1.4 | nach Durchführung sowohl einer Eignungsprüfung als auch eines Anpassungslehrgangs (§ 2 Absatz 1 Nummer 4 LBAV) | 300,00 |
+
+****Abschnitt 6****
+
+****Verordnung (EU) 2016/679 (Datenschutz-Grundverordnung – DS-GVO)****
+
+| Nummer | Gebühren- oder Auslagentatbestand | Gebühren/Auslagen<br>in Euro |
+| --- | --- | --- |
+| 1 | Bei offenkundig unbegründeten oder exzessiven Anträgen im Sinne von Artikel 12 Absatz 5 Satz 2 DS-GVO, sofern die Antragsbearbeitung nicht verweigert wird, die Erteilung von Auskünften, Mitteilungen und Informationen oder das Ergreifen von Maßnahmen nach den Artikeln 15 bis 22 und 34 DS-GVO | nach Zeitaufwand |
+| 2 | Die Zurverfügungstellung weiterer Kopien nach Artikel 15 Absatz 3 Satz 2 DS-GVO ist gebührenbefreit. |  |
+| 3 | Konsultation der Aufsichtsbehörde bei Datenschutz-Folgenabschätzungen mit erhöhtem Risiko nach Artikel 36 DS-GVO | nach Zeitaufwand |
+| 4 | Genehmigung von Verhaltensregeln nach Artikel 40 Absatz 5 DS-GVO | nach Zeitaufwand |
+| 5 | Zertifizierung nach Artikel 42 Absatz 5 Satz 1 DS-GVO | nach Zeitaufwand |
+| 6 | Erteilung der Befugnis nach Artikel 43 Absatz 1 Satz 2 Buchstabe b DS-GVO in Verbindung mit § 39 BDSG, als Zertifizierungsstelle gemäß Artikel 43 Absatz 1 Satz 1 DS-GVO tätig zu werden | nach Zeitaufwand |
+| 7 | Genehmigung von geeigneten Garantien nach Artikel 46 Absatz 3 DS-GVO und verbindlichen internen Datenschutzvorschriften nach Artikel 47 DS-GVO | nach Zeitaufwand |
+| 8 | Beantwortung bei offenkundig unbegründeten oder – insbesondere im Fall von häufigen Wiederholungen – exzessiven Anfragen im Sinne von Artikel 57 Absatz 4 DS-GVO | nach Zeitaufwand |
+| 9 | Mit Ausnahme der Gebührenerhebung in Bußgeldverfahren nach Artikel 58 Absatz 2 Buchstabe i, Artikel 83 DS-GVO in Verbindung mit § 41 BDSG und § 107 OWiG sind Abhilfemaßnahmen nach Artikel 58 Absatz 2 DS-GVO gebührenbefreit. |  |
+
+****Abschnitt 7****
+
+****BSI-Gesetz (BSIG)****
+
+| Nummer | Gebühren- oder Auslagentatbestand | Gebühren/Auslagen<br>in Euro |
+| --- | --- | --- |
+| 1 | Zertifizierungen und Zertifikate |  |
+| 1.1 | Zertifizierung von Produkten und Standorten nach Common Criteria auf den verschiedenen EAL-Stufen (Evaluation Assurance Level – Stufen der Vertrauenswürdigkeit einer Sicherheitsleistung) |  |
+| 1.1.1 | Erstzertifizierung von Produkten nach § 3 Absatz 1 Satz 2 Nummer 5 in Verbindung mit § 9 Absatz 2 Satz 1 und Absatz 4 BSIG |  |
+| 1.1.1.1 | Produktklasse I (einfache IT-Produkte kleineren Umfangs) |  |
+| 1.1.1.1.1 | EAL 1 | 5 290,00 |
+| 1.1.1.1.2 | EAL 2 | 7 677,00 |
+| 1.1.1.1.3 | EAL 3 | 11 546,00 |
+| 1.1.1.1.4 | EAL 4 | 14 051,00 |
+| 1.1.1.1.5 | EAL 5 | 17 222,00 |
+| 1.1.1.1.6 | EAL 6 | 20 589,00 |
+| 1.1.1.1.7 | EAL 7 | nach Zeitaufwand |
+| 1.1.1.2 | Produktklasse II (IT-Produkte mittleren Umfangs und mittlerer Komplexität) |  |
+| 1.1.1.2.1 | EAL 1 | 7 802,00 |
+| 1.1.1.2.2 | EAL 2 | 12 114,00 |
+| 1.1.1.2.3 | EAL 3 | 18 096,00 |
+| 1.1.1.2.4 | EAL 4 | 21 778,00 |
+| 1.1.1.2.5 | EAL 5 | 26 661,00 |
+| 1.1.1.2.6 | EAL 6 | 31 375,00 |
+| 1.1.1.2.7 | EAL 7 | nach Zeitaufwand |
+| 1.1.1.3 | Produktklasse III (umfangreiche und komplexe IT-Produkte) |  |
+| 1.1.1.3.1 | EAL 1 | 10 126,00 |
+| 1.1.1.3.2 | EAL 2 | 15 947,00 |
+| 1.1.1.3.3 | EAL 3 | 24 313,00 |
+| 1.1.1.3.4 | EAL 4 | 29 152,00 |
+| 1.1.1.3.5 | EAL 5 | 35 378,00 |
+| 1.1.1.3.6 | EAL 6 | 40 805,00 |
+| 1.1.1.3.7 | EAL 7 | nach Zeitaufwand |
+| 1.1.1.4 | In allen Produktklassen |  |
+| 1.1.1.4.1 | Zertifizierung nach § 3 Absatz 1 Satz 2 Nummer 5 in Verbindung mit § 9 Absatz 2 Satz 1 und Absatz 4 BSIG mit zusätzlichen einzelnen Anforderungen aus einer höheren EAL-Stufe (EAL X+) | nach Zeitaufwand |
+| 1.1.1.4.2 | Zertifizierung auf Basis speziell definierter Anforderungen an die Vertrauenswürdigkeit nach § 3 Absatz 1 Satz 2 Nummer 5 in Verbindung mit § 9 Absatz 2 Satz 1 und Absatz 4 BSIG | nach Zeitaufwand |
+| 1.1.2 | Re-Zertifizierung von Produkten (in der Regel mit Wiederverwendung von Nachweisen aus anderen BSI-Zertifizierungsverfahren) nach § 3 Absatz 1 Satz 2 Nummer 5 in Verbindung mit § 9 Absatz 2 Satz 1 und Absatz 4 BSIG | nach Zeitaufwand |
+| 1.1.3 | Maintenance-Verfahren für Produktzertifikate nach § 3 Absatz 1 Satz 2 Nummer 5 in Verbindung mit § 9 Absatz 2 Satz 1 und Absatz 4 BSIG | 787,00 |
+| 1.1.4 | Re-Assessment (Neubewertung eines bestehenden Produktzertifikats nach aktuellem Stand der Technik) nach § 3 Absatz 1 Satz 2 Nummer 5 in Verbindung mit § 9 Absatz 2 Satz 1 und Absatz 4 BSIG | nach Zeitaufwand |
+| 1.1.5 | Zertifizierung der auf den Standort bezogenen Anforderungen an die Vertrauenswürdigkeit für eine Produktzertifizierung nach § 3 Absatz 1 Satz 2 Nummer 5 in Verbindung mit § 9 Absatz 2 Satz 1 und Absatz 4 BSIG |  |
+| 1.1.5.1 | Erstzertifizierung eines Standortes | nach Zeitaufwand |
+| 1.1.5.2 | Re-Zertifizierung eines Standortes | nach Zeitaufwand |
+| 1.1.5.3 | Maintenance-Verfahren für Standortzertifikate | 775,00 |
+| 1.2 | Zertifizierung von Schutzprofilen nach Common Criteria und anderen Prüfkriterien nach § 3 Absatz 1 Satz 2 Nummer 5 in Verbindung mit § 9 Absatz 2 Satz 1 und Absatz 4 BSIG |  |
+| 1.2.1 | Erstzertifizierung eines Schutzprofils | nach Zeitaufwand |
+| 1.2.2 | Re-Zertifizierung eines Schutzprofils | nach Zeitaufwand |
+| 1.2.3 | Maintenance-Verfahren für Schutzprofilzertifikate | 724,00 |
+| 1.3 | Zertifizierung von Produkten und Systemen nach technischen Richtlinien des Bundesamtes für Sicherheit in der Informationstechnik (BSI) nach § 3 Absatz 1 Satz 2 Nummer 5 in Verbindung mit § 9 Absatz 2 Satz 1 und Absatz 4 BSIG |  |
+| 1.3.1 | Erstzertifizierung eines Produkts | 2 398,00 |
+| 1.3.2 | Re-Zertifizierung eines Produkts | 1 075,00 |
+| 1.3.3 | Maintenance-Verfahren für Produktzertifikate | 425,00 |
+| 1.3.4 | Erstzertifizierung eines Systems | 2 936,00 |
+| 1.3.5 | Re-Zertifizierung eines Systems | 1 929,00 |
+| 1.3.6 | Überwachungsaudit für System-Zertifikate | 520,00 |
+| 1.4 | Zertifizierung von Systemen nach ISO 27001 auf der Basis von IT-Grundschutz nach § 3 Absatz 1 Satz 2 Nummer 5 in Verbindung mit § 9 Absatz 2 Satz 1 und Absatz 4 BSIG |  |
+| 1.4.1 | Erstzertifizierung eines Systems | 2 978,00 |
+| 1.4.2 | Re-Zertifizierung eines Systems | 2 658,00 |
+| 1.5 | Zertifizierung einer Person gemäß Verfahrensbeschreibung des BSI nach § 3 Absatz 1 Satz 2 Nummer 5 in Verbindung mit § 9 Absatz 2 Satz 1 und Absatz 5 BSIG |  |
+| 1.5.1 | Zertifizierung einer Person | nach Zeitaufwand |
+| 1.5.2 | Re-Zertifizierung einer Person | 221,00 |
+| 1.5.3 | Vor-Ort-Überwachung einer Person | 963,00 |
+| 1.6 | Zertifizierung von IT-Sicherheitsdienstleistern gemäß Verfahrensbeschreibung des BSI nach § 3 Absatz 1 Satz 2 Nummer 5 in Verbindung mit § 9 Absatz 2 Satz 1 und Absatz 5 BSIG |  |
+| 1.6.1 | Systembegutachtung | nach Zeitaufwand |
+| 1.6.2 | Fachbegutachtung | nach Zeitaufwand |
+| 1.6.3 | Begutachtung zur Systemförderung | 1 485,00 |
+| 1.6.4 | Außerordentliche Begutachtung | nach Zeitaufwand |
+| 1.6.5 | Erweiterung des Geltungsbereichs einer Zertifizierung eines IT-Sicherheitsdienstleisters | nach Zeitaufwand |
+| 1.7 | Zertifizierung nach sonstigen Prüfstandards nach § 3 Absatz 1 Satz 2 Nummer 5 in Verbindung mit § 9 Absatz 2 Satz 1 und Absatz 4 BSIG | nach Zeitaufwand |
+| 1.8 | Anerkennung von Zertifikaten anderer Stellen nach § 3 Absatz 1 Satz 2 Nummer 5 in Verbindung mit § 9 Absatz 7 BSIG | nach Zeitaufwand |
+| 1.9 | Anerkennung von sachverständigen Stellen gemäß Verfahrensbeschreibung des BSI nach § 3 Absatz 1 Satz 2 Nummer 5 in Verbindung mit § 9 Absatz 6 BSIG |  |
+| 1.9.1 | Systembegutachtung einer Stelle | nach Zeitaufwand |
+| 1.9.2 | Fachbegutachtung einer Stelle | nach Zeitaufwand |
+| 1.9.3 | Begutachtung zur Systemförderung einer Stelle | 1 449,00 |
+| 1.9.4 | Außerordentliche Begutachtung einer Stelle | nach Zeitaufwand |
+| 1.9.5 | Erweiterung des Geltungsbereichs einer Anerkennung | nach Zeitaufwand |
+| 1.10 | Digitale Zertifikate für den Betrieb von Krypto- und Sicherheitsmanagementsystemen nach § 3 Absatz 1 Satz 2 Nummer 8 BSIG |  |
+| 1.10.1 | Erteilung eines digitalen Erstzertifikats | nach Zeitaufwand |
+| 1.10.2 | Erneuerung eines digitalen Zertifikats | 291,00 |
+| 2 | Prüfung und Bewertung der Sicherheit von informationstechnischen Systemen oder Komponenten nach § 3 Absatz 1 Satz 2 Nummer 5 BSIG |  |
+| 2.1 | Informationssicherheitsrevision (IS-Revision) |  |
+| 2.1.1 | IS-Kurzrevision | 4 315,00 |
+| 2.1.2 | IS-Partialrevision | nach Zeitaufwand |
+| 2.1.3 | IS-Querschnittsrevision | nach Zeitaufwand |
+| 2.2 | Sonstige Prüfungen und Bewertungen | nach Zeitaufwand |
+| 3 | Unterstützung, Beratung und Durchführung von technischen Prüfungen nach § 3 Absatz 1 Satz 2 Nummer 9 BSIG | nach Zeitaufwand |
+| 4 | Unterstützungshandlung nach § 3 Absatz 1 Satz 2 Nummer 12, 13 und 13a BSIG | nach Zeitaufwand |
+| 5 | Beratung nach § 3 Absatz 1 Satz 2 Nummer 14 BSIG | nach Zeitaufwand |
+| 6 | Freigabe eines IT-Sicherheitskennzeichens nach § 3 Absatz 1 Satz 2 Nummer 14a in Verbindung mit § 9c Absatz 5 BSIG | nach Zeitaufwand |
+| 7 | Prüfung der Eignung branchenspezifischer Sicherheitsstandards nach § 3 Absatz 1 Satz 2 Nummer 17 in Verbindung mit § 8a Absatz 2 BSIG | nach Zeitaufwand |
+| 8 | Bewertung von Sicherheitsmängeln nach § 3 Absatz 1 Satz 2 Nummer 17 in Verbindung mit § 8a Absatz 3 Satz 4 BSIG | nach Zeitaufwand |
+| 9 | Unterstützung bei der Wiederherstellung der Sicherheit oder Funktionsfähigkeit informationstechnischer Systeme in herausgehobenen Fällen nach § 3 Absatz 1 Satz 2 Nummer 18 in Verbindung mit § 5b BSIG | nach Zeitaufwand |
+| 10 | Empfehlungen für Identifizierungs- und Authentisierungsverfahren und Bewertung dieser Verfahren im Hinblick auf die Informationssicherheit nach § 3 Absatz 1 Satz 2 Nummer 19 BSIG | nach Zeitaufwand |
+| 11 | Beratung und Unterstützung von Betreibern Kritischer Infrastrukturen nach § 3 Absatz 3 BSIG | nach Zeitaufwand |
+| 12 | Bei den Gebührentatbeständen der Nummern 1 bis 11 sind neben den Gebühren die Kosten für Dienstreisen und für Dritte als Auslagen zu erheben. |  |
+
+****Abschnitt 8****
+
+****(weggefallen)****
+
+****Abschnitt 9****
+
+****Verordnung zur Erteilung von Unbedenklichkeitsbescheinigungen (UnbBeschErtV)****
+
+| Nummer | Gebühren- oder Auslagentatbestand | Gebühren/Auslagen<br>in Euro |
+| --- | --- | --- |
+| 1 | Erteilung einer Unbedenklichkeitsbescheinigung (Erstbescheinigung) |  |
+| 1.1 | für den Hersteller einer Spieleinrichtung nach § 3 Absatz 1 Nummer 1 UnbBeschErtV | nach Zeitaufwand |
+| 1.2 | für den Veranstalter nach § 3 Absatz 1 Nummer 2 UnbBeschErtV | nach Zeitaufwand |
+| 2 | Erteilung einer Unbedenklichkeitsbescheinigung (erneute Bescheinigung) |  |
+| 2.1 | für den Hersteller einer Spieleinrichtung nach § 3 Absatz 1 Nummer 1 UnbBeschErtV | nach Zeitaufwand |
+| 2.2 | für den Veranstalter nach § 3 Absatz 1 Nummer 2 UnbBeschErtV | nach Zeitaufwand |
+| 3 | Abdruck der Unbedenklichkeitsbescheinigung bei jedem Nachbau einer Spieleinrichtung nach § 3 Absatz 2 UnbBeschErtV | nach Zeitaufwand |
+| 4 | Bei den Gebührentatbeständen der Nummern 1 bis 3 sind neben den Gebühren die Kosten eines nach § 1 Satz 3 UnbBeschErtV vom BKA mit der Durchführung der Prüfung beauftragten Fachinstituts und die Kosten für Dienstreisen des Spielausschusses als Auslagen zu erheben. |  |
+| 5 | Änderung des Veranstaltungsplatzes bei einer erteilten Unbedenklichkeitsbescheinigung nach § 3 Absatz 1 in Verbindung mit § 4 Nummer 5 UnbBeschErtV | nach Zeitaufwand |
+
+****Abschnitt 10****
+
+****Waffengesetz (WaffG)****
+
+<table>
+<thead>
+<tr><th>Nummer</th><th>Gebühren- oder Auslagentatbestand; Gebühren- und Auslagenbefreiung</th><th>Gebühren/Auslagen<br> in Euro</th></tr>
+</thead>
+<tbody>
+<tr><td>1</td><td>Feststellung durch das BKA nach § 2 Absatz 5 in Verbindung mit § 48 Absatz 3 WaffG, ob Gegenstände vom WaffG erfasst werden, mit Einstufung dieser Gegenstände nach Anlage 1 Abschnitt 1 und 3 sowie Anlage 2 WaffG</td><td>nach Zeitaufwand</td></tr>
+<tr><td>2</td><td>Feststellungen nach Nummer 1 auf Antrag von Behörden sind gebühren- und auslagenbefreit.</td><td></td></tr>
+<tr><td>3</td><td>Bei dem Gebührentatbestand der Nummer 1 sind neben der Gebühr auch folgende Kosten des BKA als Auslagen zu erheben:</td><td></td></tr>
+<tr><td>3.1</td><td>Kosten für die Veröffentlichung der Feststellung im Bundesanzeiger</td><td></td></tr>
+<tr><td>3.2</td><td>Kosten anderer Behörden und Dritter, soweit diese vom BKA beauftragt wurden</td><td></td></tr>
+<tr><td>3.3</td><td>Kosten für Eingangsabgaben, insbesondere Zölle und die Eingangsumsatzsteuer, sowie die mit den Eingangsabgaben im Zusammenhang stehenden Gebühren bei der Prüfung von Stoffen und Gegenständen, die dem BKA aus dem Ausland zugesandt werden</td><td></td></tr>
+<tr><td>4</td><td>Erlaubnis durch das BVA</td><td></td></tr>
+<tr><td>4.1</td><td>zum Erwerb und Besitz von Waffen oder Munition (Waffenbesitzkarte)</td><td></td></tr>
+<tr><td>4.1.1</td><td>für eine Person einschließlich der Ersteintragung einer Erwerbs- und Besitzberechtigung für eine Waffe nach § 10 Absatz 1 Satz 1 in Verbindung mit § 48 Absatz 2 WaffG</td><td></td></tr>
+<tr><td>4.1.1.1</td><td>für einen Waffensammler, in Verbindung mit § 17 Absatz 1 WaffG oder für einen Waffen- oder Munitionssachverständigen, in Verbindung mit § 18 WaffG</td><td>nach Zeitaufwand</td></tr>
+<tr><td>4.1.1.2</td><td>für eine sonstige natürliche Person einschließlich <ul><li>– Jäger, in Verbindung mit § 13 WaffG,<br></li><li>– Sportschützen, in Verbindung mit § 14 WaffG,<br></li><li>– Brauchtumsschützen, in Verbindung mit § 16 WaffG,<br></li><li>– gefährdete Personen, in Verbindung mit § 19 WaffG oder<br></li><li>– Erben, in Verbindung mit § 20 WaffG<br></li></ul></td><td>62,90</td></tr>
+<tr><td>4.1.2</td><td>für mehrere Personen nach § 10 Absatz 2 Satz 1 in Verbindung mit § 48 Absatz 2 WaffG</td><td>nach Zeitaufwand</td></tr>
+<tr><td>4.1.3</td><td>für einen schießsportlichen Verein oder eine jagdliche Vereinigung als juristische Person nach § 10 Absatz 2 Satz 2 in Verbindung mit § 48 Absatz 2 WaffG (Vereins-Waffenbesitzkarte)</td><td>nach Zeitaufwand</td></tr>
+<tr><td>4.2</td><td>zum Erwerb und Besitz von Munition nach § 10 Absatz 3 Satz 2 in Verbindung mit § 48 Absatz 2 WaffG (Munitionserwerbsschein)</td><td>nach Zeitaufwand</td></tr>
+<tr><td>4.3</td><td>zum Führen einer Waffe nach § 10 Absatz 4 Satz 1 in Verbindung mit § 48 Absatz 2 WaffG (Waffenschein)</td><td>nach Zeitaufwand</td></tr>
+<tr><td>4.4</td><td>zum Führen von Schreckschuss-, Reizstoff- und Signalwaffen nach § 10 Absatz 4 Satz 4 in Verbindung mit § 48 Absatz 2 WaffG (Kleiner Waffenschein)</td><td>38,90</td></tr>
+<tr><td>4.5</td><td>zur gewerbsmäßigen Waffenherstellung und zum Waffenhandel nach § 21 Absatz 1 in Verbindung mit § 48 Absatz 2 WaffG</td><td>nach Zeitaufwand</td></tr>
+<tr><td>4.6</td><td>zum Schießen nach § 10 Absatz 5 in Verbindung mit § 48 Absatz 2 WaffG (Schießerlaubnis)</td><td>nach Zeitaufwand</td></tr>
+<tr><td>4.7</td><td>zum Schießen außerhalb von Schießstätten zur Brauchtumspflege nach § 16 Absatz 3 in Verbindung mit § 48 Absatz 2 WaffG</td><td>nach Zeitaufwand</td></tr>
+<tr><td>4.8</td><td>zum Erwerb von Schusswaffen oder von Munition für eine Person, die ihren gewöhnlichen Aufenthalt</td><td></td></tr>
+<tr><td>4.8.1</td><td>in einem anderen Mitgliedstaat der Europäischen Union hat und Schusswaffen oder Munition in der Bundesrepublik Deutschland erwerben möchte, nach § 11 Absatz 1 in Verbindung mit § 48 Absatz 2 WaffG</td><td>nach Zeitaufwand</td></tr>
+<tr><td>4.8.2</td><td>in der Bundesrepublik Deutschland hat und Schusswaffen oder Munition in einem anderen Mitgliedstaat der Europäischen Union erwerben möchte, nach § 11 Absatz 2 in Verbindung mit § 48 Absatz 2 WaffG</td><td>nach Zeitaufwand</td></tr>
+<tr><td>4.9</td><td>für das Verbringen oder die Mitnahme von Waffen oder Munition nach, durch oder aus der Bundesrepublik Deutschland nach § 29 Absatz 1, § 30 Satz 1 oder § 32 Absatz 1 Satz 1, jeweils in Verbindung mit § 48 Absatz 2 WaffG</td><td>49,40</td></tr>
+<tr><td>4.10</td><td>zur Mitnahme von Schusswaffen oder Munition in einen anderen Mitgliedstaat nach § 32 Absatz 6 in Verbindung mit § 48 Absatz 2 WaffG (Europäischer Feuerwaffenpass)</td><td>62,40</td></tr>
+<tr><td>4.11</td><td>zum Erwerb, Führen, Schießen, Verbringen oder Mitnahme nach den Nummern 2.1 bis 2.10 durch Erteilung einer Ersatzausfertigung</td><td>nach Zeitaufwand</td></tr>
+<tr><td>5</td><td>Eintragung oder Austragung durch das BVA</td><td></td></tr>
+<tr><td>5.1</td><td>Eintragung in eine bereits vorhandene Waffenbesitzkarte</td><td></td></tr>
+<tr><td>5.1.1</td><td>der Erlaubnis zum Erwerb und Besitz einer Waffe oder von Munition nach § 10 Absatz 1 Satz 1 in Verbindung mit Anlage 1 Abschnitt 1 Unterabschnitt 1 Nummer 1.3 und in Verbindung mit § 48 Absatz 2 WaffG</td><td>40,10</td></tr>
+<tr><td>5.1.2</td><td>der Erlaubnis zum Erwerb und Besitz einer Waffe nach § 10 Absatz 1 Satz 1 oder der Erlaubnis zum Erwerb und Besitz von Munition nach § 10 Absatz 3 Satz 1 in Verbindung mit § 48 Absatz 2 WaffG</td><td>45,25</td></tr>
+<tr><td>5.1.3</td><td>der Erlaubnis zum Erwerb und Besitz eines wesentlichen Teils der Waffe nach § 10 Absatz 1 Satz 1 in Verbindung mit Anlage 1 Abschnitt 1 Unterabschnitt 1 Nummer 1.3 und in Verbindung mit § 48 Absatz 2 WaffG</td><td>nach Zeitaufwand</td></tr>
+<tr><td>5.1.4</td><td>des Überlassens einer Waffe an einen anderen Berechtigten nach § 10 Absatz 1 in Verbindung mit § 48 Absatz 2 WaffG</td><td>44,70</td></tr>
+<tr><td>5.2</td><td>Ein- oder Austragung einer Waffe in den oder aus dem Europäischen Feuerwaffenpass oder sonstige Änderungen nach § 32 Absatz 6 in Verbindung mit § 48 Absatz 2 WaffG</td><td>45,30</td></tr>
+<tr><td>6</td><td>Verlängerung durch das BVA</td><td></td></tr>
+<tr><td>6.1</td><td>eines Waffenscheins nach § 10 Absatz 4 Satz 2 in Verbindung mit § 48 Absatz 2 WaffG</td><td>nach Zeitaufwand</td></tr>
+<tr><td>6.2</td><td>einer Erlaubnis für die Mitnahme von Waffen oder Munition nach oder durch die Bundesrepublik Deutschland nach § 32 Absatz 1 Satz 2 in Verbindung mit § 48 Absatz 2 WaffG</td><td>nach Zeitaufwand</td></tr>
+<tr><td>7</td><td>Genehmigung durch das BVA</td><td></td></tr>
+<tr><td>7.1</td><td>einer Sportordnung</td><td></td></tr>
+<tr><td>7.1.1</td><td>nach § 15a Absatz 2 Satz 1 und 2 WaffG</td><td>nach Zeitaufwand</td></tr>
+<tr><td>7.1.2</td><td>ohne gleichzeitige Anerkennung als Verband nach § 15a Absatz 3 WaffG</td><td>nach Zeitaufwand</td></tr>
+<tr><td>7.2</td><td>von Änderungen genehmigter Sportordnungen nach § 15a Absatz 2 Satz 3 und Absatz 3 WaffG</td><td>nach Zeitaufwand</td></tr>
+<tr><td>8</td><td>Anerkennung durch das BVA von Schießsportverbänden nach § 15 WaffG</td><td>nach Zeitaufwand</td></tr>
+<tr><td>9</td><td>Überprüfung, Überwachung, Prüfung oder Kontrolle</td><td></td></tr>
+<tr><td>9.1</td><td>Regelüberprüfung der Voraussetzungen für eine Waffen- und Munitionserlaubnis</td><td></td></tr>
+<tr><td>9.1.1</td><td>Regelüberprüfung der Voraussetzungen für eine Erlaubnis nach § 4 Absatz 3 und des Fortbestehens des Bedürfnisses nach § 4 Absatz 4 WaffG, jeweils in Verbindung mit § 48 Absatz 2 WaffG</td><td></td></tr>
+<tr><td>9.1.1.1</td><td>für Personen mit bekannter Adresse</td><td>81,35</td></tr>
+<tr><td>9.1.1.2</td><td>für Personen mit unbekannter Adresse</td><td>102,30</td></tr>
+<tr><td>9.1.2</td><td>Regelüberprüfung der Voraussetzungen für eine Erlaubnis nach § 4 Absatz 3 und des Fortbestehens des Bedürfnisses nach § 4 Absatz 4 WaffG, jeweils in Verbindung mit § 40 Absatz 4 WaffG, bei Ausnahmen von den Verboten des Umgangs mit Waffen oder Munition der Anlage 2 Abschnitt 1 WaffG</td><td>63,40</td></tr>
+<tr><td>9.2</td><td>Überwachung des Vorliegens der Voraussetzungen für die Anerkennung von Schießsportverbänden nach § 15 Absatz 4 Satz 1 WaffG</td><td>nach Zeitaufwand</td></tr>
+<tr><td>9.3</td><td>Prüfung zum Nachweis der Fachkunde nach § 22 Absatz 1 in Verbindung mit § 48 Absatz 2 WaffG</td><td>nach Zeitaufwand</td></tr>
+<tr><td>9.4</td><td>Die verdachtsunabhängige Kontrolle der Aufbewahrung von Waffen oder Munition nach § 36 Absatz 3 WaffG durch das BVA ist gebührenbefreit.</td><td></td></tr>
+<tr><td>10</td><td>Anordnung durch das BVA</td><td></td></tr>
+<tr><td>10.1</td><td>zur nachträglichen Anbringung eines Kennzeichens an einer Schusswaffe nach § 25a in Verbindung mit § 48 Absatz 2 WaffG</td><td>nach Zeitaufwand</td></tr>
+<tr><td>10.2</td><td>notwendiger Ergänzungen der Sicherheitsstandards bei der Aufbewahrung von Schusswaffen oder Munition nach § 36 Absatz 6 in Verbindung mit § 48 Absatz 2 WaffG</td><td>nach Zeitaufwand</td></tr>
+<tr><td>11</td><td>nachträgliche Auflage zu einer Erlaubnis zum Erwerb und Besitz von Waffen und Munition</td><td></td></tr>
+<tr><td>11.1</td><td>nach § 9 Absatz 2 Satz 2 WaffG</td><td>nach Zeitaufwand</td></tr>
+<tr><td>11.2</td><td>nach § 9 Absatz 2 Satz 2 WaffG in Verbindung mit § 40 Absatz 4 WaffG</td><td>nach Zeitaufwand</td></tr>
+<tr><td>12</td><td>Untersagen des Erwerbs und Besitzes von Waffen oder Munition (Waffenbesitzverbot) durch das BVA</td><td></td></tr>
+<tr><td>12.1</td><td>deren Erwerb nach § 41 Absatz 1 in Verbindung mit § 48 Absatz 2 WaffG nicht der Erlaubnis bedarf</td><td>nach Zeitaufwand</td></tr>
+<tr><td>12.2</td><td>deren Erwerb nach § 41 Absatz 2 in Verbindung mit § 48 Absatz 2 WaffG der Erlaubnis bedarf</td><td>nach Zeitaufwand</td></tr>
+<tr><td>13</td><td>Sicherstellung, Einziehung, Verwertung, Vernichtung durch das BVA oder sonstige Anordnungen des BVA</td><td></td></tr>
+<tr><td>13.1</td><td>Anordnung der dauerhaften Unbrauchbarmachung, des Überlassens an einen Berechtigten oder der Beseitigung der Verbotsmerkmale sowie jeweils der Nachweisführung darüber gegenüber der Behörde und gegebenenfalls die Sicherstellung von Erlaubnisurkunden, Waffen oder Munition, in den Fällen des § 46 Absatz 2 bis 4 in Verbindung mit § 48 Absatz 2 WaffG</td><td>nach Zeitaufwand</td></tr>
+<tr><td>13.2</td><td>Einziehung, Verwertung oder Vernichtung sichergestellter Waffen oder Munition nach § 46 Absatz 5 in Verbindung mit § 48 Absatz 2 WaffG</td><td>nach Zeitaufwand</td></tr>
+<tr><td>14</td><td>Ausnahmen</td><td></td></tr>
+<tr><td>14.1</td><td>von Alterserfordernissen beim Umgang mit Waffen oder Munition nach § 3 Absatz 3 in Verbindung mit § 48 Absatz 2 WaffG</td><td></td></tr>
+<tr><td>14.1.1</td><td>allgemein nach § 3 Absatz 3 WaffG</td><td>nach Zeitaufwand</td></tr>
+<tr><td>14.1.2</td><td>für den Einzelfall nach § 3 Absatz 3 WaffG</td><td>nach Zeitaufwand</td></tr>
+<tr><td>14.2</td><td>von waffenrechtlichen Erlaubnispflichten nach § 12 Absatz 5 in Verbindung mit § 48 Absatz 2 WaffG</td><td>nach Zeitaufwand</td></tr>
+<tr><td>14.3</td><td>für das Führen von Waffen zur Brauchtumspflege nach § 16 Absatz 2 in Verbindung mit § 48 Absatz 2 WaffG</td><td>nach Zeitaufwand</td></tr>
+<tr><td>14.4</td><td>von der Blockierpflicht für Erbwaffen nach § 20 Absatz 6 in Verbindung mit § 48 Absatz 2 WaffG</td><td>nach Zeitaufwand</td></tr>
+<tr><td>14.5</td><td>vom Mindestalter beim Schießen auf Schießstätten nach § 27 Absatz 4 in Verbindung mit § 48 Absatz 2 WaffG</td><td>nach Zeitaufwand</td></tr>
+<tr><td>14.6</td><td>von den Verboten des Umgangs mit Waffen oder Munition nach Anlage 2 Abschnitt 1 WaffG nach § 40 Absatz 4 WaffG</td><td>nach Zeitaufwand</td></tr>
+<tr><td>14.7</td><td>vom Verbot des Führens von Waffen bei öffentlichen Veranstaltungen nach § 42 Absatz 2 in Verbindung mit § 48 Absatz 2 WaffG</td><td>nach Zeitaufwand</td></tr>
+<tr><td>14.8</td><td>Die Erteilung einer Bescheinigung über Ausnahmen von waffenrechtlichen Vorschriften für Staatsgäste und andere Besucher nach § 56 Satz 1 WaffG durch das BVA ist gebührenbefreit.</td><td></td></tr>
+</tbody>
+</table>
+
+****Abschnitt 11****
+
+****Allgemeine Waffengesetz-Verordnung (AWaffV)****
+
+| Nummer | Gebühren- oder Auslagentatbestand | Gebühren/Auslagen<br>in Euro |
+| --- | --- | --- |
+| 1 | Anerkennung von Lehrgängen zur Vermittlung der Sachkunde im Umgang mit Waffen und Munition nach § 3 Absatz 2 AWaffV in Verbindung mit § 48 Absatz 2 WaffG | nach Zeitaufwand |
+| 2 | Feststellung, ob Schusswaffen nach § 6 Absatz 1 AWaffV vom sportlichen Schießen ausgeschlossen sind | 251,00 |
+| 3 | Ausnahme für vom sportlichen Schießen ausgeschlossene Schusswaffen nach § 6 Absatz 3 AWaffV in Verbindung mit § 48 Absatz 2 WaffG | nach Zeitaufwand |
+| 4 | Genehmigung von Abweichungen von den Anforderungen an die Aufbewahrung von Waffen oder Munition nach § 13 Absatz 5 bis 8 oder § 14 AWaffV, jeweils in Verbindung mit § 48 Absatz 2 WaffG | nach Zeitaufwand |
+| 5 | Verlängerung eines Europäischen Feuerwaffenpasses nach § 33 Absatz 1 Satz 2 AWaffV in Verbindung mit § 48 Absatz 2 WaffG | nach Zeitaufwand |

@@ -1,0 +1,234 @@
+---
+title: "Besondere Gebührenverordnung der Beauftragten der Bundesregierung für Kultur und Medien"
+short_title: "Besondere Gebührenverordnung BKM"
+abbreviation: "BKMBGebV"
+identifier: "BJNR406600021"
+type: ordinance
+jurisdiction: de
+language: de
+date: 2021-08-31
+consolidated: 2026-05-06
+status: in_force
+citation:
+  - "BGBl I 2021, 4066"
+source: "https://www.gesetze-im-internet.de/bkmbgebv/"
+retrieved: 2026-10-11
+---
+
+# Besondere Gebührenverordnung der Beauftragten der Bundesregierung für Kultur und Medien
+
+> (+++ Textnachweis ab: 1.10.2021 +++)
+
+## Eingangsformel
+
+Auf Grund des § 22 Absatz 4 Satz 1 in Verbindung mit Absatz 1 Satz 2 und 3 des Bundesgebührengesetzes vom 7. August 2013 (BGBl. I S. 3154) und in Verbindung mit dem Organisationserlass vom 27. Oktober 1998 (BGBl. I S. 3288) verordnet die Bundeskanzlerin:
+
+## § 1 Erhebung von Gebühren und Auslagen
+
+(1) Im Zuständigkeitsbereich der Beauftragten der Bundesregierung für Kultur und Medien werden Gebühren und Auslagen für individuell zurechenbare öffentliche Leistungen erhoben, die auf Grund der folgenden Vorschriften erbracht werden:
+
+- 1\. Bundesarchivgesetz,
+- 2\. Stasi-Unterlagen-Gesetz,
+- 3\. Kulturgutschutzgesetz,
+- 4\. Verordnung (EU) 2016/679 des Europäischen Parlaments und des Rates vom 27. April 2016 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten, zum freien Datenverkehr und zur Aufhebung der Richtlinie 95/46/EG (Datenschutz-Grundverordnung) (ABl. L 119 vom 4.5.2016, S. 1; L 314 vom 22.11.2016, S. 72; L 127 vom 23.5.2018, S. 2; L 74 vom 4.3.2021, S. 35) in der jeweils geltenden Fassung.
+
+(2) Entscheidungen im Rahmen der Bewilligung von Geldleistungen sowie in diesem Zusammenhang erforderliche Abwicklungsmaßnahmen und Durchführungskontrollen sind gebühren- und auslagenfrei.
+
+## § 2 Höhe der Gebühren und Auslagen
+
+(1) Die Höhe der Gebühren und Auslagen richtet sich nach dem Gebühren- und Auslagenverzeichnis in der Anlage. Das Gebühren- und Auslagenverzeichnis regelt ferner die Tatbestände für eine Gebühren- und Auslagenbefreiung.
+
+(2) Die nach dem Gebühren- und Auslagenverzeichnis zu erhebenden Gebühren und Auslagen umfassen jeweils auch die Kosten für die Festsetzung der Gebühren und Auslagen.
+
+(3) Auslagen, die nicht im Gebühren- und Auslagenverzeichnis aufgeführt sind, sind mit der Gebühr abgegolten.
+
+(4) Auslagen werden unbeschadet des § 1 Absatz 2 auch dann erhoben, wenn
+
+- 1\. die individuell zurechenbare öffentliche Leistung gebührenfrei ist oder
+- 2\. von einer Gebührenerhebung abgesehen wird.
+
+In diesen Fällen werden Auslagen erst ab einer Höhe von 3 Euro erhoben.
+
+## § 3 Zeitgebühr
+
+Sofern im Gebühren- und Auslagenverzeichnis nichts anderes bestimmt ist, gelten für den Zeitaufwand die in der Anlage 1 Teil A der Allgemeinen Gebührenverordnung in der am 18. Februar 2021 geltenden Fassung bestimmten allgemeinen pauschalen Stundensätze für Verwaltungsbeschäftigte in der Bundesverwaltung.
+
+## § 4 Inkrafttreten
+
+Diese Verordnung tritt am 1. Oktober 2021 in Kraft.
+
+## Anlage (zu § 2 Absatz 1) Gebühren- und Auslagenverzeichnis
+
+(Fundstelle: BGBl. I 2021, 4067 - 4071)
+
+Inhaltsübersicht
+
+Abschnitt 1
+
+<table>
+<tbody>
+<tr><td>Bundesarchivgesetz</td></tr>
+</tbody>
+</table>
+
+Abschnitt 2
+
+<table>
+<tbody>
+<tr><td>Stasi-Unterlagen-Gesetz</td></tr>
+</tbody>
+</table>
+
+Abschnitt 3
+
+<table>
+<tbody>
+<tr><td>Kulturgutschutzgesetz</td></tr>
+</tbody>
+</table>
+
+Abschnitt 4
+
+<table>
+<tbody>
+<tr><td>Verordnung (EU) 2016/679</td></tr>
+</tbody>
+</table>
+
+**Abschnitt 1**
+
+**Bundesarchivgesetz**
+
+| Nummer | Gebühren- oder Auslagentatbestand | Gebühren/Auslagen<br>in Euro |
+| --- | --- | --- |
+| **1** | **Nutzung von Archivgut des Bundes nach § 10 BArchG** |  |
+| 1.1 | Bearbeitung von Anfragen |  |
+| 1.1.1 | Benutzung von Archiv- und Bibliotheksgut im Lesesaal ohne besonderen Aufwand | gebührenfrei |
+| 1.1.2 | Schriftliche Auskünfte, Ermittlung von Archiv- und Bibliotheksgut | 20,00 je Stunde |
+| 1.1.3 | Schriftliche Auskünfte, Ermittlung von Archiv- und Bibliotheksgut zu wissenschaftlichen Zwecken in öffentlichem Interesse, soweit insgesamt nicht mehr als eine Stunde Arbeitszeit je Benutzungsvorhaben aufgewendet werden muss | gebührenfrei |
+| 1.1.4 | Rechteklärung | 30,00 je Stunde |
+| 1.1.5 | Bearbeitung von Anfragen nach Nummer 1.1, wenn die Benutzung unerlässlich ist zur Wahrnehmung berechtigter persönlicher Belange für die Geltendmachung von Versorgungs-, Unterhalts-, Erb- oder sonstigen Rechtsansprüchen, insbesondere im Bereich der Wiedergutmachung oder Rehabilitierung staatlichen Unrechts, und damit keine beruflichen, erwerbsmäßigen oder kommerziellen Zwecke verfolgt werden | gebührenfrei |
+| 1.2 | Besonderer Aufwand bei der Bereitstellung |  |
+| 1.2.1 | Herstellung der Vorlagefähigkeit von Archivgut | 40,00 je Stunde |
+| 1.2.2 | Herstellung der Vorlagefähigkeit von Archivgut zu wissenschaftlichen Zwecken im öffentlichen Interesse, wenn insgesamt nicht mehr als eine Stunde Arbeitszeit je Benutzungsvorhaben aufgewendet werden muss | gebührenfrei |
+| 1.2.3 | Bereitstellung digitaler sowie analoger Reproduktionen | 24,00 je Stunde |
+| 1.2.4 | Bereitstellung digitaler sowie analoger Reproduktionen zu wissenschaftlichen Zwecken im öffentlichen Interesse, soweit insgesamt nicht mehr als eine Stunde Arbeitszeit je Benutzungsvorhaben aufgewendet werden muss | gebührenfrei |
+| 1.2.5 | Bereitstellung originär digitaler Daten | 20,00 je Stunde |
+| 1.2.6 | Bereitstellung originär digitaler Daten zu wissenschaftlichen Zwecken im öffentlichen Interesse, soweit insgesamt nicht mehr als eine Stunde Arbeitszeit je Benutzungsvorhaben aufgewendet werden muss | gebührenfrei |
+| 1.2.7 | Bereitstellung von Filmen oder Tönen im Bundesarchiv, sofern keine digitalen Repräsentationen verfügbar sind | 20,00 je Stunde |
+| 1.2.8 | Bereitstellung von Filmen oder Tönen im Bundesarchiv, sofern digitale Repräsentationen verfügbar sind | gebührenfrei |
+| 1.2.9 | Bereitstellung von Kopiervorlagen von Filmen |  |
+| 1.2.9.1 | Sichtung und Ausschnittbestimmung vor Ort mit nachfolgendem Versand an das Kopierwerk | 20,00 je Stunde |
+| 1.2.9.2 | Externe Sichtung digital vorliegender Dateien mit nachfolgendem Versand analoger Materialien zum Kopierwerk | 40,00 je Stunde |
+| 1.2.9.3 | Externe Sichtung und Ausschnittbestimmung von DVD/VHS mit nachfolgendem Versand zum Kopierwerk | 40,00 je Stunde |
+| 1.2.10 | Bereitstellung von Benutzungskopien von Filmen zur Ausleihe | 40,00 je Stunde |
+| 1.2.11 | Bereitstellung von Originalen zu Ausstellungszwecken | 70,00 je Stunde |
+| **2** | **Nutzung von Bildern und Plakaten sowie von Film- und Videomaterial** |  |
+| 2.1 | Nutzung je Bild bzw. Plakat | Gebühr entsprechend dem Entgeltverzeichnis für Bilder und Plakate<sup>1</sup> |
+| 2.2 | Nutzung von Bildern bzw. Plakaten zu nichtkommerziellen Zwecken | gebührenfrei |
+| 2.3 | Nutzung von Film- und Videomaterial | Gebühr entsprechend dem Entgeltverzeichnis für Film- und Videomaterial<sup>2</sup> |
+| 2.4 | Nutzung von Film- und Videomaterial zu nichtkommerziellen Zwecken | gebührenfrei |
+| **3** | **Persönliche Gebührenbefreiung** |  |
+| 3.1 | Die abgebenden Stellen und ihre Rechts- oder Funktionsnachfolger sowie Eigentümer von Archivgut privater Herkunft haben im Bundesarchiv gebührenfreien Zugang zu dem von ihnen abgegebenen Archivgut des Bundes. | gebührenfrei |
+| 3.2 | Die Wahrnehmung der Rechte der Betroffenen nach § 14 Absatz 1 BArchG ist unentgeltlich, wenn die Auskunft mit vertretbarem Verwaltungsaufwand zur Verfügung gestellt werden kann. | gebührenfrei |
+| 3.3 | Bei offenkundig unbegründeten Anträgen oder im Fall häufiger Wiederholung von Anträgen einer betroffenen Person nach 3.2 kann eine Bearbeitungsgebühr gemäß Gebührenverzeichnis erhoben oder aber die Bearbeitung des Antrags ganz verweigert werden. | nach Zeitaufwand |
+| **4** | **Auslagen** |  |
+| 4.1 | Neben den Gebühren zur Nutzung von Archivgut des Bundes sind folgende Kosten für den Einsatz von Sachmitteln und Sonderleistungen als Auslagen zu erheben: |  |
+| 4.1.1 | Leistungen anderer Behörden und Dritter (z. B. Ausführung reprographischer Arbeiten, Erstellung von Benutzungskopien bei Film- und Videomaterial) | in voller Höhe |
+| 4.1.2 | Ausfertigungen und Papierkopien, die auf besonderen Antrag erstellt werden, je Stück | 0,03 |
+| 4.1.3 | Papierausdrucke von Mikroscanner je Stück | 0,03 |
+| 4.1.4 | Datenträger; Speichermedien | in voller Höhe |
+| 4.1.5 | Sonstige Sonderleistungen, z. B. Verpackung und Zustellung | in voller Höhe |
+
+**Abschnitt 2**
+
+**Stasi-Unterlagen-Gesetz**
+
+<table>
+<thead>
+<tr><th>Nummer</th><th colspan="2">Gebühren- oder Auslagentatbestand</th><th>Gebühren/Auslagen<br> in Euro</th></tr>
+</thead>
+<tbody>
+<tr><td><b>1</b></td><td colspan="2"><b>Auskünfte und Mitteilungen</b></td><td></td></tr>
+<tr><td>1.1</td><td colspan="2">Schriftliche Auskünfte an Betroffene im Sinne des § 6 Absatz 3 StUG, an Dritte im Sinne des § 6 Absatz 7 StUG und an nahe Angehörige Vermisster oder Verstorbener im Sinne des § 15 Absatz 3 und 4 StUG (§§ 13, 15 StUG)</td><td>gebührenfrei</td></tr>
+<tr><td>1.2</td><td colspan="2">Schriftliche Auskünfte an Mitarbeiter im Sinne des § 6 Absatz 4 StUG und denen Gleichgestellte im Sinne des § 6 Absatz 5 StUG oder an Begünstigte im Sinne des § 6 Absatz 6 StUG (§§ 16, 17 StUG), soweit nicht gemäß Artikel 15 Absatz 1 in Verbindung mit Artikel 12 Absatz 5 Satz 1 DSGVO gebührenfrei</td><td></td></tr>
+<tr><td>1.2.1</td><td colspan="2">ohne vorangegangene Einsichtnahme</td><td>76,69</td></tr>
+<tr><td>1.2.2</td><td colspan="2">nach vorangegangener Einsichtnahme</td><td>20,45</td></tr>
+<tr><td>1.3</td><td colspan="2">Schriftliche Mitteilungen an öffentliche Stellen</td><td>gebührenfrei</td></tr>
+<tr><td>1.4</td><td colspan="2">Schriftliche Mitteilungen an nichtöffentliche Stellen (§§ 19, 20, 21 StUG)</td><td></td></tr>
+<tr><td>1.4.1</td><td colspan="2">wenn Unterlagen vorhanden sind</td><td>38,35</td></tr>
+<tr><td>1.4.2</td><td colspan="2">wenn keine Unterlagen vorhanden sind</td><td>12,78</td></tr>
+<tr><td><b>2</b></td><td colspan="2"><b>Einsichtnahme</b></td><td></td></tr>
+<tr><td>2.1</td><td colspan="2">Einsichtnahme durch Betroffene im Sinne des § 6 Absatz 3 StUG, durch Dritte im Sinne des § 6 Absatz 7 StUG und durch nahe Angehörige Vermisster oder Verstorbener im Sinne des § 15 Absatz 3 und 4 StUG (§§ 13, 15 StUG)</td><td>gebührenfrei</td></tr>
+<tr><td>2.2</td><td colspan="2">Einsichtnahme durch Mitarbeiter im Sinne des § 6 Absatz 4 StUG und denen Gleichgestellte im Sinne des § 6 Absatz 5 StUG oder durch Begünstigte im Sinne des § 6 Absatz 6 StUG (§§ 16, 17 StUG)</td><td></td></tr>
+<tr><td>2.2.1</td><td colspan="2">ohne vorangegangene schriftliche Auskunft</td><td>76,69</td></tr>
+<tr><td>2.2.2</td><td colspan="2">nach vorangegangener schriftlicher Auskunft</td><td>20,45</td></tr>
+<tr><td>2.3</td><td colspan="2">Einsichtnahme durch öffentliche Stellen</td><td>gebührenfrei</td></tr>
+<tr><td>2.4</td><td colspan="2">Einsichtnahme durch nichtöffentliche Stellen (§§ 19, 20, 21 StUG)</td><td></td></tr>
+<tr><td>2.4.1</td><td colspan="2">ohne vorangegangene schriftliche Mitteilung</td><td>38,35</td></tr>
+<tr><td>2.4.2</td><td colspan="2">nach vorangegangener schriftlicher Mitteilung</td><td>10,23</td></tr>
+<tr><td>2.5</td><td colspan="2">Einsichtnahme durch nichtöffentliche Stellen (§ 26 StUG)</td><td>gebührenfrei</td></tr>
+<tr><td>2.6</td><td colspan="2">Einsichtnahme durch nichtöffentliche Stellen (§ 32 StUG – Forschung)</td><td>38,35</td></tr>
+<tr><td>2.7</td><td colspan="2">Einsichtnahme durch nichtöffentliche Stellen (§ 34 StUG – Presse, Rundfunk, Film)</td><td>76,69</td></tr>
+<tr><td><b>3</b></td><td colspan="2"><b>Herausgabe</b></td><td></td></tr>
+<tr><td>3.1</td><td colspan="2">Herausgabe von Duplikaten an Betroffene im Sinne des § 6 Absatz 3 StUG, an Dritte im Sinne des § 6 Absatz 7 StUG und an nahe Angehörige Vermisster oder Verstorbener im Sinne des § 15 Absatz 3 und 4 StUG (§§ 13, 15 StUG)</td><td>gebührenfrei</td></tr>
+<tr><td>3.2</td><td colspan="2">Herausgabe von Duplikaten an Mitarbeiter im Sinne des § 6 Absatz 4 StUG und denen Gleichgestellte im Sinne des § 6 Absatz 5 StUG oder an Begünstigte im Sinne des § 6 Absatz 6 StUG (§§ 16, 17 StUG), soweit nicht gemäß Artikel 15 Absatz 3 Satz 1 in Verbindung mit Artikel 12 Absatz 5 Satz 1 DSGVO gebührenfrei</td><td></td></tr>
+<tr><td>3.2.1</td><td colspan="2">ohne vorherige Auskunft und Einsichtnahme</td><td>76,69</td></tr>
+<tr><td>3.2.2</td><td colspan="2">nach vorheriger Auskunft, aber ohne vorherige Einsichtnahme</td><td>20,45</td></tr>
+<tr><td>3.2.3</td><td colspan="2">nach vorheriger Einsichtnahme</td><td>5,11</td></tr>
+<tr><td>3.3</td><td colspan="2">Herausgabe von Duplikaten an öffentliche Stellen</td><td>gebührenfrei</td></tr>
+<tr><td>3.4</td><td colspan="2">Herausgabe von Duplikaten an nichtöffentliche Stellen (§§ 19, 20, 21 sowie § 32 StUG)</td><td></td></tr>
+<tr><td>3.4.1</td><td colspan="2">ohne vorherige Einsichtnahme</td><td>10,23</td></tr>
+<tr><td>3.4.2</td><td colspan="2">nach vorheriger Einsichtnahme</td><td>5,11</td></tr>
+<tr><td>3.5</td><td colspan="2">Herausgabe von Duplikaten an nichtöffentliche Stellen (§ 26 StUG)</td><td>gebührenfrei</td></tr>
+<tr><td>3.6</td><td colspan="2">Herausgabe von Duplikaten an nichtöffentliche Stellen (§ 34 StUG – Presse, Rundfunk, Film)</td><td></td></tr>
+<tr><td>3.6.1</td><td colspan="2">ohne vorherige Einsichtnahme</td><td>76,69</td></tr>
+<tr><td>3.6.2</td><td colspan="2">nach vorheriger Einsichtnahme</td><td>38,35</td></tr>
+<tr><td><b>4</b></td><td colspan="2"><b>Auslagen</b></td><td></td></tr>
+<tr><td>4.1</td><td colspan="2">Duplikate von Papiervorlagen (z. B. Akten, Schriftstücke, Karteikarten) und verfilmten Akten, die herausgegeben werden, soweit nicht gemäß Artikel 15 Absatz 3 Satz 1 in Verbindung mit Artikel 12 Absatz 5 Satz 1 DSGVO als erste Kopie auslagenfrei</td><td></td></tr>
+<tr><td>4.1.1</td><td colspan="2">an Betroffene im Sinne des § 6 Absatz 3 StUG, an Dritte im Sinne des § 6 Absatz 7 StUG und an nahe Angehörige Vermisster oder Verstorbener im Sinne des § 15 Absatz 3 und 4 StUG (§§ 13, 15 StUG)</td><td></td></tr>
+<tr><td></td><td>a)</td><td>DIN-A4-Duplikat von Papiervorlagen</td><td>0,03</td></tr>
+<tr><td></td><td>b)</td><td>DIN-A3-Duplikat von Papiervorlagen</td><td>0,05</td></tr>
+<tr><td></td><td>c)</td><td>Reproduktion von verfilmten Akten je Seite</td><td>0,08</td></tr>
+<tr><td></td><td>d)</td><td>einfache elektronische Kopie</td><td>auslagenfrei</td></tr>
+<tr><td></td><td colspan="2">zusätzlich:</td><td></td></tr>
+<tr><td></td><td>e)</td><td>Materialkosten je CD</td><td>0,48</td></tr>
+<tr><td></td><td>f)</td><td>Materialkosten je DVD</td><td>0,54</td></tr>
+<tr><td>4.1.2</td><td colspan="2">an Mitarbeiter im Sinne des § 6 Absatz 4 StUG und denen Gleichgestellte im Sinne des § 6 Absatz 5 StUG oder an Begünstigte im Sinne des § 6 Absatz 6 StUG oder an nichtöffentliche Stellen (§§ 19, 20, 21, 26, 32, 34 StUG)</td><td></td></tr>
+<tr><td></td><td>a)</td><td>DIN-A4-Duplikat von Papiervorlagen</td><td>0,10</td></tr>
+<tr><td></td><td>b)</td><td>DIN-A3-Duplikat von Papiervorlagen</td><td>0,15</td></tr>
+<tr><td></td><td>c)</td><td>Reproduktion von verfilmten Akten je Seite</td><td>0,18</td></tr>
+<tr><td></td><td>d)</td><td>einfache elektronische Kopie</td><td>auslagenfrei</td></tr>
+<tr><td></td><td colspan="2">zusätzlich:</td><td></td></tr>
+<tr><td></td><td>e)</td><td>Materialkosten je CD</td><td>0,48</td></tr>
+<tr><td></td><td>f)</td><td>Materialkosten je DVD</td><td>0,54</td></tr>
+<tr><td>4.2</td><td colspan="2">Herstellung und Herausgabe von Duplikaten sonstiger Informationsträger (z. B. Bild- und Tonaufzeichnungen, Filme, Karten, Pläne)</td><td>in voller Höhe</td></tr>
+<tr><td>4.3</td><td colspan="2">Aufwand für besondere Verpackung und Beförderung</td><td>in voller Höhe</td></tr>
+<tr><td>4.4</td><td colspan="2">Von öffentlichen Stellen werden keine Auslagen erhoben.</td><td></td></tr>
+</tbody>
+</table>
+
+**Abschnitt 3**
+
+**Kulturgutschutzgesetz**
+
+| Nummer | Gebühren- oder Auslagentatbestand | Gebühren/Auslagen<br>in Euro |
+| --- | --- | --- |
+| 1 | Genehmigung der dauerhaften Ausfuhr von nationalem Kulturgut nach § 23 KGSG | nach Zeitaufwand |
+| 2 | Liegt ein Fall des § 23 Absatz 3 KGSG vor, ist die Genehmigung nach Nummer 1 gebühren- und auslagenfrei. |  |
+| 3 | Beim Gebührentatbestand nach Nummer 1 sind neben der Gebühr folgende Kosten als Auslagen zu erheben: |  |
+| 3.1 | Kosten für Sachverständige | Berechnung gemäß den Richtlinien für die Abfindung der Mitglieder von Beiräten, Ausschüssen, Kommissionen und ähnlichen Einrichtungen im Bereich des Bundes<br>(Beiräterichtlinien, GMBl 2002 S. 92) |
+| 3.2 | DIN-A4-Duplikat je Seite | 0,03 |
+
+**Abschnitt 4**
+
+**Verordnung (EU) 2016/679**
+
+| Nummer | Gebühren- oder Auslagentatbestand | Gebühren/Auslagen<br>in Euro |
+| --- | --- | --- |
+| 1 | Bei offenkundig unbegründeten oder exzessiven Anträgen (Artikel 12 Absatz 5 Satz 2 lit. a DSGVO): Informationen gemäß Artikel 13 und 14 DSGVO sowie Mitteilungen und Maßnahmen gemäß Artikel 15 bis 22 und Artikel 34 DSGVO. | nach Zeitaufwand |
+| 2 | Zurverfügungstellung weiterer Kopien nach Artikel 15 Absatz 3 Satz 2 DSGVO. | gebührenfrei |
+
+<sup>1</sup> Amtlicher Hinweis: Im Internet abrufbar unter https://www.bundesarchiv.de/DE/Navigation/Meta/Ueber-uns/Rechtsgrundlagen/Kostenverordnung/kostenverordnung.html
+
+<sup>2</sup> Amtlicher Hinweis: Im Internet abrufbar unter https://www.bundesarchiv.de/DE/Navigation/Meta/Ueber-uns/Rechtsgrundlagen/Kostenverordnung/kostenverordnung.html

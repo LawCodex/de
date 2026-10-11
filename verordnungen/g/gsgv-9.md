@@ -1,0 +1,263 @@
+---
+title: "Neunte Verordnung zum Produktsicherheitsgesetz"
+short_title: "Maschinenverordnung"
+abbreviation: "9. ProdSV"
+identifier: "BJNR070410993"
+type: ordinance
+jurisdiction: de
+language: de
+date: 1993-05-12
+last_amended: 2026-03-02
+consolidated: 2026-08-11
+status: in_force
+citation:
+  - "BGBl I 1993, 704"
+stand:
+  - "Aufh: V aufgeh. durch § 10 dieser V, dieser eingef. durch Art. 2 G v. 2.12.2025 I Nr. 302, mit Ablauf des 19.1.2027"
+  - "Stand: Zuletzt geändert durch Art. 3 V v. 2.3.2026 I Nr. 54"
+source: "https://www.gesetze-im-internet.de/gsgv_9/"
+retrieved: 2026-10-11
+---
+
+# Neunte Verordnung zum Produktsicherheitsgesetz
+
+<sup>\*)</sup> Diese Verordnung dient der Umsetzung der Richtlinie 89/392/EWG des Rates vom 14. Juni 1989 zur Angleichung der Rechtsvorschriften der Mitgliedstaaten für Maschinen (ABl. EG Nr. L 183 S. 9), zuletzt geändert durch die Richtlinie 91/368/EWG des Rates vom 20. Juni 1991 (ABl. EG Nr. L 198 S. 16).
+
+> (+++ Textnachweis ab: 20.5.1993 +++)
+>
+> (+++ Amtlicher Hinweis des Normgebers auf EG-Recht:\
+> Umsetzung der\
+> EWGRL 392/89 (CELEX Nr: 389L0392)\
+> EGRL 42/2006 (CELEX Nr: 306L0042) vgl. V v. 18.6.2008 I 1060 +++)
+>
+> (+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte V v. 2.3.2026 I Nr. 54 +++)
+>
+> Diese Verordnung ist gem. Art. 3 der V v. 12.5.1993 I 704 am 20.5.1993 in Kraft getreten; sie wurde auf Grund d. § 4 Abs. 1 G v. 24.6.1968 I 717 von der Bundesregierung nach Anhörung des Ausschusses für technische Arbeitsmittel und der beteiligten Kreise mit Zustimmung des Bundesrates als Artikel 1 der vorgenannten V erlassen.
+>
+> Überschrift: IdF d. Art. 19 Nr. 1 G v. 8.11.2011 I 2178 mWv 15.12.2011 u.\
+> d. Art. 3 Nr. 1 V v. 2.3.2026 I Nr. 54 mWv 30.5.2026
+
+## § 1 Anwendungsbereich
+
+(1) Diese Verordnung gilt für die Bereitstellung auf dem Markt und die Inbetriebnahme von folgenden neuen Produkten:
+
+- 1\. Maschinen,
+- 2\. auswechselbare Ausrüstungen,
+- 3\. Sicherheitsbauteile,
+- 4\. Lastaufnahmemittel,
+- 5\. Ketten, Seile und Gurte,
+- 6\. abnehmbare Gelenkwellen und
+- 7\. unvollständige Maschinen.
+
+(2) Diese Verordnung gilt nicht für:
+
+- 1\. Sicherheitsbauteile, die als Ersatzteile zur Ersetzung identischer Bauteile bestimmt sind und die vom Hersteller der Ursprungsmaschine geliefert werden,
+- 2\. spezielle Einrichtungen für die Verwendung auf Jahrmärkten und in Vergnügungsparks,
+- 3\. speziell für eine nukleare Verwendung konstruierte oder eingesetzte Maschinen, deren Ausfall zu einer Emission von Radioaktivität führen kann,
+- 4\. Waffen einschließlich Feuerwaffen,
+- 5\. die folgenden Beförderungsmittel:
+
+  - a) land- und forstwirtschaftliche Zugmaschinen in Bezug auf die Risiken, die von der Verordnung (EU) Nr. 167/2013 erfasst werden mit Ausnahme der auf diesen Fahrzeugen angebrachten Maschinen,
+  - b) Kraftfahrzeuge und Kraftfahrzeuganhänger im Sinne der Verordnung (EU) 2018/858 mit Ausnahme der auf diesen Fahrzeugen angebrachten Maschinen,
+  - c) Fahrzeuge im Sinne der Verordnung (EU) Nr. 168/2013 mit Ausnahme der auf diesen Fahrzeugen angebrachten Maschinen,
+  - d) ausschließlich für sportliche Wettbewerbe bestimmte Kraftfahrzeuge und
+  - e) Beförderungsmittel für die Beförderung in der Luft, auf dem Wasser und auf Schienennetzen mit Ausnahme der auf diesen Beförderungsmitteln angebrachten Maschinen,
+- 6\. Seeschiffe und bewegliche Offshore-Anlagen sowie Maschinen, die auf solchen Schiffen oder in solchen Anlagen installiert sind,
+- 7\. Maschinen, die speziell für militärische Zwecke oder zur Aufrechterhaltung der öffentlichen Ordnung konstruiert und gebaut wurden,
+- 8\. Maschinen, die speziell für Forschungszwecke konstruiert und gebaut wurden und zur vorübergehenden Verwendung in Laboratorien bestimmt sind,
+- 9\. Schachtförderanlagen,
+- 10\. Maschinen zur Beförderung von Darstellern und Darstellerinnen während künstlerischer Vorführungen,
+- 11\. elektrische und elektronische Erzeugnisse folgender Arten, soweit sie unter die Richtlinie 2014/35/EU fallen:
+
+  - a) für den häuslichen Gebrauch bestimmte Haushaltsgeräte,
+  - b) Audio- und Videogeräte,
+  - c) informationstechnische Geräte,
+  - d) gewöhnliche Büromaschinen,
+  - e) Niederspannungsschaltgeräte und -steuergeräte und
+  - f) Elektromotoren und
+- 12\. die folgenden Arten von elektrischen Hochspannungsausrüstungen:
+
+  - a) Schalt- und Steuergeräte und
+  - b) Transformatoren.
+
+(3) Werden die in Anhang I der Richtlinie 2006/42/EG genannten Gefährdungen, die von einer Maschine ausgehen, ganz oder teilweise von Rechtsvorschriften genauer erfasst, durch die andere Gemeinschaftsrichtlinien in deutsches Recht umgesetzt werden, so gelten insoweit die Bestimmungen dieser Verordnung für diese Maschine und diese Gefährdungen nicht.
+
+## § 2 Begriffsbestimmungen
+
+- 1\. Maschinen im Sinne der Verordnung sind die in § 1 Abs. 1 Nr. 1 bis 6 aufgelisteten Produkte.
+- 2\. Eine Maschine im Sinne des § 1 Abs. 1 Nr. 1 ist auch:
+
+  - a) eine mit einem anderen Antriebssystem als der unmittelbar eingesetzten menschlichen oder tierischen Kraft ausgestattete oder dafür vorgesehene Gesamtheit miteinander verbundener Teile oder Vorrichtungen, von denen mindestens eines beziehungsweise eine beweglich ist und die für eine bestimmte Anwendung zusammengefügt sind,
+  - b) eine Gesamtheit im Sinne des Buchstaben a, der lediglich die Teile fehlen, die sie mit ihrem Einsatzort oder mit ihren Energie- und Antriebsquellen verbinden,
+  - c) eine einbaufertige Gesamtheit im Sinne der Buchstaben a und b, die erst nach Anbringung auf einem Beförderungsmittel oder Installation in einem Gebäude oder Bauwerk funktionsfähig ist,
+  - d) eine Gesamtheit von Maschinen im Sinne der Buchstaben a bis c oder von unvollständigen Maschinen nach Nummer 8, die, damit sie zusammenwirken, so angeordnet sind und betätigt werden, dass sie als Gesamtheit von Maschinen funktionieren,
+  - e) eine Gesamtheit miteinander verbundener Teile oder Vorrichtungen, von denen mindestens eines beziehungsweise eine beweglich ist und die für Hebevorgänge zusammengefügt sind und deren einzige Antriebsquelle die unmittelbar eingesetzte menschliche Kraft ist.
+- 3\. Eine auswechselbare Ausrüstung ist eine Vorrichtung, die der Bediener einer Maschine oder Zugmaschine nach deren Inbetriebnahme selbst an ihr anbringt, um ihre Funktion zu ändern oder zu erweitern, sofern diese Ausrüstung kein Werkzeug ist.
+- 4\. Ein Sicherheitsbauteil ist ein Bauteil,
+
+  - a) das zur Gewährleistung einer Sicherheitsfunktion dient,
+  - b) das gesondert auf dem Markt bereitgestellt wird,
+  - c) dessen Ausfall oder Fehlfunktion die Sicherheit von Personen gefährdet und
+  - d) das für das Funktionieren der Maschine nicht erforderlich ist oder durch für das Funktionieren der Maschine übliche Bauteile ersetzt werden kann.
+
+  Eine nicht erschöpfende Liste von Sicherheitsbauteilen findet sich in Anhang V der Richtlinie 2006/42/EG in der Fassung vom 9. Oktober 2024.
+- 5\. Ein Lastaufnahmemittel ist ein nicht zum Hebezeug gehörendes Bauteil oder Ausrüstungsteil, das das Ergreifen der Last ermöglicht und das zwischen Maschine und Last oder an der Last selbst angebracht wird oder das dazu bestimmt ist, ein integraler Bestandteil der Last zu werden, und das gesondert auf dem Markt bereitgestellt wird; als Lastaufnahmemittel gelten auch Anschlagmittel und ihre Bestandteile.
+- 6\. Ketten, Seile und Gurte sind für Hebezwecke als Teil von Hebezeugen oder Lastaufnahmemitteln entwickelte und hergestellte Ketten, Seile und Gurte.
+- 7\. Eine abnehmbare Gelenkwelle ist ein abnehmbares Bauteil zur Kraftübertragung zwischen einer Antriebs- oder Zugmaschine und einer anderen Maschine, das die ersten Festlager beider Maschinen verbindet. Wird die Vorrichtung zusammen mit der Schutzeinrichtung auf dem Markt bereitgestellt, ist diese Kombination als ein einziges Produkt anzusehen.
+- 8\. Eine unvollständige Maschine ist eine Gesamtheit, die fast eine Maschine bildet, für sich genommen aber keine bestimmte Funktion erfüllen kann. Ein Antriebssystem stellt eine unvollständige Maschine dar. Eine unvollständige Maschine ist nur dazu bestimmt, in andere Maschinen oder unvollständige Maschinen oder Ausrüstungen eingebaut oder mit ihnen zusammengefügt zu werden, um zusammen mit ihnen eine Maschine im Sinne dieser Verordnung zu bilden.
+- 9\. Inbetriebnahme ist die erstmalige bestimmungsgemäße Verwendung einer von dieser Verordnung erfassten Maschine in der Europäischen Gemeinschaft.
+- 10\. Ein Hersteller ist jede natürliche oder juristische Person, die eine von dieser Verordnung erfasste Maschine oder eine unvollständige Maschine konstruiert oder baut und für die Übereinstimmung der Maschine oder unvollständigen Maschine mit dieser Verordnung im Hinblick auf ihr Inverkehrbringen unter ihrem eigenen Namen oder Warenzeichen oder für den Eigengebrauch verantwortlich ist. Wenn kein Hersteller im Sinne des Satzes 1 vorhanden ist, wird jede natürliche oder juristische Person, die eine von dieser Verordnung erfasste Maschine oder unvollständige Maschine in den Verkehr bringt oder in Betrieb nimmt, als Hersteller betrachtet.
+- 11\. Eine harmonisierte Norm ist eine harmonisierte Norm im Sinne des Artikels 2 Nummer 1 Buchstabe c der Verordnung (EU) Nr. 1025/2012.
+- 12\. Die grundlegenden Sicherheits- und Gesundheitsschutzanforderungen sind die verbindlichen Vorschriften für die Konstruktion und den Bau von Produkten, für die diese Verordnung gilt. Zweck dieser Anforderungen ist es, ein hohes Maß an Sicherheit und Gesundheitsschutz von Personen und gegebenenfalls von Haustieren, die Sicherheit von Sachen sowie, soweit anwendbar, den Schutz der Umwelt zu gewährleisten. Die grundlegenden Sicherheits- und Gesundheitsschutzanforderungen sind in Anhang I der Richtlinie 2006/42/EG in der Fassung vom 9. Oktober 2024 angegeben. Die grundlegenden Sicherheits- und Gesundheitsschutzanforderungen hinsichtlich des Schutzes der Umwelt sind nur auf die in Abschnitt 2.4 dieses Anhangs genannten Maschinen anzuwenden.
+- 13\. Eine krisenrelevante Ware ist eine solche im Sinne von Artikel 3 Nummer 6 der Verordnung (EU) 2024/2747.
+- 14\. Der Notfallmodus für den Binnenmarkt ist der in Artikel 3 Nummer 3 der Verordnung (EU) 2024/2747 niedergelegte Rahmen zur Bewältigung einer Krise mit erheblichen negativen Auswirkungen auf den Binnenmarkt.
+
+## § 3 Voraussetzungen für die Bereitstellung von Maschinen auf dem Markt oder die Inbetriebnahme von Maschinen
+
+(1) Der Hersteller oder sein Bevollmächtigter darf Maschinen nur in den Verkehr bringen oder in Betrieb nehmen, wenn sie bei ordnungsgemäßer Installation und Wartung und bei bestimmungsgemäßer Verwendung oder vorhersehbarer Fehlanwendung die Sicherheit und die Gesundheit von Personen und die Sicherheit von Haustieren und Gütern und, soweit anwendbar, die Umwelt nicht gefährden.
+
+(2) Der Hersteller oder sein Bevollmächtigter muss vor dem Inverkehrbringen oder vor der Inbetriebnahme einer Maschine
+
+- 1\. sicherstellen, dass die Maschine den in Anhang I der Richtlinie 2006/42/EG in der Fassung vom 9. Oktober 2024 aufgeführten, für sie geltenden grundlegenden Sicherheits- und Gesundheitsschutzanforderungen entspricht,
+- 2\. sicherstellen, dass die in Anhang VII Teil A der Richtlinie 2006/42/EG in der Fassung vom 9. Oktober 2024 genannten technischen Unterlagen verfügbar sind,
+- 3\. insbesondere die erforderlichen Informationen, wie die Betriebsanleitung im Sinne des Anhangs I der Richtlinie 2006/42/EG in der Fassung vom 9. Oktober 2024, zur Verfügung stellen,
+- 4\. die zutreffenden Konformitätsbewertungsverfahren gemäß § 4 durchführen,
+- 5\. die EG-Konformitätserklärung gemäß Anhang II Teil 1 Abschnitt A der Richtlinie 2006/42/EG in der Fassung vom 9. Oktober 2024 ausstellen und sicherstellen, dass sie der Maschine beiliegt und
+- 6\. die CE-Kennzeichnung nach § 5 anbringen.
+
+(3) Der Hersteller oder sein Bevollmächtigter muss im Hinblick auf das in § 4 genannte Verfahren über die notwendigen Mittel verfügen oder Zugang zu ihnen haben, um sicherzustellen, dass die Maschine die in Anhang I der Richtlinie 2006/42/EG in der Fassung vom 9. Oktober 2024 aufgeführten grundlegenden Sicherheits- und Gesundheitsschutzanforderungen erfüllt.
+
+(4) Unterliegt die Maschine auch anderen Rechtsvorschriften, die die CE-Kennzeichnung vorschreiben, wird durch die CE-Kennzeichnung auch bestätigt, dass die Maschine ebenfalls den Bestimmungen dieser anderen Rechtsvorschriften entspricht. Steht jedoch gemäß einer oder mehrerer dieser Rechtsvorschriften dem Hersteller oder seinem Bevollmächtigten während einer Übergangszeit die Wahl der anzuwendenden Regelung frei, so bestätigt die CE-Kennzeichnung in diesem Fall lediglich, dass die Maschine den vom Hersteller oder seinem Bevollmächtigten angewandten Rechtsvorschriften nach Satz 1 entspricht. In diesen Fällen müssen in der der Maschine beiliegenden EG-Konformitätserklärung alle Nummern der Gemeinschaftsrichtlinien, die den angewandten Rechtsvorschriften zugrunde liegen, entsprechend ihrer Veröffentlichung im Amtsblatt der Europäischen Union aufgeführt sein.
+
+(5) Ist eine Maschine nach einer harmonisierten Norm, deren Fundstelle im Amtsblatt der Europäischen Union veröffentlicht worden ist, hergestellt worden, so wird davon ausgegangen, dass sie den von dieser harmonisierten Norm erfassten grundlegenden Sicherheits- und Gesundheitsschutzanforderungen entspricht.
+
+## § 4 Konformitätsbewertungsverfahren für Maschinen
+
+(1) Der Hersteller oder sein Bevollmächtigter führt eines der in den Absätzen 2, 3 und 4 beschriebenen Konformitätsbewertungsverfahren durch, um nachzuweisen, dass die Maschine mit den Bestimmungen dieser Verordnung übereinstimmt.
+
+(2) Ist die Maschine nicht in Anhang IV der Richtlinie 2006/42/EG in der Fassung vom 9. Oktober 2024 aufgeführt, so führt der Hersteller oder sein Bevollmächtigter das in Anhang VIII der Richtlinie 2006/42/EG in der Fassung vom 9. Oktober 2024 vorgesehene Verfahren der Konformitätsbewertung mit interner Fertigungskontrolle bei der Herstellung von Maschinen durch.
+
+(3) Ist die Maschine in Anhang IV der Richtlinie 2006/42/EG in der Fassung vom 9. Oktober 2024 aufgeführt und nach den in § 3 Abs. 5 genannten harmonisierten Normen hergestellt und berücksichtigen diese Normen alle relevanten grundlegenden Sicherheits- und Gesundheitsschutzanforderungen, so führt der Hersteller oder sein Bevollmächtigter eines der folgenden Verfahren durch:
+
+- 1\. das in Anhang VIII der Richtlinie 2006/42/EG in der Fassung vom 9. Oktober 2024 vorgesehene Verfahren der Konformitätsbewertung mit interner Fertigungskontrolle bei der Herstellung von Maschinen oder
+- 2\. das in Anhang IX der Richtlinie 2006/42/EG in der Fassung vom 9. Oktober 2024 beschriebene EG-Baumusterprüfverfahren sowie die in Anhang VIII Nr. 3 der Richtlinie 2006/42/EG in der Fassung vom 9. Oktober 2024 beschriebene interne Fertigungskontrolle bei der Herstellung von Maschinen oder
+- 3\. das in Anhang X der Richtlinie 2006/42/EG in der Fassung vom 9. Oktober 2024 beschriebene Verfahren der umfassenden Qualitätssicherung.
+
+(4) Ist die Maschine in Anhang IV der Richtlinie 2006/42/EG in der Fassung vom 9. Oktober 2024 aufgeführt und wurden die in § 3 Abs. 5 genannten harmonisierten Normen bei der Herstellung der Maschine nicht oder nur teilweise berücksichtigt oder berücksichtigen diese Normen nicht alle relevanten grundlegenden Sicherheits- und Gesundheitsschutzanforderungen oder gibt es für die betreffende Maschine keine harmonisierten Normen, so führt der Hersteller oder sein Bevollmächtigter eines der folgenden Verfahren durch:
+
+- 1\. das in Anhang IX der Richtlinie 2006/42/EG in der Fassung vom 9. Oktober 2024 beschriebene EG-Baumusterprüfverfahren sowie die in Anhang VIII Nr. 3 der Richtlinie 2006/42/EG in der Fassung vom 9. Oktober 2024 beschriebene interne Fertigungskontrolle bei der Herstellung von Maschinen oder
+- 2\. das in Anhang X der Richtlinie 2006/42/EG in der Fassung vom 9. Oktober 2024 beschriebene Verfahren der umfassenden Qualitätssicherung.
+
+## § 5 CE-Kennzeichnung
+
+(1) Die nach § 3 Abs. 2 Nr. 6 erforderliche CE-Kennzeichnung richtet sich nach § 7 Absatz 1 und 3 Satz 1 des Produktsicherheitsgesetzes.
+
+(2) Die Bestandteile der CE-Kennzeichnung müssen annähernd gleich hoch sein; die Mindesthöhe beträgt 5 Millimeter. Bei kleinen Maschinen kann diese Mindesthöhe unterschritten werden.
+
+(3) Die CE-Kennzeichnung ist in unmittelbarer Nähe der Angabe des Herstellers oder seines Bevollmächtigten anzubringen und in der gleichen Technik wie diese Angabe auszuführen.
+
+(4) Wenn das Verfahren der umfassenden Qualitätssicherung nach § 4 Abs. 3 Nr. 3 beziehungsweise § 4 Abs. 4 Nr. 2 angewandt wurde, ist der CE-Kennzeichnung die Kennnummer der notifizierten Stelle anzufügen.
+
+(5) Es dürfen auf der Maschine keine Kennzeichnungen, Zeichen oder Aufschriften angebracht werden, durch die Dritte hinsichtlich der Bedeutung oder des Schriftbildes der CE-Kennzeichnung oder in beiderlei Hinsicht irregeführt werden könnten. Jede andere Kennzeichnung darf auf der Maschine angebracht werden, wenn sie die Sichtbarkeit und Lesbarkeit der CE-Kennzeichnung nicht beeinträchtigt.
+
+## § 6 Voraussetzungen für die Bereitstellung von unvollständigen Maschinen auf dem Markt
+
+(1) Der Hersteller oder sein Bevollmächtigter stellt vor dem Inverkehrbringen einer unvollständigen Maschine sicher, dass
+
+- 1\. die speziellen technischen Unterlagen gemäß Anhang VII Teil B der Richtlinie 2006/42/EG in der Fassung vom 9. Oktober 2024 erstellt werden,
+- 2\. die Montageanleitung gemäß Anhang VI der Richtlinie 2006/42/EG in der Fassung vom 9. Oktober 2024 erstellt wird und
+- 3\. eine Einbauerklärung gemäß Anhang II Teil 1 Abschnitt B der Richtlinie 2006/42/EG in der Fassung vom 9. Oktober 2024 ausgestellt wurde.
+
+(2) Die Montageanleitung und die Einbauerklärung sind der unvollständigen Maschine beizufügen und werden anschließend Teil der technischen Unterlagen der vollständigen Maschine.
+
+(3) Das Anbringen der CE-Kennzeichnung auf unvollständige Maschinen ist nicht zulässig.
+
+## § 6a Anwendung der Notfallverfahren
+
+(1) Die Bestimmungen dieses Abschnitts sind anzuwenden, wenn
+
+- 1\. die Europäische Kommission nach Artikel 28 der Verordnung (EU) 2024/2747 einen Durchführungsrechtsakt in Bezug auf eine Maschine erlassen hat, für die diese Verordnung anzuwenden ist, und
+- 2\. die Maschine nach Nummer 1 in der Liste krisenrelevanter Waren nach Artikel 18 Absatz 4 Satz 1, auch in Verbindung mit Satz 3, der Verordnung (EU) 2024/2747 enthalten ist.
+
+(2) Die Bestimmungen dieses Abschnitts sind nur anzuwenden, während der Notfallmodus für den Binnenmarkt nach Artikel 18 Absatz 4 Satz 1 der Verordnung (EU) 2024/2747 aktiviert ist. § 6d Absatz 3 bleibt unberührt.
+
+## § 6b Priorisierung der Konformitätsbewertung von als krisenrelevante Waren eingestuften Maschinen
+
+(1) Die notifizierte Stelle soll die Anträge auf Konformitätsbewertung der Maschinen, die in dem in § 6a Absatz 1 Nummer 1 genannten Durchführungsrechtsakt aufgeführt sind und die den Konformitätsbewertungsverfahren nach § 4 unterliegen, vorrangig bearbeiten. Dies gilt unabhängig davon, ob ein Antrag vor oder nach der Aktivierung des Notfallmodus nach § 6a Absatz 2 Satz 1 gestellt wurde.
+
+(2) Dem antragstellenden Hersteller dürfen durch die Priorisierung von Anträgen auf Konformitätsbewertung nach Absatz 1 keine unverhältnismäßigen zusätzlichen Kosten entstehen.
+
+(3) Die notifizierten Stellen haben zumutbare Anstrengungen zu unternehmen, ihre Prüfkapazitäten für die Maschinen nach Absatz 1, für die sie notifiziert wurden, zu erhöhen.
+
+## § 6c Ausnahme von den Konformitätsbewertungsverfahren, bei denen die Einschaltung einer notifizierten Stelle vorgeschrieben ist
+
+(1) Abweichend von § 4 kann die zuständige Behörde auf Antrag eines Wirtschaftsakteurs genehmigen, dass ein in einem in § 6a Absatz 1 Nummer 1 genannten Durchführungsrechtsakt aufgeführte Maschine ohne Durchführung der in § 4 genannten Konformitätsbewertungsverfahren in den Verkehr gebracht oder in Betrieb genommen wird. Die Genehmigung nach Satz 1 setzt voraus, dass die Erfüllung der grundlegenden Sicherheits- und Gesundheitsschutzanforderungen nachgewiesen worden ist.
+
+(2) Jede nach Absatz 1 Satz 1 erteilte Genehmigung hat die Bedingungen und Anforderungen zu bestimmen, unter denen die Maschine in den Verkehr gebracht oder in Betrieb genommen werden darf. Die Genehmigung hat insbesondere Folgendes zu bestimmen:
+
+- 1\. das Enddatum für die Gültigkeit der Genehmigung, das nicht über den letzten Tag des Zeitraums hinausgehen darf, für den der Notfallmodus für den Binnenmarkt gemäß Artikel 18 der Verordnung (EU) 2024/2747 aktiviert wurde,
+- 2\. Maßnahmen, die beim Auslaufen oder der Deaktivierung des Notfallmodus für den Binnenmarkt in Bezug auf die betreffende Maschine zu ergreifen sind.
+
+(3) Die Begründung des Bescheids über die Genehmigung nach Absatz 1 Satz 1 hat eine Beschreibung der Verfahren zu enthalten, mit denen die Einhaltung der geltenden grundlegenden Sicherheits- und Gesundheitsschutzanforderungen erfolgreich nachgewiesen wurde. Die Genehmigung kann in Bezug auf die Rückverfolgbarkeit der betreffenden Maschine und in Bezug auf die Notwendigkeit einer fortlaufenden Konformitätsbewertung Anforderungen festlegen.
+
+(4) Die zuständige Behörde hat die Bundesanstalt für Arbeitsschutz und Arbeitsmedizin unverzüglich über jede nach Absatz 1 erteilte Genehmigung zu informieren. Die Bundesanstalt für Arbeitsschutz und Arbeitsmedizin hat die Informationen unverzüglich der Europäischen Kommission und den übrigen Mitgliedstaaten der Europäischen Union zuzuleiten.
+
+(5) Auf Verlangen der Europäischen Kommission hat die Marktüberwachungsbehörde zu der technischen Bewertung, die der nach Absatz 1 Satz 1 erteilten Genehmigung zu Grunde lag, Stellung zu nehmen und sachdienliche Informationen bereitzustellen, die von der Europäischen Kommission zum Erlass eines Durchführungsrechtsakts nach Artikel 21d Absatz 2 Unterabsatz 1 der Richtlinie 2006/42/EG in der Fassung vom 9. Oktober 2024 benötigt werden.
+
+(6) Vor dem Inverkehrbringen hat der Wirtschaftsakteur auf einer Maschine, für die eine Genehmigung erteilt wurde, die durch einen Durchführungsrechtsakt der Europäischen Kommission nach Artikel 21d Absatz 2 Unterabsatz 1 der Richtlinie 2006/42/EG in der Fassung vom 9. Oktober 2024 auf das Gebiet der gesamten Europäischen Union ausgedehnt wurde, den Hinweis, dass die Maschine als „krisenrelevante Ware“ in den Verkehr gebracht oder in Betrieb genommen wird, gemäß Satz 2 anzubringen. Vorbehaltlich näherer oder abweichender Bestimmungen in dem betreffenden Durchführungsrechtsakt muss der Hinweis in deutscher Sprache abgefasst und klar, verständlich und leserlich sein.
+
+(7) Solange kein Durchführungsrechtsakt nach Artikel 21d Absatz 2 Unterabsatz 1 der Richtlinie 2006/42/EG in der Fassung vom 9. Oktober 2024 erlassen wurde, kann die zuständige Behörde die Gültigkeit einer von einem anderen Mitgliedstaat der Europäischen Union erteilten Genehmigung anerkennen. Die zuständige Behörde hat die Bundesanstalt für Arbeitsschutz und Arbeitsmedizin unverzüglich über die Anerkennung der Gültigkeit einer von einem anderen Mitgliedstaat der Europäischen Union erteilten Genehmigung zu informieren. Die Bundesanstalt für Arbeitsschutz und Arbeitsmedizin hat die Informationen unverzüglich der Europäischen Kommission und den übrigen Mitgliedstaaten der Europäischen Union zuzuleiten.
+
+(8) Der Hersteller einer Maschine, die dem in Absatz 1 genannten Genehmigungsverfahren unterliegt, hat zu erklären, dass die betreffende Maschine alle grundlegenden Sicherheits- und Gesundheitsschutzanforderungen erfüllt. Der Hersteller ist für die Durchführung aller von der zuständigen Behörde vorgegebenen Konformitätsbewertungsverfahren verantwortlich.
+
+(9) Eine Maschine, für die eine Genehmigung nach Absatz 1 Satz 1 erteilt wurde, darf nicht mit der CE-Kennzeichnung gemäß § 7 des Produktsicherheitsgesetzes versehen werden.
+
+(10) Die Marktüberwachungsbehörde hat die Bundesanstalt für Arbeitsschutz und Arbeitsmedizin unverzüglich über alle von ihr getroffenen Abhilfemaßnahmen und beschränkenden Maßnahmen zu informieren. Die Bundesanstalt für Arbeitsschutz und Arbeitsmedizin hat die Informationen der Marktüberwachungsbehörde unverzüglich der Europäischen Kommission und den übrigen Mitgliedstaaten der Europäischen Union zuzuleiten.
+
+## § 6d Konformitätsvermutung auf der Grundlage von Normen oder gemeinsamen Spezifikationen
+
+(1) Bei einer Maschine, die den in einem Durchführungsrechtsakt nach Artikel 21e Absatz 1 der Richtlinie 2006/42/EG in der Fassung vom 9. Oktober 2024 genannten Normen oder gemeinsamen Spezifikationen oder Teilen davon entspricht, wird vermutet, dass sie die grundlegenden Sicherheits- und Gesundheitsschutzanforderungen erfüllt, soweit sie von den betreffenden Normen oder gemeinsamen Spezifikationen oder Teilen davon abgedeckt ist.
+
+(2) Ab dem Tag, der auf das Auslaufen oder die Deaktivierung des Notfallmodus für den Binnenmarkt folgt, können sich Hersteller nicht mehr auf die Konformitätsvermutung nach Absatz 1 berufen.
+
+(3) Eine in den Verkehr gebrachte oder in Betrieb genommene Maschine, die mit den in Absatz 1 genannten Normen oder gemeinsamen Spezifikationen übereinstimmt, gilt auch nach dem Außerkrafttreten eines Durchführungsrechtsakts nach Absatz 1 oder nach dem Auslaufen oder der Deaktivierung des Notfallmodus für den Binnenmarkt als konform mit den grundlegenden Sicherheits- und Gesundheitsschutzanforderungen, sofern kein hinreichender Grund zu der Annahme besteht, dass sie ein Risiko für die Gesundheit oder Sicherheit von Menschen darstellt.
+
+## § 6e Priorisierung der Marktüberwachungstätigkeiten und gegenseitige Unterstützung der Behörden
+
+(1) Die Marktüberwachungsbehörde hat Marktüberwachungstätigkeiten für Maschinen, die in dem in § 6a Absatz 1 Nummer 1 genannten Durchführungsrechtsakt aufgeführt sind, Vorrang einzuräumen.
+
+(2) Die Marktüberwachungsbehörde hat alle erdenklichen Anstrengungen zu unternehmen, um die Marktüberwachungsbehörden der anderen Mitgliedstaaten der Europäischen Union während eines Notfallmodus für den Binnenmarkt zu unterstützen. Auf Ersuchen der Marktüberwachungsbehörde eines anderen Mitgliedstaats der Europäischen Union ist die Marktüberwachungsbehörde gehalten,
+
+- 1\. eigene fachkundige Beschäftigte zur vorübergehenden Verstärkung des Personals der ersuchenden Marktüberwachungsbehörde zu entsenden oder
+- 2\. logistische Unterstützung zu leisten, insbesondere durch den Ausbau der Prüfkapazitäten für jene Maschinen, die in dem in § 6a Absatz 1 Nummer 1 genannten Durchführungsrechtsakt aufgeführt sind.
+
+## § 7 Marktüberwachung
+
+(1) Die Marktüberwachungsbehörden treffen alle erforderlichen Maßnahmen, um sicherzustellen, dass Maschinen nur auf dem Markt bereitgestellt oder in Betrieb genommen werden, wenn sie den für sie geltenden Bestimmungen dieser Verordnung entsprechen und wenn sie bei ordnungsgemäßer Installation und Wartung und bei bestimmungsgemäßer Verwendung oder vorhersehbarer Fehlanwendung die Sicherheit und die Gesundheit von Personen und die Sicherheit von Haustieren und Gütern und, soweit anwendbar, die Umwelt nicht gefährden. Bei einer Maschine, die mit der CE-Kennzeichnung nach § 5 dieser Verordnung versehen ist und der die EG-Konformitätserklärung mit den in Anhang II Teil 1 Abschnitt A der Richtlinie 2006/42/EG in der Fassung vom 9. Oktober 2024 aufgeführten Angaben beigefügt ist, gehen die Marktüberwachungsbehörden davon aus, dass sie den Bestimmungen dieser Verordnung entspricht.
+
+(2) Die Marktüberwachungsbehörden treffen alle erforderlichen Maßnahmen, um sicherzustellen, dass unvollständige Maschinen nur auf dem Markt bereitgestellt werden, wenn sie den Bestimmungen dieser Verordnung entsprechen.
+
+(3) Bei der Marktüberwachung der in Anhang I Abschnitt 2.4 der Richtlinie 2006/42/EG in der Fassung vom 9. Oktober 2024 genannten Maschinen zur Ausbringung von Pestiziden wirken das Julius Kühn-Institut, Bundesforschungsinstitut für Kulturpflanzen, und die für die Durchführung des Pflanzenschutzrechts zuständigen Behörden der Länder mit.
+
+## § 8 Ordnungswidrigkeiten
+
+Ordnungswidrig im Sinne des § 28 Absatz 1 Nummer 7 Buchstabe a des Produktsicherheitsgesetzes handelt, wer vorsätzlich oder fahrlässig
+
+- 1\. entgegen § 3 Absatz 2 Nummer 2 nicht sicherstellt, dass die technischen Unterlagen verfügbar sind,
+- 2\. entgegen § 3 Absatz 2 Nummer 3 die Betriebsanleitung nicht oder nicht rechtzeitig zur Verfügung stellt,
+- 3\. entgegen § 3 Absatz 2 Nummer 4 in Verbindung mit § 4 eines der dort vorgeschriebenen Konformitätsbewertungsverfahren nicht oder nicht rechtzeitig durchführt,
+- 4\. entgegen § 3 Absatz 2 Nummer 5 eine EG-Konformitätserklärung nicht oder nicht rechtzeitig ausstellt oder nicht sicherstellt, dass sie der Maschine beiliegt,
+- 5\. entgegen § 3 Absatz 2 Nummer 6 in Verbindung mit § 5 Absatz 1 bis 3 oder Absatz 4 eine CE-Kennzeichnung nicht, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig anbringt,
+- 6\. entgegen § 5 Absatz 5 Satz 1 eine nicht zulässige Kennzeichnung, ein nicht zulässiges Zeichen oder eine nicht zulässige Aufschrift auf einer Maschine anbringt,
+- 7\. entgegen § 6 Absatz 1 Nummer 1 nicht sicherstellt, dass die technischen Unterlagen erstellt werden,
+- 8\. entgegen § 6 Absatz 2 eine Montageanleitung oder eine Einbauerklärung nicht beifügt,
+- 9\. entgegen § 6 Absatz 3 eine CE-Kennzeichnung anbringt oder
+- 10\. entgegen § 6c Absatz 6 Satz 1 einen Hinweis nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig anbringt.
+
+## § 9 Übergangsbestimmungen
+
+Tragbare Befestigungsgeräte mit Treibladung und andere Schussgeräte, die den Bestimmungen der Beschussverordnung vom 13. Juli 2006 (BGBl. I S. 1474) entsprechen, dürfen noch bis zum 28. Juni 2011 auf dem Markt bereitgestellt und in Betrieb genommen werden.
+
+## § 10 Außerkrafttreten
+
+Diese Verordnung tritt mit Ablauf des 19. Januar 2027 außer Kraft.

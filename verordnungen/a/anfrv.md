@@ -1,0 +1,44 @@
+---
+title: "Verordnung zur Verlängerung der Frist für die Stellung von Anträgen nach § 1 Abs. 4 sowie § 10 des Vermögenszuordnungsgesetzes"
+short_title: "Antragsfristverordnung"
+abbreviation: "AnFrV"
+identifier: "BJNR126500994"
+type: ordinance
+jurisdiction: de
+language: de
+date: 1994-06-14
+consolidated: 2012-06-25
+status: in_force
+citation:
+  - "BGBl I 1994, 1265"
+source: "https://www.gesetze-im-internet.de/anfrv/"
+retrieved: 2026-10-11
+---
+
+# Verordnung zur Verlängerung der Frist für die Stellung von Anträgen nach § 1 Abs. 4 sowie § 10 des Vermögenszuordnungsgesetzes
+
+> (+++ Textnachweis ab: 30. 6.1994 +++)
+
+## Eingangsformel
+
+Auf Grund des § 7 Abs. 3 Satz 2 des Vermögenszuordnungsgesetzes in der Fassung der Bekanntmachung vom 29. März 1994 (BGBl. I S. 709) verordnet das Bundesministerium der Finanzen:
+
+## § 1
+
+Die in § 7 Abs. 3 Satz 1 des Vermögenszuordnungsgesetzes bestimmte Frist zur Stellung von Anträgen nach § 1 Abs. 4 in Verbindung mit dem Dritten Abschnitt des Vermögenszuordnungsgesetzes auf Restitution wird bis zum 31. Dezember 1995 verlängert.
+
+## § 2
+
+Die in § 7 Abs. 3 Satz 1 des Vermögenszuordnungsgesetzes bestimmte Frist zur Stellung von Anträgen nach § 1 Abs. 4 des Vermögenszuordnungsgesetzes auf Übertragung von Vermögenswerten nach § 4 Abs. 2 des Kommunalvermögensgesetzes wird bis zum 31. Dezember 1994 verlängert.
+
+## § 3
+
+Die in § 7 Abs. 3 Satz 1 des Vermögenszuordnungsgesetzes bestimmte Frist zur Stellung von Anträgen nach § 10 des Vermögenszuordnungsgesetzes wird bis zum 31. Dezember 1994 verlängert.
+
+## § 4 Inkrafttreten
+
+Diese Verordnung tritt am 30. Juni 1994 in Kraft.
+
+## Schlußformel
+
+Der Bundesrat hat zugestimmt.
