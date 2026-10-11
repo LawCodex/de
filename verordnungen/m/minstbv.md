@@ -1,0 +1,195 @@
+---
+title: "Verordnung zur Durchführung des Mindeststeuergesetzes"
+short_title: "Mindeststeuerdurchführungsverordnung"
+abbreviation: "MinStDV"
+identifier: "BJNR1750A0025"
+type: ordinance
+jurisdiction: de
+language: de
+date: 2025-12-19
+last_amended: 2026-08-07
+consolidated: 2026-08-17
+status: in_force
+citation:
+  - "BGBl. I 2025, Nr. 373"
+stand:
+  - "Stand: Geändert durch Art. 1 V v. 7.8.2026 I Nr. 235"
+source: "https://www.gesetze-im-internet.de/minstbv/"
+retrieved: 2026-10-11
+---
+
+# Verordnung zur Durchführung des Mindeststeuergesetzes
+
+<sup>1</sup>
+
+**EU-Rechtsakte** (Stand 19.12.2025):
+
+Richtlinie 2011/16/EU des Rates vom 15. Februar 2011 über die Zusammenarbeit der Verwaltungsbehörden im Bereich der Besteuerung und zur Aufhebung der Richtlinie 77/799/EWG (ABl. L 64 vom 11.3.2011, S. 1), die zuletzt durch die Richtlinie (EU) 2025/872 des Rates vom 14. April 2025 (ABl. L, 2025/872, 6.5.2025) geändert worden ist
+
+<sup>1</sup> Diese Verordnung dient der Umsetzung der Richtlinie 2011/16/EU des Rates vom 15. Februar 2011 über die Zusammenarbeit der Verwaltungsbehörden im Bereich der Besteuerung und zur Aufhebung der Richtlinie 77/799/EWG (ABl. L 64 vom 11.3.2011, S. 1), die zuletzt durch die Richtlinie (EU) 2025/872 des Rates vom 14. April 2025 (ABl. L, 2025/872, 6.5.2025) geändert worden ist.
+
+> (+++ Textnachweis ab: 30.12.2025 +++)
+>
+> (+++ Zur Anwendung vgl. § 9 +++)
+>
+> (+++ Amtlicher Hinweis des Normgebers auf EG-Recht:\
+> Umsetzung der\
+> EURL 16/2011 (CELEX Nr: 32011L0016) +++)
+>
+> Überschrift: IdF d. Art. 1 Nr. 1 V v. 7.8.2026 I Nr. 235 mWv 18.8.2026
+
+## Eingangsformel
+
+Das Bundesministerium der Finanzen verordnet aufgrund des § 99 Absatz 3 des Mindeststeuergesetzes vom 21. Dezember 2023 (BGBl. 2023 I Nr. 397), das durch Artikel 39 des Gesetzes vom 2. Dezember 2024 (BGBl. 2024 I Nr. 387) geändert worden ist:
+
+## Abschnitt 1 — Anwendungsbereich und Begriffsbestimmungen
+
+### § 1 Anwendungsbereich
+
+(1) Abschnitt 2 dieser Verordnung regelt den automatischen Austausch von Informationen zu den Berichtspflichten nach dem Mindeststeuergesetz mit den Vertragsstaaten gemäß § 75 Absatz 4 des Mindeststeuergesetzes aufgrund der Richtlinie 2011/16/EU und die Besonderheiten beim Erstellen des Mindeststeuer-Berichts für berichtspflichtige Geschäftseinheiten.
+
+(2) Abschnitt 3 dieser Verordnung benennt die Steuerhoheitsgebiete nach § 99 Absatz 5 des Mindeststeuergesetzes.
+
+### § 2 Begriffsbestimmungen
+
+(1) Für diese Verordnung gelten die Begriffsbestimmungen des Mindeststeuergesetzes und die in den nachstehenden Absätzen aufgeführten Definitionen.
+
+(2) Ein Umsetzungssteuerhoheitsgebiet ist ein Steuerhoheitsgebiet, das im jeweiligen Geschäftsjahr entweder eine anerkannte Primär- oder eine anerkannte Sekundärergänzungssteuerregelung oder beide Regelungen umgesetzt hat.
+
+(3) Ein Nur-NES-Steuerhoheitsgebiet ist ein Steuerhoheitsgebiet, das im jeweiligen Geschäftsjahr eine anerkannte nationale Ergänzungssteuer umgesetzt hat und in diesem Geschäftsjahr kein Umsetzungssteuerhoheitsgebiet ist.
+
+(4) Ein SES-Steuerhoheitsgebiet ist ein Steuerhoheitsgebiet, das im jeweiligen Geschäftsjahr eine anerkannte Sekundärergänzungssteuerregelung umgesetzt hat.
+
+(5) Einzige Datenquelle bezeichnet die Datengrundlage auf deren Basis der Mindeststeuer-Bericht nach den GloBE-Mustervorschriften ausgefüllt wird.
+
+## Abschnitt 2 — Umfang, Ausgestaltung und Informationsaustausch von Mindeststeuer-Berichten
+
+### § 3 Zuständige Behörde
+
+Zuständige Behörde für die Annahme und die Weiterleitung von Informationen nach dem Mindeststeuergesetz und dieser Verordnung ist das Bundeszentralamt für Steuern.
+
+### § 4 Abschnitte des Mindeststeuer-Berichts
+
+(1) Der Mindeststeuer-Bericht ist die in Anhang VII Abschnitt IV der Richtlinie (EU) 2011/16/EU veröffentlichte Standardvorlage und gliedert sich in den allgemeinen Abschnitt, staatsbezogene Abschnitte sowie SES-Abschnitte.
+
+(2) Der allgemeine Abschnitt des Mindeststeuer-Berichts enthält allgemeine Angaben zu der Unternehmensgruppe als Ganzes einschließlich ihrer Unternehmensstruktur und einer kurzen Zusammenfassung der GloBE-Informationen.
+
+(3) Der staatsbezogene Abschnitt enthält genaue Angaben zur Anwendung der GloBE-Mustervorschriften und gegebenenfalls der nationalen Ergänzungssteuer bezogen auf ein jeweiliges Steuerhoheitsgebiet, in dem die Unternehmensgruppe tätig ist. Zum staatsbezogenen Abschnitt zählen die Abschnitte 2 und 3 des Mindeststeuer-Berichts.
+
+(4) Der SES-Abschnitt, Abschnitt 3.4.3 des Mindeststeuer-Berichts, enthält Informationen über die Zurechnung der Sekundärergänzungssteuer in Bezug auf ein Steuerhoheitsgebiet.
+
+### § 5 Informationsaustausch; Verteilungsansatz
+
+(1) Liegen die Voraussetzungen des § 75 Absatz 4 Satz 2 des Mindeststeuergesetzes vor, so erfolgt die Übermittlung des Mindeststeuer-Berichts an andere Steuerhoheitsgebiete im Wege des automatischen Austauschs.
+
+(2) Den allgemeinen Abschnitt erhalten sämtliche Umsetzungssteuerhoheitsgebiete, in denen entweder die oberste Muttergesellschaft oder Geschäftseinheiten der Unternehmensgruppe belegen sind.
+
+(3) Nur-NES-Steuerhoheitsgebiete erhalten den allgemeinen Abschnitt, mit Ausnahme der in Abschnitt 1.4 enthaltenen zusammenfassenden Übersicht, wenn
+
+- 1\. in ihnen Geschäftseinheiten belegen sind,
+- 2\. in ihnen Joint Ventures oder Joint-Venture-Tochtergesellschaften belegen sind, auf die eine nationale Ergänzungssteuer erhoben wird, oder
+- 3\. dort eine nationale Ergänzungssteuer auf staatenlose Geschäftseinheiten oder ein staatenloses Joint Venture erhoben wird.
+
+(4) Alle staatsbezogenen Abschnitte erhält das Umsetzungssteuerhoheitsgebiet, in dem die oberste Muttergesellschaft belegen ist. Diejenigen Steuerhoheitsgebiete, die Besteuerungsrechte nach einer anerkannten Primär- oder nach einer anerkannten Sekundärergänzungssteuerregelung oder nach einer anerkannten nationalen Ergänzungssteuer haben, erhalten zudem vorbehaltlich des Absatzes 5 die sie betreffenden staatsbezogenen Abschnitte.
+
+(5) Steuerhoheitsgebiete mit einem Besteuerungsrecht nach einer anerkannten Sekundärergänzungssteuerregelung und einem Anteil am Sekundärergänzungssteuerbetrag von null erhalten nur den SES-Abschnitt.
+
+### § 6 Vereinfachte Berichterstattung in der Übergangszeit
+
+(1) Für Geschäftsjahre, die am oder vor dem 31. Dezember 2028 beginnen und vor dem 1. Juli 2030 enden, gelten die Regelungen der Absätze 2 bis 4.
+
+(2) In der Übergangszeit kann auf Antrag der berichtspflichtigen Geschäftseinheit für ein Steuerhoheitsgebiet eine vereinfachte Berichterstattung vorgenommen werden, wenn die Pflichten des Absatzes 3 erfüllt werden und der Steuererhöhungsbetrag
+
+- 1\. für dieses Steuerhoheitsgebiet null beträgt oder
+- 2\. nicht einzelnen Geschäftseinheiten oder im Fall eines Joint Ventures nicht einzelnen Joint-Venture-Tochtergesellschaften zugeordnet werden muss.
+
+Der Antrag nach Satz 1 ist für jeden Teil der Unternehmensgruppe, für den der effektive Steuersatz separat zu ermitteln ist, gesondert zu stellen.
+
+(3) Bei der vereinfachten Berichterstattung werden für den betreffenden Teil der Unternehmensgruppe im Mindeststeuer-Bericht die Informationen für jedes Steuerhoheitsgebiet auf aggregierter Basis und nicht für jede einzelne Geschäftseinheit oder jede einzelne Joint-Venture-Tochtergesellschaft berichtet. Sämtliche Hinzurechnungen und Kürzungen nach § 18 des Mindeststeuergesetzes können auf Nettobasis berichtet werden.
+
+(4) Um die vereinfachte Berichterstattung vornehmen zu können, müssen Unternehmensgruppen
+
+- 1\. eine Buchführung einsetzen, die eine steuerhoheitsgebietsbezogene Berichterstattung ermöglicht und die nach dem Mindeststeuergesetz erforderlichen Berechnungen genau und zuverlässig durchführt, einschließlich der Ermittlung des korrekten Belegenheitsstaats für jede Geschäftseinheit, sofern dies für die Berechnung des effektiven Steuersatzes und der Ergänzungssteuer relevant ist,
+- 2\. ein Verfahren einsetzen, das eine verlässliche Zuordnung der Rechnungslegungsdaten zu den einzelnen Steuerhoheitsgebieten ermöglicht und die Aggregation in den Konzernabschluss sicherstellt, und
+- 3\. ein Verfahren zur Identifizierung aller Mindeststeuer-relevanten Anpassungen in jedem Steuerhoheitsgebiet auf Basis von Einzelposten einsetzen, das ermöglicht, einzelne Posten der korrekten Geschäftseinheit zuzuordnen, wenn dies für die Genauigkeit der Hinzurechnungen und Kürzungen relevant ist.
+
+### § 7 Erstellen des Mindeststeuer-Berichts
+
+(1) Der Mindeststeuer-Bericht ist auf Basis der GloBE-Mustervorschriften zu erstellen.
+
+(2) Teile von Unternehmensgruppen, die in einem Steuerhoheitsgebiet belegen sind,
+
+- 1\. das die Voraussetzungen nach § 81 des Mindeststeuergesetzes erfüllt oder
+- 2\. dem allein die Besteuerungsrechte an der gesamten Unternehmensgruppe nach einer anerkannten Primär- oder einer anerkannten Sekundärergänzungssteuerregelung zustehen,
+
+müssen die erforderlichen Berechnungen auf Basis der lokalen Gesetzgebung durchführen und im Mindeststeuer-Bericht darstellen.
+
+(3) Führt die Nutzung der einzigen Datenquelle zu Unterschieden im Vergleich zur lokalen Gesetzgebung, ist die Unternehmensgruppe verpflichtet, die Auswirkungen der Differenzen im Mindeststeuer-Bericht darzulegen.
+
+## Abschnitt 3 — Steuerhoheitsgebiete nach § 99 Absatz 5 des Mindeststeuergesetzes
+
+### § 8 Benennung der Steuerhoheitsgebiete
+
+Die Anlage zu dieser Verordnung benennt die Steuerhoheitsgebiete nach § 99 Absatz 5 des Mindeststeuergesetzes. Erfasst werden Geschäftsjahre betroffener Unternehmensgruppen, die an dem in der Anlage in den Spalten B bis E ausgewiesenen Datum oder danach begonnen haben.
+
+## Abschnitt 4 — Anwendungsvorschriften
+
+### § 9 Anwendungsvorschriften
+
+Diese Fassung der Verordnung gilt erstmals für Geschäftsjahre, die nach dem 30. Dezember 2023 beginnen.
+
+## Anlage (zu § 1 Absatz 2) Steuerhoheitsgebiete im Sinne des § 99 Absatz 5 des Mindeststeuergesetzes
+
+(Fundstelle: BGBl. 2026 I Nr. 235, S. 3 - 4)
+
+| Steuerhoheitsgebiet | Anerkannte<br>nationale<br>Ergänzungssteuer | anerkannte<br>Primärergänzungssteuerregelung | anerkannte<br>Sekundärergänzungssteuerregelung | Safe Harbour<br>bei anerkannter<br>nationaler<br>Ergänzungssteuer |
+| --- | --- | --- | --- | --- |
+| Australien | 01.01.2024 | 01.01.2024 |  | 01.01.2024 |
+| Bahrain | 01.01.2025 |  |  | 01.01.2025 |
+| Barbados | 01.01.2024 |  |  | 01.01.2024 |
+| Belgien | 31.12.2023 | 31.12.2023 | 31.12.2023 | 31.12.2023 |
+| Brasilien | 01.01.2025 |  |  | 01.01.2025 |
+| Bulgarien | 31.12.2023 | 31.12.2023 | 31.12.2023 | 31.12.2023 |
+| Dänemark | 31.12.2023 | 31.12.2023 | 31.12.2023 | 31.12.2023 |
+| Deutschland | 31.12.2023 | 31.12.2023 | 31.12.2023 | 31.12.2023 |
+| Finnland | 31.12.2023 | 31.12.2023 | 31.12.2023 | 31.12.2023 |
+| Frankreich | 31.12.2023 | 31.12.2023 | 31.12.2023 | 31.12.2023 |
+| Gibraltar | 01.01.2024 | 01.01.2025 |  | 01.01.2024 |
+| Griechenland | 31.12.2023 | 31.12.2023 | 31.12.2023 | 31.12.2023 |
+| Guernsey | 01.01.2025 | 01.01.2025 |  | 01.01.2025 |
+| Hongkong (SAR), China | 01.01.2025 | 01.01.2025 |  | 01.01.2025 |
+| Indonesien | 01.01.2025 | 01.01.2025 |  | 01.01.2025 |
+| Irland | 31.12.2023 | 31.12.2023 | 31.12.2023 | 31.12.2023 |
+| Isle of Man | 01.01.2025 | 01.01.2025 |  | 01.01.2025 |
+| Italien | 31.12.2023 | 31.12.2023 | 31.12.2023 | 31.12.2023 |
+| Japan | 01.04.2026 | 01.04.2024 |  | 01.04.2026 |
+| Jersey |  | 01.01.2025 |  |  |
+| Kanada | 31.12.2023 | 31.12.2023 |  | 31.12.2023 |
+| Katar | 01.01.2025 | 01.01.2025 |  | 01.01.2025 |
+| Korea |  | 01.01.2024 |  |  |
+| Kroatien | 31.12.2023 | 31.12.2023 | 31.12.2023 | 31.12.2023 |
+| Liechtenstein | 01.01.2024 | 01.01.2024 |  | 01.01.2024 |
+| Luxemburg | 31.12.2023 | 31.12.2023 | 31.12.2023 | 31.12.2023 |
+| Malaysia | 01.01.2025 | 01.01.2025 |  | 01.01.2025 |
+| Neuseeland |  | 01.01.2025 |  |  |
+| Niederlande | 31.12.2023 | 31.12.2023 | 31.12.2023 | 31.12.2023 |
+| Nord-Mazedonien | 01.01.2024 | 01.01.2024 |  | 01.01.2024 |
+| Norwegen | 01.01.2024 | 01.01.2024 |  | 01.01.2024 |
+| Österreich | 31.12.2023 | 31.12.2023 | 31.12.2023 | 31.12.2023 |
+| Polen | 01.01.2024 | 01.01.2024 | 01.01.2024 | 01.01.2024 |
+| Portugal | 01.01.2024 | 01.01.2024 | 01.01.2024 | 01.01.2024 |
+| Rumänien | 31.12.2023 | 31.12.2023 | 31.12.2023 | 31.12.2023 |
+| Schweden | 31.12.2023 | 31.12.2023 | 31.12.2023 | 31.12.2023 |
+| Schweiz | 01.01.2024 | 01.01.2025 |  | 01.01.2024 |
+| Singapur | 01.01.2025 | 01.01.2025 |  | 01.01.2025 |
+| Slowakei | 31.12.2023 |  |  | 31.12.2023 |
+| Slowenien | 31.12.2023 | 31.12.2023 | 31.12.2023 | 31.12.2023 |
+| Spanien | 31.12.2023 | 31.12.2023 | 31.12.2023 | 31.12.2023 |
+| Süd-Afrika | 01.01.2024 | 01.01.2024 |  | 01.01.2024 |
+| Thailand | 01.01.2025 | 01.01.2025 |  | 01.01.2025 |
+| Tschechische Republik | 31.12.2023 | 31.12.2023 | 31.12.2023 | 31.12.2023 |
+| Türkei | 01.01.2024 | 01.01.2024 |  | 01.01.2024 |
+| Ungarn | 31.12.2023 | 31.12.2023 | 31.12.2023 | 31.12.2023 |
+| Vereinigte Arabische Emirate | 01.01.2025 |  |  | 01.01.2025 |
+| Vereinigtes Königreich | 31.12.2023 | 31.12.2023 |  | 31.12.2023 |
+| Vietnam | 01.01.2024 | 01.01.2024 |  | 01.01.2024 |

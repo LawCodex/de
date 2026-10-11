@@ -1,0 +1,169 @@
+---
+title: "Verordnung über das Zentrale Vorsorgeregister"
+short_title: "Vorsorgeregister-Verordnung"
+abbreviation: "VRegV"
+identifier: "BJNR031800005"
+type: ordinance
+jurisdiction: de
+language: de
+date: 2005-02-21
+last_amended: 2026-08-17
+consolidated: 2026-09-30
+status: in_force
+citation:
+  - "BGBl I 2005, 318"
+stand:
+  - "Stand: Zuletzt geändert durch Art. 1 V v. 17.8.2026 I Nr. 238"
+source: "https://www.gesetze-im-internet.de/vregv/"
+retrieved: 2026-10-11
+---
+
+# Verordnung über das Zentrale Vorsorgeregister
+
+> (+++ Textnachweis ab: 1.3.2005 +++)\
+> (+++ EU-Vollzitate: vgl. Liste EU-Rechtsakte V v. 17.8.2026 I Nr. 238 +++)
+
+## Eingangsformel
+
+Auf Grund des § 78a Abs. 3 der Bundesnotarordnung, der durch Artikel 2b des Gesetzes vom 23. April 2004 (BGBl. I S. 598) eingefügt worden ist, verordnet das Bundesministerium der Justiz:
+
+## § 1 Inhalt des Zentralen Vorsorgeregisters
+
+(1) Im Zentralen Vorsorgeregister können folgende Vorsorgeverfügungen nach § 78a Absatz 1 Satz 1 der Bundesnotarordnung registriert werden:
+
+- 1\. Vorsorgevollmachten,
+- 2\. Betreuungsverfügungen,
+- 3\. Patientenverfügungen und
+- 4\. Widersprüche gegen eine Vertretung durch den Ehegatten nach § 1358 des Bürgerlichen Gesetzbuchs.
+
+(2) Die Bundesnotarkammer stellt, soweit vom Antragsteller mitgeteilt, die Eintragung folgender personenbezogener Daten im Zentralen Vorsorgeregister sicher:
+
+- 1\. Daten zur Person des Vorsorgenden:
+
+  - a) Familienname,
+  - b) Geburtsname,
+  - c) Vornamen,
+  - d) Geschlecht,
+  - e) Geburtsdatum,
+  - f) Geburtsort,
+  - g) Anschrift (Straße, Hausnummer, Postleitzahl, Ort, Staat),
+  - h) E-Mail-Adresse,
+- 2\. Daten zur Person des Bevollmächtigten oder des vorgeschlagenen Betreuers:
+
+  - a) Familienname,
+  - b) Geburtsname,
+  - c) Vornamen,
+  - d) Geburtsdatum,
+  - e) Anschrift (Straße, Hausnummer, Postleitzahl, Ort, Staat),
+  - f) Rufnummer,
+  - g) E-Mail-Adresse,
+- 3\. Form und Datum der Errichtung der Vorsorgeverfügung,
+- 4\. Aufbewahrungsort der Vorsorgeverfügung,
+- 5\. bei Vorsorgevollmachten zudem:
+
+  - a) die Angabe, ob die Vollmacht erteilt wurde zur Erledigung von:
+
+    - aa) Vermögensangelegenheiten,
+    - bb) Angelegenheiten der Gesundheitssorge und ob ausdrücklich Maßnahmen nach § 1829 Absatz 1 Satz 1, Absatz 2 und § 1832 Absatz 1 und 4 des Bürgerlichen Gesetzbuchs umfasst sind,
+    - cc) Angelegenheiten der Aufenthaltsbestimmung und ob ausdrücklich Maßnahmen nach § 1831 Absatz 1 und 4 des Bürgerlichen Gesetzbuchs umfasst sind,
+    - dd) sonstigen persönlichen Angelegenheiten,
+  - b) Anordnungen über das Verhältnis mehrerer Bevollmächtigter zueinander.
+
+(3) Ist die Vorsorgeverfügung nach Absatz 1 in öffentlich beglaubigter oder notariell beurkundeter Form errichtet worden, dürfen darüber hinaus die Urkundenrollennummer oder die Urkundenverzeichnisnummer sowie der Name des Notars und die Anschrift seiner Geschäftsstelle im Zentralen Vorsorgeregister eingetragen werden.
+
+(4) Die Eintragung erfolgt unter Angabe ihres Datums.
+
+(5) Die Bundesnotarkammer nimmt auf Antrag ergänzend zu den Angaben nach den Absätzen 1 bis 4 im Zentralen Vorsorgeregister eine elektronische oder elektronisch beglaubigte Abschrift der Vorsorgeverfügung nach Absatz 1 Nummer 1 bis 3 auf. Die Datei ist im Format PDF/A oder TIFF und mit einer maximalen Größe von 200 Megabyte zu speichern.
+
+## § 2 Institutionelle Nutzer
+
+(1) Institutionelle Nutzer des Zentralen Vorsorgeregisters sind Notare sowie von der Bundesnotarkammer zugelassene Personen oder Einrichtungen, zu deren beruflicher, satzungsmäßiger oder gesetzlicher Tätigkeit es gehört, Anträge auf Eintragungen in das Zentrale Vorsorgeregister für Vorsorgende zu übermitteln oder in deren Namen zu stellen. Insbesondere können Rechtsanwälte, Betreuungsvereine und Betreuungsbehörden als institutionelle Nutzer zugelassen werden.
+
+(2) Die Zulassung erfolgt auf Antrag der Person oder Einrichtung durch die Bundesnotarkammer. In dem Antrag hat die Person oder Einrichtung ihre Identität und die Erfüllung der Voraussetzungen des Absatzes 1 hinreichend nachzuweisen. Darüber hinaus hat die Person oder Einrichtung zu erklären, dass sie die Abwicklung des Verfahrens für die Vorsorgenden, für die sie Anträge übermittelt oder in deren Namen sie Anträge stellt, übernimmt und insbesondere die Gebührenzahlung auf deren Rechnung besorgt.
+
+(3) Die Bundesnotarkammer kann die Zulassung aus begründetem Anlass widerrufen. Ein Widerrufsgrund liegt insbesondere vor, wenn
+
+- 1\. die Voraussetzungen des Absatzes 1 nicht mehr vorliegen;
+- 2\. der institutionelle Nutzer die Abwicklung des Verfahrens für den Vorsorgenden nicht mehr übernimmt;
+- 3\. der institutionelle Nutzer eine fällige Gebührenzahlung, soweit er deren Besorgung für den Vorsorgenden im Einzelfall gegenüber der Bundesnotarkammer erklärt hat, nicht erbringt und die Bundesnotarkammer ihn erfolglos unter Bestimmung einer angemessenen Frist zur Zahlung aufgefordert hat oder
+- 4\. der institutionelle Nutzer länger als ein Jahr keinen Antrag für einen Vorsorgenden übermittelt oder in dessen Namen gestellt hat.
+
+Satz 2 Nummer 2 gilt nicht, wenn lediglich die Besorgung der Gebührenzahlung für den Vorsorgenden nicht mehr übernommen wird.
+
+## § 3 Eintragungsantrag
+
+(1) Die Eintragung in das Zentrale Vorsorgeregister erfolgt auf schriftlichen Antrag des Vorsorgenden. Der Antrag hat mindestens die Angaben nach § 1 Absatz 2 Nummer 1 Buchstabe a, c und e bis g zu enthalten. Sollen auch Angaben zum Bevollmächtigten oder zum vorgeschlagenen Betreuer eingetragen werden, muss der Antrag zudem mindestens die Angaben nach § 1 Absatz 2 Nummer 2 Buchstabe a, c und e enthalten. Die Angaben nach § 1 Absatz 4 werden unabhängig von dem Antrag eingetragen.
+
+(2) Der Antrag nach § 1 Absatz 5 kann nur durch einen institutionellen Nutzer im Sinne des § 2 gestellt oder übermittelt werden.
+
+(3) Der Antrag kann auch elektronisch gestellt werden, soweit die Bundesnotarkammer diese Möglichkeit eröffnet hat.
+
+(4) Die Bundesnotarkammer kann Nachweise zur Feststellung der Identität des Antragstellers oder zur Vertretungsberechtigung des für den Antragsteller Handelnden verlangen. In Zweifelsfällen hat sich die Bundesnotarkammer von der Identität des Antragstellers zu überzeugen. Im Übrigen prüft sie die Richtigkeit der mit dem Antrag übermittelten Angaben nicht.
+
+## § 4 Vorschuss, Antragsrücknahme bei Nichtzahlung
+
+(1) Die Bundesnotarkammer kann die Zahlung eines zur Deckung der Gebühren hinreichenden Vorschusses verlangen. Sie kann die Vornahme der Eintragung von der Zahlung oder Sicherstellung des Vorschusses abhängig machen.
+
+(2) Wird ein verlangter Vorschuss innerhalb angemessener Frist nicht gezahlt, gilt der Antrag als zurückgenommen. Die Frist sowie die Rechtsfolge der Fristversäumnis sind mit dem Verlangen des Vorschusses mitzuteilen. Die Frist darf 30 Tage nicht unterschreiten.
+
+## § 5 Datenschutz, Datensicherheit und Vertraulichkeit
+
+(1) Die Bundesnotarkammer hat dem jeweiligen Stand der Technik entsprechende Maßnahmen zur Sicherstellung von Datenschutz und Datensicherheit nach den Artikeln 24, 25 und 32 der Verordnung (EU) 2016/679 zu treffen, die insbesondere die Vertraulichkeit und Unversehrtheit der Daten nach § 1 Absatz 2 bis 4 gewährleisten.
+
+(2) Die Bundesnotarkammer trifft geeignete technische und organisatorische Maßnahmen, um die Verfügbarkeit, die Integrität, die Authentizität und die Vertraulichkeit der nach § 1 Absatz 5 aufzunehmenden elektronischen oder elektronisch beglaubigten Abschriften sicherzustellen. Hierzu gehört insbesondere, dass die Dateien
+
+- 1\. bei Aufnahme einer geeigneten Prüfung auf technische Sicherheit unterzogen werden und
+- 2\. nach einem dem jeweiligen Stand der Technik entsprechenden Verschlüsselungsverfahren verschlüsselt gespeichert werden.
+
+(3) Zugriff auf den Inhalt der nach § 1 Absatz 5 aufzunehmenden elektronischen oder elektronisch beglaubigten Abschriften haben ausschließlich
+
+- 1\. der Vorsorgende,
+- 2\. der vom Vorsorgenden beauftragte institutionelle Nutzer sowie
+- 3\. die nach § 78b Absatz 1 Satz 1 und 3 der Bundesnotarordnung auskunfts- oder einsichtsberechtigten Stellen.
+
+(4) Absatz 3 gilt nicht, soweit die Bundesnotarkammer auf Grund von Rechtsvorschriften gegenüber Gerichten und Behörden zur Offenbarung verpflichtet ist.
+
+## § 6 Änderungen, Ergänzungen und Löschungen von Eintragungen
+
+(1) Änderungen, Ergänzungen und Löschungen von Eintragungen erfolgen auf schriftlichen Antrag des Vorsorgenden. § 3 Absatz 3 und 4 sowie § 4 gelten entsprechend.
+
+(2) Bei der Eintragung von Änderungen und Ergänzungen ist sicherzustellen, dass die bisherige Eintragung auf Anforderung erkennbar bleibt.
+
+(3) Daten nach § 1 Absatz 2 Nummer 2 sind auch auf Antrag des Bevollmächtigten oder des vorgeschlagenen Betreuers zu löschen. § 3 Absatz 3 und 4 gilt entsprechend.
+
+(4) Eintragungen sind 110 Jahre nach der Geburt des Vorsorgenden zu löschen.
+
+(5) Die Bundesnotarkammer kann den Vorsorgenden zur Überprüfung, Vervollständigung und Berichtigung der Daten nach § 1 Absatz 2 auffordern.
+
+(6) Wenn der Tod des Vorsorgenden, des Bevollmächtigten oder des vorgeschlagenen Betreuers nachgewiesen ist, kann die Bundesnotarkammer dieses entsprechend vermerken.
+
+## § 7 Auskunft an Betreuungsgerichte, Landgerichte als Beschwerdegerichte und Ärzte
+
+(1) Die Auskunft aus dem Register erfolgt im Wege eines automatisierten Verfahrens auf Abruf.
+
+(2) Die Auskunft aus dem Register erfolgt auch auf schriftliches oder elektronisches Ersuchen des Betreuungsgerichts und des Landgerichts als Beschwerdegericht. Bei besonderer Dringlichkeit, insbesondere wenn die Bestellung eines vorläufigen Betreuers im Rahmen einer einstweiligen Anordnung in Betracht kommt, kann das Ersuchen auch fernmündlich gestellt werden. In jedem Fall haben das Betreuungsgericht und das Landgericht als Beschwerdegericht das Geschäftszeichen ihres Betreuungsverfahrens anzugeben.
+
+(3) In den Fällen des Absatzes 2 erteilt die Bundesnotarkammer die Auskunft aus dem Register schriftlich oder elektronisch. Hierbei sind die erforderlichen Maßnahmen zu treffen, um die Authentizität des Ersuchens zu prüfen und die Vertraulichkeit der Auskunft zu gewährleisten.
+
+## § 8 Protokollierung der Auskunftserteilungen
+
+(1) Die Zulässigkeit der Auskunftsersuchen prüft die Bundesnotarkammer nur, wenn sie dazu nach den Umständen des Einzelfalls Anlass hat. Für die Kontrolle der Zulässigkeit der Ersuchen und für die Sicherstellung der ordnungsgemäßen Datenverarbeitung protokolliert die Bundesnotarkammer alle nach § 7 erteilten Auskünfte elektronisch. Zu protokollieren sind
+
+- 1\. die von der ersuchenden Stelle eingegebenen Daten,
+- 2\. das ersuchende Gericht, dessen Geschäftszeichen und xJustiz-ID, der Name des handelnden Gerichtsmitarbeiters sowie die verwendete E-Mail-Adresse oder der Name des ersuchenden Arztes und dessen Telematik-ID,
+- 3\. der Zeitpunkt des Ersuchens sowie
+- 4\. die übermittelten Daten.
+
+(2) Die Protokolle dürfen nur für Zwecke der Datenschutzkontrolle, der Datensicherung, der Sicherstellung eines ordnungsgemäßen Registerbetriebs und der Überprüfung durch die jeweils zuständige Landesärztekammer, ob die Voraussetzungen des § 78b Absatz 1 Satz 2 der Bundesnotarordnung eingehalten sind, verwendet werden. Zur Überprüfung, ob die Voraussetzungen des § 78b Absatz 1 Satz 2 der Bundesnotarordnung eingehalten sind, kann die jeweils zuständige Landesärztekammer auf der Grundlage der Protokolle Auskunft darüber verlangen, welche Auskünfte an einen Arzt erteilt worden sind. Die Protokolle sind gegen zweckfremde Verwendung zu schützen.
+
+(3) Die Protokolle werden nach Ablauf des auf ihre Erstellung folgenden Kalenderjahres gelöscht. Die Landesärztekammer löscht Protokolle, die ihr nach Absatz 2 Satz 2 zur Verfügung gestellt worden sind, ein Jahr nach ihrem Eingang, sofern sie nicht für weitere, bereits eingeleitete Prüfungen benötigt werden.
+
+## § 9 Aufbewahrung von Unterlagen
+
+(1) Die ein einzelnes Eintragungs- oder Auskunftsverfahren betreffenden Unterlagen hat die Bundesnotarkammer fünf Jahre aufzubewahren. Die Aufbewahrungsfrist beginnt mit dem Ablauf des Kalenderjahres, in dem die letzte Verfügung zur Sache ergangen ist oder in dem die Angelegenheit beendet wurde. Nach Ablauf der Aufbewahrungsfrist sind die Unterlagen zu vernichten.
+
+(2) Erfolgt eine Löschung auf Antrag des Vorsorgenden, so erfolgt die Vernichtung unverzüglich.
+
+## Schlussformel
+
+Der Bundesrat hat zugestimmt.

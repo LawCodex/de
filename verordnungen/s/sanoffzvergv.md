@@ -1,0 +1,95 @@
+---
+title: "Verordnung über die Vergütung für Bereitschaftsdienst und Rufbereitschaft im Sanitätsdienst in Bundeswehrkrankenhäusern"
+short_title: "Sanitätsdienstvergütungsverordnung"
+abbreviation: "SanDVergV"
+identifier: "BJNR100010012"
+type: ordinance
+jurisdiction: de
+language: de
+date: 2012-04-27
+last_amended: 2025-03-06
+consolidated: 2025-03-31
+status: in_force
+citation:
+  - "BGBl I 2012, 1000"
+stand:
+  - "Stand: Zuletzt geändert durch Art. 3 V v. 6.3.2025 I Nr. 78"
+source: "https://www.gesetze-im-internet.de/sanoffzvergv/"
+retrieved: 2026-10-11
+---
+
+# Verordnung über die Vergütung für Bereitschaftsdienst und Rufbereitschaft im Sanitätsdienst in Bundeswehrkrankenhäusern
+
+> (+++ Textnachweis ab: 1.1.2011 +++)
+>
+> Die V wurde als Artikel 1 der V v. 27.4.2012 I 1000 vom Bundesministerium des Innern im Einvernehmen mit dem Bundesministerium der Verteidigung und dem Bundesministerium der Finanzen erlassen. Sie ist gem. Art. 3 dieser V am 1.1.2011 in Kraft getreten.\
+> Überschrift: Bezeichnung, Kurzbezeichnung u. Buchstabenabkürzung idF d. Art. 1 Nr. 1 V v. 11.8.2017 I 3231 mWv 1.1.2016
+
+## § 1 Anspruchsvoraussetzungen
+
+Eine Vergütung für Bereitschaftsdienst und Rufbereitschaft erhalten Soldatinnen und Soldaten sowie Beamtinnen und Beamte in Bundeswehrkrankenhäusern mit Dienstbezügen nach der Bundesbesoldungsordnung A,
+
+- 1\. die innerhalb des Krankenhausbetriebs zur medizinischen Versorgung der Patientinnen und Patienten eingesetzt sind (Anspruchsberechtigte),
+- 2\. für die die regelmäßige wöchentliche Arbeitszeit gilt,
+- 3\. deren Arbeitszeit automatisiert erfasst wird und
+- 4\. die in Bundeswehrkrankenhäusern Bereitschaftsdienst außerhalb der regelmäßigen Arbeitszeit oder Rufbereitschaft leisten, wenn die geleisteten Zeiten aus zwingenden dienstlichen Gründen nicht innerhalb eines Jahres durch Freistellung vom Dienst ausgeglichen werden können.
+
+## § 2 Bereitschaftsdienst
+
+(1) Die während eines Kalendermonats geleisteten Zeiten eines Bereitschaftsdienstes werden entsprechend der durchschnittlich anfallenden tatsächlichen Inanspruchnahme während des Bereitschaftsdienstes wie folgt berücksichtigt:
+
+| Stufe | Durchschnittlich anfallende<br>tatsächliche Inanspruchnahme | Berücksichtigung zu |
+| --- | --- | --- |
+| I | bis zu 25 % | 60 % |
+| II | mehr als 25 % | 75 % |
+| III | mehr als 40 % | 90 % |
+
+Die tatsächliche Inanspruchnahme während des Bereitschaftsdienstes ist damit abgegolten.
+
+(2) Die Anspruchsberechtigten werden jeweils einer der in Absatz 1 Satz 1 genannten Stufen zugeordnet. Die Zuordnung richtet sich nach der jeweils durchschnittlich anfallenden tatsächlichen Inanspruchnahme aller Anspruchsberechtigten in einer Abteilung oder Sektion während aller Bereitschaftsdienste der betroffenen Dienstgradgruppen. Der Berechnung werden drei zusammenhängende Kalendermonate zugrunde gelegt. Nicht berücksichtigt werden Zeiten einer Tätigkeit, für die Gebühren nach der Gebührenordnung für Ärzte oder nach der Gebührenordnung für Zahnärzte berechnet werden können. Die Zuordnung ist mindestens einmal jährlich zu überprüfen. Sie kann nur mit Wirkung für die Zukunft geändert werden.
+
+## § 3 Rufbereitschaft
+
+(1) Zeiten einer Rufbereitschaft ohne tatsächliche Inanspruchnahme, die 10 Stunden im Kalendermonat übersteigen, werden zu einem Achtel berücksichtigt. Bei Teilzeitbeschäftigung werden die 10 Stunden im gleichen Verhältnis wie die Arbeitszeit gekürzt.
+
+(2) Zeiten einer tatsächlichen Inanspruchnahme während einer Rufbereitschaft werden vollständig berücksichtigt. § 2 Absatz 2 Satz 4 gilt entsprechend.
+
+## § 4 Gesamtzeit
+
+Die berücksichtigten Zeiten eines Kalendermonats sind zu addieren und danach auf volle Stunden zu runden (Gesamtzeit). Bei einem Bruchteil von mindestens 30 Minuten wird aufgerundet; ansonsten wird abgerundet.
+
+## § 5 Vergütung bei Vollzeitbeschäftigung
+
+Je Stunde der Gesamtzeit erhalten Vollzeitbeschäftigte
+
+- 1\. | | |
+  | --- | --- |
+  | der Besoldungsgruppen A 5<br>bis A 8 | 17,64 Euro, |
+- 2\. | | |
+  | --- | --- |
+  | der Besoldungsgruppen A 9<br>bis A 12 | 22,68 Euro, |
+- 3\. | | |
+  | --- | --- |
+  | der Besoldungsgruppe A 13 | 30,24 Euro, |
+- 4\. | | |
+  | --- | --- |
+  | der Besoldungsgruppe A 14 | 32,76 Euro, |
+- 5\. | | |
+  | --- | --- |
+  | der Besoldungsgruppen A 15<br>und A 16 | 35,28 Euro. |
+
+## § 6 Vergütung bei Teilzeitbeschäftigung
+
+(1) Teilzeitbeschäftigte erhalten je Stunde der Gesamtzeit bis zum Erreichen der regelmäßigen Arbeitszeit von Vollzeitbeschäftigten eine Vergütung in Höhe des auf 1 Stunde entfallenden Anteils der Besoldung entsprechender Vollzeitbeschäftigter.
+
+(2) Zur Ermittlung der auf 1 Stunde entfallenden anteiligen Besoldung sind die monatlichen Bezüge entsprechender Vollzeitbeschäftigter durch das 4,348-Fache ihrer regelmäßigen wöchentlichen Arbeitszeit zu teilen. Bezüge, die nicht der anteiligen Kürzung nach § 6 Absatz 1 des Bundesbesoldungsgesetzes unterliegen, bleiben unberücksichtigt.
+
+(3) Zeiten, die über die regelmäßige Arbeitszeit von Vollzeitbeschäftigten hinausgehen, werden nach § 5 vergütet.
+
+## § 7 Ausschluss des Vergütungsanspruchs
+
+Eine Vergütung wird nicht gewährt
+
+- 1\. für nach § 2 berücksichtigte Zeiten eines Bereitschaftsdienstes und Zeiten einer tatsächlichen Inanspruchnahme während angeordneter Rufbereitschaft, wenn die entsprechend § 4 gerundete Summe dieser Zeiten 5 Stunden im Kalendermonat nicht übersteigt; bei Teilzeitbeschäftigung werden die 5 Stunden im gleichen Verhältnis wie die Arbeitszeit gekürzt,
+- 2\. mit Feststellung des Spannungs- oder Verteidigungsfalles oder nach einem Beschluss nach Artikel 80a Absatz 3 Satz 1 des Grundgesetzes oder
+- 3\. für Dienste zur Erhöhung der Bereitschaft der Streitkräfte, die das Bundesministerium der Verteidigung anordnet, um die notwendige Reaktionsfähigkeit der Streitkräfte zur Wahrnehmung ihrer Aufgaben herzustellen.
